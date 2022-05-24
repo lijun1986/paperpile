@@ -1,49 +1,3 @@
-@BOOK{noauthor_undated-gh,
-  title     = "Tumor Microenvironment",
-  publisher = "Springer International Publishing"
-}
-
-@ARTICLE{Richart2022-xb,
-  title     = "{XIST} loss impairs mammary stem cell differentiation and
-               increases tumorigenicity through Mediator hyperactivation",
-  author    = "Richart, Laia and Picod-Chedotel, Mary-Loup and Wassef, Michel
-               and Macario, Manon and Aflaki, Setareh and Salvador, Marion A
-               and H{\'e}ry, Tiphaine and Dauphin, Aur{\'e}lien and Wicinski,
-               Julien and Chevrier, V{\'e}ronique and Pastor, Sonia and
-               Guittard, Geoffrey and Le Cam, Samuel and Kamhawi, Hanya and
-               Castellano, R{\'e}my and Guasch, G{\'e}raldine and
-               Charafe-Jauffret, Emmanuelle and Heard, Edith and Margueron,
-               Rapha{\"e}l and Ginestier, Christophe",
-  abstract  = "SummaryX inactivation (XCI) is triggered by upregulation of
-               XIST, which coats the chromosome in cis, promoting formation of
-               a heterochromatic domain (Xi). XIST role beyond initiation of
-               XCI is only beginning to be elucidated. Here, we demonstrate
-               that XIST loss impairs differentiation of human mammary stem
-               cells (MaSCs) and promotes emergence of highly tumorigenic and
-               metastatic carcinomas. On the Xi, XIST deficiency triggers
-               epigenetic changes and reactivation of genes overlapping
-               Polycomb domains, including Mediator subunit MED14. MED14
-               overdosage results in increased Mediator levels and
-               hyperactivation of the MaSC enhancer landscape and
-               transcriptional program, making differentiation less favorable.
-               We further demonstrate that loss of XIST and Xi transcriptional
-               instability is common among human breast tumors of poor
-               prognosis. We conclude that XIST is a gatekeeper of human
-               mammary epithelium homeostasis, thus unveiling a paradigm in the
-               control of somatic cell identity with potential consequences for
-               our understanding of gender-specific malignancies.",
-  journal   = "Cell",
-  publisher = "Elsevier",
-  volume    =  0,
-  number    =  0,
-  month     =  may,
-  year      =  2022,
-  keywords  = "XIST; X chromosome; transcriptional reactivation; polycomb;
-               human mammary stem cell; homeostasis; differentiation; Mediator;
-               enhancers; breast tumorigenesis;Xist",
-  language  = "en"
-}
-
 @ARTICLE{Tacconi2021-ib,
   title       = "{CD169+} lymph node macrophages have protective functions in
                  mouse breast cancer metastasis",
@@ -80,162 +34,6 @@
                  macrophages; tumor-draining lymph node",
   language    = "en",
   original_id = "79fb70b1-c278-0f80-af02-42f563e36698"
-}
-
-@ARTICLE{Zhu2017-om,
-  title    = "{Tissue-Resident} Macrophages in Pancreatic Ductal Adenocarcinoma
-              Originate from Embryonic Hematopoiesis and Promote Tumor
-              Progression",
-  author   = "Zhu, Yu and Herndon, John M and Sojka, Dorothy K and Kim, Ki-Wook
-              and Knolhoff, Brett L and Zuo, Chong and Cullinan, Darren R and
-              Luo, Jingqin and Bearden, Audrey R and Lavine, Kory J and
-              Yokoyama, Wayne M and Hawkins, William G and Fields, Ryan C and
-              Randolph, Gwendalyn J and DeNardo, David G",
-  journal  = "Immunity",
-  volume   =  47,
-  number   =  3,
-  pages    = "597",
-  month    =  sep,
-  year     =  2017,
-  language = "en"
-}
-
-@ARTICLE{Ouzounova2017-ff,
-  title       = "Monocytic and granulocytic myeloid derived suppressor cells
-                 differentially regulate spatiotemporal tumour plasticity
-                 during metastatic cascade",
-  author      = "Ouzounova, Maria and Lee, Eunmi and Piranlioglu, Raziye and El
-                 Andaloussi, Abdeljabar and Kolhe, Ravindra and Demirci, Mehmet
-                 F and Marasco, Daniela and Asm, Iskander and Chadli, Ahmed and
-                 Hassan, Khaled A and Thangaraju, Muthusamy and Zhou, Gang and
-                 Arbab, Ali S and Cowell, John K and Korkaya, Hasan",
-  abstract    = "It is widely accepted that dynamic and reversible tumour cell
-                 plasticity is required for metastasis, however, in vivo steps
-                 and molecular mechanisms are poorly elucidated. We demonstrate
-                 here that monocytic (mMDSC) and granulocytic (gMDSC) subsets
-                 of myeloid-derived suppressor cells infiltrate in the primary
-                 tumour and distant organs with different time kinetics and
-                 regulate spatiotemporal tumour plasticity. Using co-culture
-                 experiments and mouse transcriptome analyses in syngeneic
-                 mouse models, we provide evidence that tumour-infiltrated
-                 mMDSCs facilitate tumour cell dissemination from the primary
-                 site by inducing EMT/CSC phenotype. In contrast, pulmonary
-                 gMDSC infiltrates support the metastatic growth by reverting
-                 EMT/CSC phenotype and promoting tumour cell proliferation.
-                 Furthermore, lung-derived gMDSCs isolated from tumour-bearing
-                 animals enhance metastatic growth of already disseminated
-                 tumour cells. MDSC-induced 'metastatic gene signature' derived
-                 from murine syngeneic model predicts poor patient survival in
-                 the majority of human solid tumours. Thus spatiotemporal MDSC
-                 infiltration may have clinical implications in tumour
-                 progression.",
-  journal     = "Nat. Commun.",
-  volume      =  8,
-  pages       = "14979",
-  month       =  apr,
-  year        =  2017,
-  language    = "en",
-  original_id = "c082a089-f4f8-0f49-b4c5-f1e975faa17b"
-}
-
-@ARTICLE{Nagarsheth2017-gk,
-  title    = "Chemokines in the cancer microenvironment and their relevance in
-              cancer immunotherapy",
-  author   = "Nagarsheth, Nisha and Wicha, Max S and Zou, Weiping",
-  abstract = "The tumour microenvironment is the primary location in which
-              tumour cells and the host immune system interact. Different
-              immune cell subsets are recruited into the tumour
-              microenvironment via interactions between chemokines and
-              chemokine receptors, and these populations have distinct effects
-              on tumour progression and therapeutic outcomes. In this Review,
-              we focus on the main chemokines that are found in the human
-              tumour microenvironment; we elaborate on their patterns of
-              expression, their regulation and their roles in immune cell
-              recruitment and in cancer and stromal cell biology, and we
-              consider how they affect cancer immunity and tumorigenesis. We
-              also discuss the potential of targeting chemokine networks, in
-              combination with other immunotherapies, for the treatment of
-              cancer.",
-  journal  = "Nat. Rev. Immunol.",
-  volume   =  17,
-  number   =  9,
-  pages    = "559--572",
-  month    =  sep,
-  year     =  2017,
-  language = "en"
-}
-
-@ARTICLE{Lee2018-ns,
-  title       = "Macrophage-secreted interleukin-35 regulates cancer cell
-                 plasticity to facilitate metastatic colonization",
-  author      = "Lee, Chih-Chan and Lin, Jiunn-Chang and Hwang, Wei-Lun and
-                 Kuo, Ying-Ju and Chen, Hung-Kai and Tai, Shyh-Kuan and Lin,
-                 Chun-Chi and Yang, Muh-Hwa",
-  abstract    = "A favorable interplay between cancer cells and the tumor
-                 microenvironment (TME) facilitates the outgrowth of metastatic
-                 tumors. Because of the distinct initiating processes between
-                 primary and metastatic tumors, we investigate the differences
-                 in tumor-associated macrophages (TAMs) from primary and
-                 metastatic cancers. Here we show that dual expression of M1
-                 and M2 markers is noted in TAMs from primary tumors, whereas
-                 predominant expression of M2 markers is shown in metastatic
-                 TAMs. At metastatic sites, TAMs secrete interleukin-35 (IL-35)
-                 to facilitate metastatic colonization through activation of
-                 JAK2-STAT6-GATA3 signaling to reverse epithelial-mesenchymal
-                 transition (EMT) in cancer cells. In primary tumors,
-                 inflammation-induced EMT upregulates IL12R$\beta$2, a subunit
-                 of the IL-35 receptor, in cancer cells to help them respond to
-                 IL-35 during metastasis. Neutralization of IL-35 or knockout
-                 of IL-35 in macrophages reduces metastatic colonization. These
-                 results indicate the distinct TMEs of primary and metastatic
-                 tumors and provide potential targets for intercepting
-                 metastasis.",
-  journal     = "Nat. Commun.",
-  volume      =  9,
-  number      =  1,
-  pages       = "3763",
-  month       =  sep,
-  year        =  2018,
-  language    = "en",
-  original_id = "64729fe5-d560-01d5-9796-7a5bece2296f"
-}
-
-@ARTICLE{Er2018-ps,
-  title       = "Pericyte-like spreading by disseminated cancer cells activates
-                 {YAP} and {MRTF} for metastatic colonization",
-  author      = "Er, Ekrem Emrah and Valiente, Manuel and Ganesh, Karuna and
-                 Zou, Yilong and Agrawal, Saloni and Hu, Jing and Griscom,
-                 Bailey and Rosenblum, Marc and Boire, Adrienne and Brogi, Edi
-                 and Giancotti, Filippo G and Schachner, Melitta and Malladi,
-                 Srinivas and Massagu{\'e}, Joan",
-  abstract    = "Metastatic seeding by disseminated cancer cells principally
-                 occurs in perivascular niches. Here, we show that
-                 mechanotransduction signalling triggered by the pericyte-like
-                 spreading of disseminated cancer cells on host tissue
-                 capillaries is critical for metastatic colonization.
-                 Disseminated cancer cells employ L1CAM (cell adhesion molecule
-                 L1) to spread on capillaries and activate the
-                 mechanotransduction effectors YAP (Yes-associated protein) and
-                 MRTF (myocardin-related transcription factor). This spreading
-                 is robust enough to displace resident pericytes, which also
-                 use L1CAM for perivascular spreading. L1CAM activates YAP by
-                 engaging $\beta$1 integrin and ILK (integrin-linked kinase).
-                 L1CAM and YAP signalling enables the outgrowth of
-                 metastasis-initiating cells both immediately following their
-                 infiltration of target organs and after they exit from a
-                 period of latency. Our results identify an important step in
-                 the initiation of metastatic colonization, define its
-                 molecular constituents and provide an explanation for the
-                 widespread association of L1CAM with metastatic relapse in the
-                 clinic.",
-  journal     = "Nat. Cell Biol.",
-  volume      =  20,
-  number      =  8,
-  pages       = "966--978",
-  month       =  aug,
-  year        =  2018,
-  language    = "en",
-  original_id = "57903e11-369c-02ff-84ad-9a92c5dc38dd"
 }
 
 @ARTICLE{Dawod2020-or,
@@ -283,6 +81,270 @@
   original_id = "48b2be91-4d6d-0d9a-8919-fee5fea4fe44"
 }
 
+@ARTICLE{Bosiljcic2019-en,
+  title       = "Targeting myeloid-derived suppressor cells in combination with
+                 primary mammary tumor resection reduces metastatic growth in
+                 the lungs",
+  author      = "Bosiljcic, Momir and Cederberg, Rachel A and Hamilton, Melisa
+                 J and LePard, Nancy E and Harbourne, Bryant T and Collier,
+                 Jenna L and Halvorsen, Elizabeth C and Shi, Rocky and Franks,
+                 S Elizabeth and Kim, Ada Y and Ban{\'a}th, Judit P and Hamer,
+                 Mark and Rossi, Fabio M and Bennewith, Kevin L",
+  abstract    = "BACKGROUND: Solid tumors produce proteins that can induce the
+                 accumulation of bone marrow-derived cells in various tissues,
+                 and these cells can enhance metastatic tumor growth by several
+                 mechanisms. 4T1 murine mammary tumors are known to produce
+                 granulocyte colony-stimulating factor (G-CSF) and increase the
+                 numbers of immunosuppressive CD11b+Gr1+ myeloid-derived
+                 suppressor cells (MDSCs) in tissues such as the spleen and
+                 lungs of tumor-bearing mice. While surgical resection of
+                 primary tumors decreases MDSC levels in the spleen, the
+                 longevity and impact of MDSCs and other immune cells in the
+                 lungs after tumor resection have been less studied. METHODS:
+                 We used mass cytometry time of flight (CyTOF) and flow
+                 cytometry to quantify MDSCs in the spleen, peripheral blood,
+                 and lungs of mice bearing orthotopic murine mammary tumors. We
+                 also tested the effect of primary tumor resection and/or
+                 gemcitabine treatment on the levels of MDSCs, other immune
+                 suppressor and effector cells, and metastatic tumor cells in
+                 the lungs. RESULTS: We have found that, similar to mice with
+                 4T1 tumors, mice bearing metastatic 4T07 tumors also exhibit
+                 accumulation of CD11b+Gr1+ MDSCs in the spleen and lungs,
+                 while tissues of mice with non-metastatic 67NR tumors do not
+                 contain MDSCs. Mice with orthotopically implanted 4T1 tumors
+                 have increased granulocytic (G-) MDSCs, monocytic (M-) MDSCs,
+                 macrophages, eosinophils, and NK cells in the lungs. Resection
+                 of primary 4T1 tumors decreases G-MDSCs, M-MDSCs, and
+                 macrophages in the lungs within 48 h, but significant numbers
+                 of functional immunosuppressive G-MDSCs persist in the lungs
+                 for 2 weeks after tumor resection, indicative of an
+                 environment that can promote metastatic tumor growth. The
+                 chemotherapeutic agent gemcitabine depletes G-MDSCs, M-MDSCs,
+                 macrophages, and eosinophils in the lungs of 4T1 tumor-bearing
+                 mice, and we found that treating mice with gemcitabine after
+                 primary tumor resection decreases residual G-MDSCs in the
+                 lungs and decreases subsequent metastatic growth. CONCLUSIONS:
+                 Our data support the development of therapeutic strategies to
+                 target MDSCs and to monitor MDSC levels before and after
+                 primary tumor resection to enhance the effectiveness of
+                 immune-based therapies and improve the treatment of metastatic
+                 breast cancer in the clinic.",
+  journal     = "Breast Cancer Res.",
+  volume      =  21,
+  number      =  1,
+  pages       = "103",
+  month       =  sep,
+  year        =  2019,
+  keywords    = "4T07; 4T1; 67NR; Eosinophils; Gemcitabine; Macrophages;
+                 Metastasis; Myeloid-derived suppressor cells; Tumor resection",
+  language    = "en",
+  original_id = "a01259cc-9eec-0efc-b67e-2b396d3afe6b"
+}
+
+@MISC{noauthor_undated-uh,
+  title        = "Granulocyte-colony stimulating factor promotes lung
+                  metastasis through mobilization of {Ly6G+Ly6C+} granulocytes",
+  booktitle    = "{PNAS}",
+  abstract     = "Priming of the organ-specific premetastatic sites is thought
+                  to be an important yet incompletely understood step during
+                  metastasis. In this study, we ...",
+  howpublished = "\url{https://www.pnas.org/doi/full/10.1073/pnas.1015855107}",
+  note         = "Accessed: 2022-5-15",
+  language     = "en",
+  original_id  = "f640c65a-4cc9-08ce-8379-32bee988c95a"
+}
+
+@ARTICLE{Milling2022-ay,
+  title    = "Neoadjuvant {STING} Activation, Extended Half-life {IL2}, and
+              Checkpoint Blockade Promote Metastasis Clearance via Sustained
+              {NK-cell} Activation",
+  author   = "Milling, Lauren E and Garafola, Daniel and Agarwal, Yash and Wu,
+              Shengwei and Thomas, Ayush and Donahue, Nathan and Adams, Josetta
+              and Thai, Nikki and Suh, Heikyung and Irvine, Darrell J",
+  abstract = "Combination immunotherapy treatments that recruit both innate and
+              adaptive immunity have the potential to increase cancer response
+              rates by engaging a more complete repertoire of effector
+              mechanisms. Here, we combined intratumoral STimulator of
+              INterferon Genes (STING) agonist therapy with systemically
+              injected extended half-life IL2 and anti-PD-1 checkpoint blockade
+              (hereafter CIP therapy) to drive innate and adaptive antitumor
+              immunity in models of triple-negative breast cancer. Unlike
+              treatment with the individual components, this trivalent
+              immunotherapy halted primary tumor progression and led to
+              long-term remission for a majority of animals in two
+              spontaneously metastasizing orthotopic breast tumor models,
+              though only as a neoadjuvant therapy but not adjuvant therapy.
+              CIP therapy induced antitumor T-cell responses, but protection
+              from metastatic relapse depended on natural killer (NK) cells.
+              The combination of STING agonists with IL2/anti-PD-1 synergized
+              to stimulate sustained granzyme and cytokine expression by
+              lung-infiltrating NK cells. Type I IFNs generated as a result of
+              STING agonism, combined with IL2, acted in a positive-feedback
+              loop by enhancing the expression of IFNAR-1 and CD25 on lung NK
+              cells. These results suggest that NK cells can be therapeutically
+              targeted to effectively eliminate tumor metastases.See related
+              Spotlight by Demaria, p. 3.",
+  journal  = "Cancer Immunol Res",
+  volume   =  10,
+  number   =  1,
+  pages    = "26--39",
+  month    =  jan,
+  year     =  2022,
+  language = "en"
+}
+
+@ARTICLE{Stackowicz2019-gb,
+  title       = "Mouse Models and Tools for the in vivo Study of Neutrophils",
+  author      = "Stackowicz, Julien and J{\"o}nsson, Friederike and Reber,
+                 Laurent L",
+  abstract    = "Neutrophils are the most abundant leukocytes in human blood
+                 and critical actors of the immune system. Many neutrophil
+                 functions and facets of their activity in vivo were revealed
+                 by studying genetically modified mice or by tracking
+                 fluorescent neutrophils in animals using imaging approaches.
+                 Assessing the roles of neutrophils can be challenging,
+                 especially when exact molecular pathways are questioned or
+                 disease states are interrogated that alter normal neutrophil
+                 homeostasis. This review discusses the main in vivo models for
+                 the study of neutrophils, their advantages and limitations.
+                 The side-by-side comparison underlines the necessity to
+                 carefully choose the right model(s) to answer a given
+                 scientific question, and exhibit caveats that need to be taken
+                 into account when designing experimental procedures.
+                 Collectively, this review suggests that at least two models
+                 should be employed to legitimately conclude on neutrophil
+                 functions.",
+  journal     = "Front. Immunol.",
+  volume      =  10,
+  pages       = "3130",
+  year        =  2019,
+  keywords    = "Cre-recombinase; Gfi-1; NETosis; depletion; diphtheria toxin;
+                 mouse models; neutrophils",
+  language    = "en",
+  original_id = "473ad5f7-b127-0bf0-bf45-c1287dd4427b"
+}
+
+@BOOK{noauthor_undated-gh,
+  title     = "Tumor Microenvironment",
+  publisher = "Springer International Publishing"
+}
+
+@ARTICLE{Cotechini2021-zr,
+  title    = "{Tissue-Resident} and Recruited Macrophages in Primary Tumor and
+              Metastatic Microenvironments: Potential Targets in Cancer Therapy",
+  author   = "Cotechini, Tiziana and Atallah, Aline and Grossman, Arielle",
+  abstract = "Macrophages within solid tumors and metastatic sites are
+              heterogenous populations with different developmental origins and
+              substantially contribute to tumor progression. A number of
+              tumor-promoting phenotypes associated with both tumor- and
+              metastasis-associated macrophages are similar to innate programs
+              of embryonic-derived tissue-resident macrophages. In contrast to
+              recruited macrophages originating from marrow precursors,
+              tissue-resident macrophages are seeded before birth and function
+              to coordinate tissue remodeling and maintain tissue integrity and
+              homeostasis. Both recruited and tissue-resident macrophage
+              populations contribute to tumor growth and metastasis and are
+              important mediators of resistance to chemotherapy, radiation
+              therapy, and immune checkpoint blockade. Thus, targeting various
+              macrophage populations and their tumor-promoting phenotypes holds
+              therapeutic promise. Here, we discuss various macrophage
+              populations as regulators of tumor progression, immunity, and
+              immunotherapy. We provide an overview of macrophage targeting
+              strategies, including therapeutics designed to induce macrophage
+              depletion, impair recruitment, and induce repolarization. We also
+              provide a perspective on the therapeutic potential for
+              macrophage-specific acquisition of trained immunity as an
+              anti-cancer agent and discuss the therapeutic potential of
+              exploiting macrophages and their traits to reduce tumor burden.",
+  journal  = "Cells",
+  volume   =  10,
+  number   =  4,
+  month    =  apr,
+  year     =  2021,
+  keywords = "cancer; depletion; immune therapy; metastasis-associated
+              macrophage; monocyte; recruitment; repolarization;
+              tissue-resident macrophages; trained immunity; tumor
+              microenvironment; tumor-associated macrophages",
+  language = "en"
+}
+
+@ARTICLE{Skelton2001-uz,
+  title    = "The enhanced green fluorescent protein ({eGFP}) is minimally
+              immunogenic in {C57BL/6} mice",
+  author   = "Skelton, D and Satake, N and Kohn, D B",
+  journal  = "Gene Ther.",
+  volume   =  8,
+  number   =  23,
+  pages    = "1813--1814",
+  month    =  dec,
+  year     =  2001,
+  keywords = "mouse model",
+  language = "en"
+}
+
+@ARTICLE{noauthor_undated-qv,
+  title       = "{ADA454757.pdf}",
+  original_id = "801691e9-2d37-0866-9271-ba82ce4e52c4"
+}
+
+@ARTICLE{Zhu2017-om,
+  title    = "{Tissue-Resident} Macrophages in Pancreatic Ductal Adenocarcinoma
+              Originate from Embryonic Hematopoiesis and Promote Tumor
+              Progression",
+  author   = "Zhu, Yu and Herndon, John M and Sojka, Dorothy K and Kim, Ki-Wook
+              and Knolhoff, Brett L and Zuo, Chong and Cullinan, Darren R and
+              Luo, Jingqin and Bearden, Audrey R and Lavine, Kory J and
+              Yokoyama, Wayne M and Hawkins, William G and Fields, Ryan C and
+              Randolph, Gwendalyn J and DeNardo, David G",
+  journal  = "Immunity",
+  volume   =  47,
+  number   =  3,
+  pages    = "597",
+  month    =  sep,
+  year     =  2017,
+  language = "en"
+}
+
+@ARTICLE{Swierczak2014-pb,
+  title       = "The promotion of breast cancer metastasis caused by inhibition
+                 of {CSF-1R/CSF-1} signaling is blocked by targeting the
+                 {G-CSF} receptor",
+  author      = "Swierczak, Agnieszka and Cook, Andrew D and Lenzo, Jason C and
+                 Restall, Christina M and Doherty, Judy P and Anderson, Robin L
+                 and Hamilton, John A",
+  abstract    = "Treatment options are limited for patients with breast cancer
+                 presenting with metastatic disease. Targeting of
+                 tumor-associated macrophages through the inhibition of
+                 colony-stimulating factor-1 receptor (CSF-1R), a key
+                 macrophage signaling pathway, has been reported to reduce
+                 tumor growth and metastasis, and these treatments are now in
+                 clinical trials. Here, we report that, surprisingly, treatment
+                 with neutralizing anti-CSF-1R and anti-CSF-1 antibodies, or
+                 with two different small-molecule inhibitors of CSF-1R, could
+                 actually increase spontaneous metastasis without altering
+                 primary tumor growth in mice bearing two independently derived
+                 mammary tumors. The blockade of CSF-1R or CSF-1 led to
+                 increased levels of serum G-CSF, increased frequency of
+                 neutrophils in the primary tumor and in the
+                 metastasis-associated lung, as well as increased numbers of
+                 neutrophils and Ly6C(hi) monocytes in the peripheral blood.
+                 Neutralizing antibody against the G-CSF receptor, which
+                 regulates neutrophil development and function, reduced the
+                 enhanced metastasis and neutrophil numbers that resulted from
+                 CSF-1R blockade. These results indicate that the role of the
+                 CSF-1R/CSF-1 system in breast cancer is far more complex than
+                 originally proposed, and requires further investigation as a
+                 therapeutic target.",
+  journal     = "Cancer Immunol Res",
+  volume      =  2,
+  number      =  8,
+  pages       = "765--776",
+  month       =  aug,
+  year        =  2014,
+  language    = "en",
+  original_id = "bf10b763-391d-0ae7-920e-f94cf7bcdd43"
+}
+
 @ARTICLE{Zeisberger2006-dg,
   title       = "Clodronate-liposome-mediated depletion of tumour-associated
                  macrophages: a new and highly effective antiangiogenic therapy
@@ -328,150 +390,6 @@
   year        =  2006,
   language    = "en",
   original_id = "45d83228-e494-0f92-9ab9-1b784afbe395"
-}
-
-@ARTICLE{Skelton2001-uz,
-  title    = "The enhanced green fluorescent protein ({eGFP}) is minimally
-              immunogenic in {C57BL/6} mice",
-  author   = "Skelton, D and Satake, N and Kohn, D B",
-  journal  = "Gene Ther.",
-  volume   =  8,
-  number   =  23,
-  pages    = "1813--1814",
-  month    =  dec,
-  year     =  2001,
-  keywords = "mouse model",
-  language = "en"
-}
-
-@UNPUBLISHED{Zhang2020-an,
-  title    = "{CECR2} Drives Breast Cancer Metastasis by Suppressing Macrophage
-              Inflammatory Responses",
-  author   = "Zhang, Meiling and Liu, Zongzhi Z and Aoshima, Keisuke and Zhang,
-              Yangyi and An, Yongyan and Aoshima, Asako and Chan, Lok Hei and
-              Lang, Sabine M and Sun, Hongyi and Tang, Zhenwei and Rutter, Sara
-              J and Booth, Carmen J and Bossuyt, Veerle and Chen, Xiang and
-              Morrow, Jon S and Pusztai, Lajos and Rimm, David L and Yin,
-              Mingzhu and Yan, Qin",
-  abstract = "Epigenetic and transcriptional changes are critical for
-              metastasis, the major cause of cancer-related deaths. Metastatic
-              tumor cells escape immune surveillance more efficiently than
-              tumor cells in the primary sites, but the mechanisms controlling
-              their immune evasion are poorly understood. We found that distal
-              metastases are more immune inert with increased M2 macrophages
-              compared to their matched primary tumors. Acetyl-lysine reader
-              CECR2 is an epigenetic regulator upregulated in metastases and
-              positively associated with M2 macrophages. CECR2 specifically
-              promotes breast cancer metastasis in multiple mouse models, with
-              more profound effect in the immunocompetent setting.
-              Mechanistically, NF-$\kappa$B family member RELA recruits CECR2
-              to activate CSF1 and CXCL1 , which are critical for
-              macrophage-mediated immunosuppression at the metastatic sites.
-              Furthermore, pharmacological inhibition of CECR2 bromodomain
-              impedes NF-$\kappa$B-mediated immune suppression by macrophages
-              and inhibits breast cancer metastasis. These results reveal novel
-              therapeutic strategies to treat metastatic breast cancer.
-              Statement of Significance Comparison of matched primary breast
-              tumors and distal metastases show that metastases are more immune
-              inert with increased tumor promoting macrophages. Depletion or
-              pharmacological inhibition of CECR2 inhibits breast cancer
-              metastasis by suppressing macrophage inflammatory responses,
-              nominating CECR2 as a promising therapeutic target for cancer
-              metastasis. \#\#\# Competing Interest Statement The authors have
-              declared no competing interest.",
-  journal  = "bioRxiv",
-  pages    = "2020.09.10.291799",
-  month    =  oct,
-  year     =  2020,
-  language = "en"
-}
-
-@UNPUBLISHED{Vergato2021-lm,
-  title    = "{Type-I} interferon signaling is essential for robust metronomic
-              chemo-immunogenic tumor regression in murine triple-negative
-              breast cancer",
-  author   = "Vergato, Cameron and Doshi, Kshama A and Roblyer, Darren and
-              Waxman, David J",
-  abstract = "Triple-negative breast cancer (TNBC) is characterized by poor
-              prognosis and aggressive growth, with limited therapeutic options
-              for many patients. Here, we use two syngeneic mouse TNBC models,
-              4T1 and E0771, to investigate the chemo-immunogenic potential of
-              cyclophosphamide and the mechanistic contributions of
-              cyclophosphamide-activated type-I interferon (IFN) signaling to
-              therapeutic activity. Chemically-activated cyclophosphamide
-              induced robust IFN$\alpha$/$\beta$ receptor-1-dependent signaling
-              linked to hundreds of IFN-stimulated gene responses in both TNBC
-              lines. Further, in 4T1 tumors, cyclophosphamide given on a
-              medium-dose, 6-day intermittent metronomic schedule induced
-              strong IFN signaling but comparatively weak immune cell
-              infiltration associated with long-term tumor growth stasis.
-              Induction of IFN signaling was somewhat weaker in E0771 tumors
-              but was followed by extensive downstream gene responses, robust
-              immune cell infiltration and prolonged tumor regression. The
-              immune dependence of these effective anti-tumor responses was
-              established by CD8 T-cell immunodepletion, which blocked
-              cyclophosphamide-induced E0771 tumor regression and led to tumor
-              stasis followed by regrowth. Strikingly, IFN$\alpha$/$\beta$
-              receptor-1 antibody blockade was even more effective in
-              preventing E0771 immune cell infiltration and blocked the major
-              tumor regression induced by cyclophosphamide treatment. Type-I
-              IFN signaling is thus essential for the robust chemo-immunogenic
-              response of these TNBC tumors to cyclophosphamide administered on
-              a metronomic schedule. Significance TNBC has poor prognosis and
-              few therapeutic options. We show that cyclophosphamide treatment
-              can induces extensive tumor regression in syngeneic mouse models
-              of TNBC via a chemo-immunogenic mechanism linked to type-I IFN
-              production. Our findings establish that IFN signaling is
-              essential for the robust anti-tumor actions of cyclophosphamide
-              and suggest that treatment resistance may stem from silencing the
-              IFN pathway. This suggests a new avenue for improving TNBC
-              treatment efficacy. \#\#\# Competing Interest Statement The
-              authors have declared no competing interest.",
-  journal  = "bioRxiv",
-  pages    = "2021.12.05.471293",
-  month    =  dec,
-  year     =  2021,
-  language = "en"
-}
-
-@ARTICLE{Takahashi2015-kz,
-  title    = "Mammary tissue microenvironment determines {T} cell-dependent
-              breast cancer-associated inflammation",
-  author   = "Takahashi, Kei and Nagai, Nao and Ogura, Keisuke and Tsuneyama,
-              Koichi and Saiki, Ikuo and Irimura, Tatsuro and Hayakawa,
-              Yoshihiro",
-  abstract = "Although the importance of the host tissue microenvironment in
-              cancer progression and metastasis has been established, the
-              spatiotemporal process establishing a cancer metastasis-prone
-              tissue microenvironment remains unknown. In this study, we aim to
-              understand the immunological character of a metastasis-prone
-              microenvironment in a murine 4T1 breast tumor model, by using the
-              activation of nuclear factor-$\kappa$b (NF-$\kappa$B) in cancer
-              cells as a sensor of inflammatory status and by monitoring its
-              activity by bioluminescence imaging. By using a 4T1 breast cancer
-              cell line stably expressing an NF-$\kappa$B/Luc2 reporter gene
-              (4T1 NF-$\kappa$B cells), we observed significantly increased
-              bioluminescence approximately 7 days after metastasis-prone
-              orthotopic mammary fat-pad inoculation but not ectopic s.c.
-              inoculation of 4T1 NF-$\kappa$B cells. Such in vivo NF-$\kappa$B
-              activation within the fat-pad 4T1 tumor was diminished in
-              immune-deficient SCID or nude mice, or T cell-depleted mice,
-              suggesting the requirement of host T cell-mediated immune
-              responses. Given the fat-pad 4T1 tumor expressed higher
-              inflammatory mediators in a T cell-dependent mechanism compared
-              to the s.c. tumor, our results imply the importance of the
-              surrounding tissue microenvironment for inflaming tumors by
-              collaborating with T cells to instigate metastatic spread of 4T1
-              breast cancer cells.",
-  journal  = "Cancer Sci.",
-  volume   =  106,
-  number   =  7,
-  pages    = "867--874",
-  month    =  jul,
-  year     =  2015,
-  keywords = "Breast cancer; T cell; imaging; inflammation; tissue
-              microenvironment",
-  language = "en"
 }
 
 @ARTICLE{Franklin2014-vh,
@@ -562,6 +480,309 @@
   original_id = "10455c67-8fef-0fe4-b8b6-959fb645965e"
 }
 
+@ARTICLE{Lee2018-ns,
+  title       = "Macrophage-secreted interleukin-35 regulates cancer cell
+                 plasticity to facilitate metastatic colonization",
+  author      = "Lee, Chih-Chan and Lin, Jiunn-Chang and Hwang, Wei-Lun and
+                 Kuo, Ying-Ju and Chen, Hung-Kai and Tai, Shyh-Kuan and Lin,
+                 Chun-Chi and Yang, Muh-Hwa",
+  abstract    = "A favorable interplay between cancer cells and the tumor
+                 microenvironment (TME) facilitates the outgrowth of metastatic
+                 tumors. Because of the distinct initiating processes between
+                 primary and metastatic tumors, we investigate the differences
+                 in tumor-associated macrophages (TAMs) from primary and
+                 metastatic cancers. Here we show that dual expression of M1
+                 and M2 markers is noted in TAMs from primary tumors, whereas
+                 predominant expression of M2 markers is shown in metastatic
+                 TAMs. At metastatic sites, TAMs secrete interleukin-35 (IL-35)
+                 to facilitate metastatic colonization through activation of
+                 JAK2-STAT6-GATA3 signaling to reverse epithelial-mesenchymal
+                 transition (EMT) in cancer cells. In primary tumors,
+                 inflammation-induced EMT upregulates IL12R$\beta$2, a subunit
+                 of the IL-35 receptor, in cancer cells to help them respond to
+                 IL-35 during metastasis. Neutralization of IL-35 or knockout
+                 of IL-35 in macrophages reduces metastatic colonization. These
+                 results indicate the distinct TMEs of primary and metastatic
+                 tumors and provide potential targets for intercepting
+                 metastasis.",
+  journal     = "Nat. Commun.",
+  volume      =  9,
+  number      =  1,
+  pages       = "3763",
+  month       =  sep,
+  year        =  2018,
+  language    = "en",
+  original_id = "64729fe5-d560-01d5-9796-7a5bece2296f"
+}
+
+@ARTICLE{Er2018-ps,
+  title       = "Pericyte-like spreading by disseminated cancer cells activates
+                 {YAP} and {MRTF} for metastatic colonization",
+  author      = "Er, Ekrem Emrah and Valiente, Manuel and Ganesh, Karuna and
+                 Zou, Yilong and Agrawal, Saloni and Hu, Jing and Griscom,
+                 Bailey and Rosenblum, Marc and Boire, Adrienne and Brogi, Edi
+                 and Giancotti, Filippo G and Schachner, Melitta and Malladi,
+                 Srinivas and Massagu{\'e}, Joan",
+  abstract    = "Metastatic seeding by disseminated cancer cells principally
+                 occurs in perivascular niches. Here, we show that
+                 mechanotransduction signalling triggered by the pericyte-like
+                 spreading of disseminated cancer cells on host tissue
+                 capillaries is critical for metastatic colonization.
+                 Disseminated cancer cells employ L1CAM (cell adhesion molecule
+                 L1) to spread on capillaries and activate the
+                 mechanotransduction effectors YAP (Yes-associated protein) and
+                 MRTF (myocardin-related transcription factor). This spreading
+                 is robust enough to displace resident pericytes, which also
+                 use L1CAM for perivascular spreading. L1CAM activates YAP by
+                 engaging $\beta$1 integrin and ILK (integrin-linked kinase).
+                 L1CAM and YAP signalling enables the outgrowth of
+                 metastasis-initiating cells both immediately following their
+                 infiltration of target organs and after they exit from a
+                 period of latency. Our results identify an important step in
+                 the initiation of metastatic colonization, define its
+                 molecular constituents and provide an explanation for the
+                 widespread association of L1CAM with metastatic relapse in the
+                 clinic.",
+  journal     = "Nat. Cell Biol.",
+  volume      =  20,
+  number      =  8,
+  pages       = "966--978",
+  month       =  aug,
+  year        =  2018,
+  language    = "en",
+  original_id = "57903e11-369c-02ff-84ad-9a92c5dc38dd"
+}
+
+@ARTICLE{Ouzounova2017-ff,
+  title       = "Monocytic and granulocytic myeloid derived suppressor cells
+                 differentially regulate spatiotemporal tumour plasticity
+                 during metastatic cascade",
+  author      = "Ouzounova, Maria and Lee, Eunmi and Piranlioglu, Raziye and El
+                 Andaloussi, Abdeljabar and Kolhe, Ravindra and Demirci, Mehmet
+                 F and Marasco, Daniela and Asm, Iskander and Chadli, Ahmed and
+                 Hassan, Khaled A and Thangaraju, Muthusamy and Zhou, Gang and
+                 Arbab, Ali S and Cowell, John K and Korkaya, Hasan",
+  abstract    = "It is widely accepted that dynamic and reversible tumour cell
+                 plasticity is required for metastasis, however, in vivo steps
+                 and molecular mechanisms are poorly elucidated. We demonstrate
+                 here that monocytic (mMDSC) and granulocytic (gMDSC) subsets
+                 of myeloid-derived suppressor cells infiltrate in the primary
+                 tumour and distant organs with different time kinetics and
+                 regulate spatiotemporal tumour plasticity. Using co-culture
+                 experiments and mouse transcriptome analyses in syngeneic
+                 mouse models, we provide evidence that tumour-infiltrated
+                 mMDSCs facilitate tumour cell dissemination from the primary
+                 site by inducing EMT/CSC phenotype. In contrast, pulmonary
+                 gMDSC infiltrates support the metastatic growth by reverting
+                 EMT/CSC phenotype and promoting tumour cell proliferation.
+                 Furthermore, lung-derived gMDSCs isolated from tumour-bearing
+                 animals enhance metastatic growth of already disseminated
+                 tumour cells. MDSC-induced 'metastatic gene signature' derived
+                 from murine syngeneic model predicts poor patient survival in
+                 the majority of human solid tumours. Thus spatiotemporal MDSC
+                 infiltration may have clinical implications in tumour
+                 progression.",
+  journal     = "Nat. Commun.",
+  volume      =  8,
+  pages       = "14979",
+  month       =  apr,
+  year        =  2017,
+  language    = "en",
+  original_id = "c082a089-f4f8-0f49-b4c5-f1e975faa17b"
+}
+
+@ARTICLE{Sunderkotter2004-bj,
+  title    = "Subpopulations of mouse blood monocytes differ in maturation
+              stage and inflammatory response",
+  author   = "Sunderk{\"o}tter, Cord and Nikolic, Tatjana and Dillon, Marilyn J
+              and Van Rooijen, Nico and Stehling, Martin and Drevets, Douglas A
+              and Leenen, Pieter J M",
+  abstract = "Blood monocytes are well-characterized precursors for macrophages
+              and dendritic cells. Subsets of human monocytes with differential
+              representation in various disease states are well known. In
+              contrast, mouse monocyte subsets have been characterized
+              minimally. In this study we identify three subpopulations of
+              mouse monocytes that can be distinguished by differential
+              expression of Ly-6C, CD43, CD11c, MBR, and CD62L. The subsets
+              share the characteristics of extensive phagocytosis, similar
+              expression of M-CSF receptor (CD115), and development into
+              macrophages upon M-CSF stimulation. By eliminating blood
+              monocytes with dichloromethylene-bisphosphonate-loaded liposomes
+              and monitoring their repopulation, we showed a developmental
+              relationship between the subsets. Monocytes were maximally
+              depleted 18 h after liposome application and subsequently
+              reappeared in the circulation. These cells were exclusively of
+              the Ly-6C(high) subset, resembling bone marrow monocytes. Serial
+              flow cytometric analyses of newly released Ly-6C(high) monocytes
+              showed that Ly-6C expression on these cells was down-regulated
+              while in circulation. Under inflammatory conditions elicited
+              either by acute infection with Listeria monocytogenes or chronic
+              infection with Leishmania major, there was a significant increase
+              in immature Ly-6C(high) monocytes, resembling the inflammatory
+              left shift of granulocytes. In addition, acute peritoneal
+              inflammation recruited preferentially Ly-6C(med-high) monocytes.
+              Taken together, these data identify distinct subpopulations of
+              mouse blood monocytes that differ in maturation stage and
+              capacity to become recruited to inflammatory sites.",
+  journal  = "J. Immunol.",
+  volume   =  172,
+  number   =  7,
+  pages    = "4410--4417",
+  month    =  apr,
+  year     =  2004,
+  language = "en"
+}
+
+@ARTICLE{Nagarsheth2017-gk,
+  title    = "Chemokines in the cancer microenvironment and their relevance in
+              cancer immunotherapy",
+  author   = "Nagarsheth, Nisha and Wicha, Max S and Zou, Weiping",
+  abstract = "The tumour microenvironment is the primary location in which
+              tumour cells and the host immune system interact. Different
+              immune cell subsets are recruited into the tumour
+              microenvironment via interactions between chemokines and
+              chemokine receptors, and these populations have distinct effects
+              on tumour progression and therapeutic outcomes. In this Review,
+              we focus on the main chemokines that are found in the human
+              tumour microenvironment; we elaborate on their patterns of
+              expression, their regulation and their roles in immune cell
+              recruitment and in cancer and stromal cell biology, and we
+              consider how they affect cancer immunity and tumorigenesis. We
+              also discuss the potential of targeting chemokine networks, in
+              combination with other immunotherapies, for the treatment of
+              cancer.",
+  journal  = "Nat. Rev. Immunol.",
+  volume   =  17,
+  number   =  9,
+  pages    = "559--572",
+  month    =  sep,
+  year     =  2017,
+  language = "en"
+}
+
+@ARTICLE{Richart2022-xb,
+  title     = "{XIST} loss impairs mammary stem cell differentiation and
+               increases tumorigenicity through Mediator hyperactivation",
+  author    = "Richart, Laia and Picod-Chedotel, Mary-Loup and Wassef, Michel
+               and Macario, Manon and Aflaki, Setareh and Salvador, Marion A
+               and H{\'e}ry, Tiphaine and Dauphin, Aur{\'e}lien and Wicinski,
+               Julien and Chevrier, V{\'e}ronique and Pastor, Sonia and
+               Guittard, Geoffrey and Le Cam, Samuel and Kamhawi, Hanya and
+               Castellano, R{\'e}my and Guasch, G{\'e}raldine and
+               Charafe-Jauffret, Emmanuelle and Heard, Edith and Margueron,
+               Rapha{\"e}l and Ginestier, Christophe",
+  abstract  = "SummaryX inactivation (XCI) is triggered by upregulation of
+               XIST, which coats the chromosome in cis, promoting formation of
+               a heterochromatic domain (Xi). XIST role beyond initiation of
+               XCI is only beginning to be elucidated. Here, we demonstrate
+               that XIST loss impairs differentiation of human mammary stem
+               cells (MaSCs) and promotes emergence of highly tumorigenic and
+               metastatic carcinomas. On the Xi, XIST deficiency triggers
+               epigenetic changes and reactivation of genes overlapping
+               Polycomb domains, including Mediator subunit MED14. MED14
+               overdosage results in increased Mediator levels and
+               hyperactivation of the MaSC enhancer landscape and
+               transcriptional program, making differentiation less favorable.
+               We further demonstrate that loss of XIST and Xi transcriptional
+               instability is common among human breast tumors of poor
+               prognosis. We conclude that XIST is a gatekeeper of human
+               mammary epithelium homeostasis, thus unveiling a paradigm in the
+               control of somatic cell identity with potential consequences for
+               our understanding of gender-specific malignancies.",
+  journal   = "Cell",
+  publisher = "Elsevier",
+  volume    =  0,
+  number    =  0,
+  month     =  may,
+  year      =  2022,
+  keywords  = "XIST; X chromosome; transcriptional reactivation; polycomb;
+               human mammary stem cell; homeostasis; differentiation; Mediator;
+               enhancers; breast tumorigenesis;Xist",
+  language  = "en"
+}
+
+@ARTICLE{Takahashi2015-kz,
+  title    = "Mammary tissue microenvironment determines {T} cell-dependent
+              breast cancer-associated inflammation",
+  author   = "Takahashi, Kei and Nagai, Nao and Ogura, Keisuke and Tsuneyama,
+              Koichi and Saiki, Ikuo and Irimura, Tatsuro and Hayakawa,
+              Yoshihiro",
+  abstract = "Although the importance of the host tissue microenvironment in
+              cancer progression and metastasis has been established, the
+              spatiotemporal process establishing a cancer metastasis-prone
+              tissue microenvironment remains unknown. In this study, we aim to
+              understand the immunological character of a metastasis-prone
+              microenvironment in a murine 4T1 breast tumor model, by using the
+              activation of nuclear factor-$\kappa$b (NF-$\kappa$B) in cancer
+              cells as a sensor of inflammatory status and by monitoring its
+              activity by bioluminescence imaging. By using a 4T1 breast cancer
+              cell line stably expressing an NF-$\kappa$B/Luc2 reporter gene
+              (4T1 NF-$\kappa$B cells), we observed significantly increased
+              bioluminescence approximately 7 days after metastasis-prone
+              orthotopic mammary fat-pad inoculation but not ectopic s.c.
+              inoculation of 4T1 NF-$\kappa$B cells. Such in vivo NF-$\kappa$B
+              activation within the fat-pad 4T1 tumor was diminished in
+              immune-deficient SCID or nude mice, or T cell-depleted mice,
+              suggesting the requirement of host T cell-mediated immune
+              responses. Given the fat-pad 4T1 tumor expressed higher
+              inflammatory mediators in a T cell-dependent mechanism compared
+              to the s.c. tumor, our results imply the importance of the
+              surrounding tissue microenvironment for inflaming tumors by
+              collaborating with T cells to instigate metastatic spread of 4T1
+              breast cancer cells.",
+  journal  = "Cancer Sci.",
+  volume   =  106,
+  number   =  7,
+  pages    = "867--874",
+  month    =  jul,
+  year     =  2015,
+  keywords = "Breast cancer; T cell; imaging; inflammation; tissue
+              microenvironment",
+  language = "en"
+}
+
+@UNPUBLISHED{Zhang2020-an,
+  title    = "{CECR2} Drives Breast Cancer Metastasis by Suppressing Macrophage
+              Inflammatory Responses",
+  author   = "Zhang, Meiling and Liu, Zongzhi Z and Aoshima, Keisuke and Zhang,
+              Yangyi and An, Yongyan and Aoshima, Asako and Chan, Lok Hei and
+              Lang, Sabine M and Sun, Hongyi and Tang, Zhenwei and Rutter, Sara
+              J and Booth, Carmen J and Bossuyt, Veerle and Chen, Xiang and
+              Morrow, Jon S and Pusztai, Lajos and Rimm, David L and Yin,
+              Mingzhu and Yan, Qin",
+  abstract = "Epigenetic and transcriptional changes are critical for
+              metastasis, the major cause of cancer-related deaths. Metastatic
+              tumor cells escape immune surveillance more efficiently than
+              tumor cells in the primary sites, but the mechanisms controlling
+              their immune evasion are poorly understood. We found that distal
+              metastases are more immune inert with increased M2 macrophages
+              compared to their matched primary tumors. Acetyl-lysine reader
+              CECR2 is an epigenetic regulator upregulated in metastases and
+              positively associated with M2 macrophages. CECR2 specifically
+              promotes breast cancer metastasis in multiple mouse models, with
+              more profound effect in the immunocompetent setting.
+              Mechanistically, NF-$\kappa$B family member RELA recruits CECR2
+              to activate CSF1 and CXCL1 , which are critical for
+              macrophage-mediated immunosuppression at the metastatic sites.
+              Furthermore, pharmacological inhibition of CECR2 bromodomain
+              impedes NF-$\kappa$B-mediated immune suppression by macrophages
+              and inhibits breast cancer metastasis. These results reveal novel
+              therapeutic strategies to treat metastatic breast cancer.
+              Statement of Significance Comparison of matched primary breast
+              tumors and distal metastases show that metastases are more immune
+              inert with increased tumor promoting macrophages. Depletion or
+              pharmacological inhibition of CECR2 inhibits breast cancer
+              metastasis by suppressing macrophage inflammatory responses,
+              nominating CECR2 as a promising therapeutic target for cancer
+              metastasis. \#\#\# Competing Interest Statement The authors have
+              declared no competing interest.",
+  journal  = "bioRxiv",
+  pages    = "2020.09.10.291799",
+  month    =  oct,
+  year     =  2020,
+  language = "en"
+}
+
 @ARTICLE{Zhang2022-dt,
   title    = "{CECR2} drives breast cancer metastasis by promoting
               {NF-$\kappa$B} signaling and macrophage-mediated immune
@@ -609,232 +830,50 @@
   language = "en"
 }
 
-@ARTICLE{Swierczak2014-pb,
-  title       = "The promotion of breast cancer metastasis caused by inhibition
-                 of {CSF-1R/CSF-1} signaling is blocked by targeting the
-                 {G-CSF} receptor",
-  author      = "Swierczak, Agnieszka and Cook, Andrew D and Lenzo, Jason C and
-                 Restall, Christina M and Doherty, Judy P and Anderson, Robin L
-                 and Hamilton, John A",
-  abstract    = "Treatment options are limited for patients with breast cancer
-                 presenting with metastatic disease. Targeting of
-                 tumor-associated macrophages through the inhibition of
-                 colony-stimulating factor-1 receptor (CSF-1R), a key
-                 macrophage signaling pathway, has been reported to reduce
-                 tumor growth and metastasis, and these treatments are now in
-                 clinical trials. Here, we report that, surprisingly, treatment
-                 with neutralizing anti-CSF-1R and anti-CSF-1 antibodies, or
-                 with two different small-molecule inhibitors of CSF-1R, could
-                 actually increase spontaneous metastasis without altering
-                 primary tumor growth in mice bearing two independently derived
-                 mammary tumors. The blockade of CSF-1R or CSF-1 led to
-                 increased levels of serum G-CSF, increased frequency of
-                 neutrophils in the primary tumor and in the
-                 metastasis-associated lung, as well as increased numbers of
-                 neutrophils and Ly6C(hi) monocytes in the peripheral blood.
-                 Neutralizing antibody against the G-CSF receptor, which
-                 regulates neutrophil development and function, reduced the
-                 enhanced metastasis and neutrophil numbers that resulted from
-                 CSF-1R blockade. These results indicate that the role of the
-                 CSF-1R/CSF-1 system in breast cancer is far more complex than
-                 originally proposed, and requires further investigation as a
-                 therapeutic target.",
-  journal     = "Cancer Immunol Res",
-  volume      =  2,
-  number      =  8,
-  pages       = "765--776",
-  month       =  aug,
-  year        =  2014,
-  language    = "en",
-  original_id = "bf10b763-391d-0ae7-920e-f94cf7bcdd43"
-}
-
-@ARTICLE{Bosiljcic2019-en,
-  title       = "Targeting myeloid-derived suppressor cells in combination with
-                 primary mammary tumor resection reduces metastatic growth in
-                 the lungs",
-  author      = "Bosiljcic, Momir and Cederberg, Rachel A and Hamilton, Melisa
-                 J and LePard, Nancy E and Harbourne, Bryant T and Collier,
-                 Jenna L and Halvorsen, Elizabeth C and Shi, Rocky and Franks,
-                 S Elizabeth and Kim, Ada Y and Ban{\'a}th, Judit P and Hamer,
-                 Mark and Rossi, Fabio M and Bennewith, Kevin L",
-  abstract    = "BACKGROUND: Solid tumors produce proteins that can induce the
-                 accumulation of bone marrow-derived cells in various tissues,
-                 and these cells can enhance metastatic tumor growth by several
-                 mechanisms. 4T1 murine mammary tumors are known to produce
-                 granulocyte colony-stimulating factor (G-CSF) and increase the
-                 numbers of immunosuppressive CD11b+Gr1+ myeloid-derived
-                 suppressor cells (MDSCs) in tissues such as the spleen and
-                 lungs of tumor-bearing mice. While surgical resection of
-                 primary tumors decreases MDSC levels in the spleen, the
-                 longevity and impact of MDSCs and other immune cells in the
-                 lungs after tumor resection have been less studied. METHODS:
-                 We used mass cytometry time of flight (CyTOF) and flow
-                 cytometry to quantify MDSCs in the spleen, peripheral blood,
-                 and lungs of mice bearing orthotopic murine mammary tumors. We
-                 also tested the effect of primary tumor resection and/or
-                 gemcitabine treatment on the levels of MDSCs, other immune
-                 suppressor and effector cells, and metastatic tumor cells in
-                 the lungs. RESULTS: We have found that, similar to mice with
-                 4T1 tumors, mice bearing metastatic 4T07 tumors also exhibit
-                 accumulation of CD11b+Gr1+ MDSCs in the spleen and lungs,
-                 while tissues of mice with non-metastatic 67NR tumors do not
-                 contain MDSCs. Mice with orthotopically implanted 4T1 tumors
-                 have increased granulocytic (G-) MDSCs, monocytic (M-) MDSCs,
-                 macrophages, eosinophils, and NK cells in the lungs. Resection
-                 of primary 4T1 tumors decreases G-MDSCs, M-MDSCs, and
-                 macrophages in the lungs within 48 h, but significant numbers
-                 of functional immunosuppressive G-MDSCs persist in the lungs
-                 for 2 weeks after tumor resection, indicative of an
-                 environment that can promote metastatic tumor growth. The
-                 chemotherapeutic agent gemcitabine depletes G-MDSCs, M-MDSCs,
-                 macrophages, and eosinophils in the lungs of 4T1 tumor-bearing
-                 mice, and we found that treating mice with gemcitabine after
-                 primary tumor resection decreases residual G-MDSCs in the
-                 lungs and decreases subsequent metastatic growth. CONCLUSIONS:
-                 Our data support the development of therapeutic strategies to
-                 target MDSCs and to monitor MDSC levels before and after
-                 primary tumor resection to enhance the effectiveness of
-                 immune-based therapies and improve the treatment of metastatic
-                 breast cancer in the clinic.",
-  journal     = "Breast Cancer Res.",
-  volume      =  21,
-  number      =  1,
-  pages       = "103",
-  month       =  sep,
-  year        =  2019,
-  keywords    = "4T07; 4T1; 67NR; Eosinophils; Gemcitabine; Macrophages;
-                 Metastasis; Myeloid-derived suppressor cells; Tumor resection",
-  language    = "en",
-  original_id = "a01259cc-9eec-0efc-b67e-2b396d3afe6b"
-}
-
-@ARTICLE{Stackowicz2019-gb,
-  title       = "Mouse Models and Tools for the in vivo Study of Neutrophils",
-  author      = "Stackowicz, Julien and J{\"o}nsson, Friederike and Reber,
-                 Laurent L",
-  abstract    = "Neutrophils are the most abundant leukocytes in human blood
-                 and critical actors of the immune system. Many neutrophil
-                 functions and facets of their activity in vivo were revealed
-                 by studying genetically modified mice or by tracking
-                 fluorescent neutrophils in animals using imaging approaches.
-                 Assessing the roles of neutrophils can be challenging,
-                 especially when exact molecular pathways are questioned or
-                 disease states are interrogated that alter normal neutrophil
-                 homeostasis. This review discusses the main in vivo models for
-                 the study of neutrophils, their advantages and limitations.
-                 The side-by-side comparison underlines the necessity to
-                 carefully choose the right model(s) to answer a given
-                 scientific question, and exhibit caveats that need to be taken
-                 into account when designing experimental procedures.
-                 Collectively, this review suggests that at least two models
-                 should be employed to legitimately conclude on neutrophil
-                 functions.",
-  journal     = "Front. Immunol.",
-  volume      =  10,
-  pages       = "3130",
-  year        =  2019,
-  keywords    = "Cre-recombinase; Gfi-1; NETosis; depletion; diphtheria toxin;
-                 mouse models; neutrophils",
-  language    = "en",
-  original_id = "473ad5f7-b127-0bf0-bf45-c1287dd4427b"
-}
-
-@ARTICLE{Cotechini2021-zr,
-  title    = "{Tissue-Resident} and Recruited Macrophages in Primary Tumor and
-              Metastatic Microenvironments: Potential Targets in Cancer Therapy",
-  author   = "Cotechini, Tiziana and Atallah, Aline and Grossman, Arielle",
-  abstract = "Macrophages within solid tumors and metastatic sites are
-              heterogenous populations with different developmental origins and
-              substantially contribute to tumor progression. A number of
-              tumor-promoting phenotypes associated with both tumor- and
-              metastasis-associated macrophages are similar to innate programs
-              of embryonic-derived tissue-resident macrophages. In contrast to
-              recruited macrophages originating from marrow precursors,
-              tissue-resident macrophages are seeded before birth and function
-              to coordinate tissue remodeling and maintain tissue integrity and
-              homeostasis. Both recruited and tissue-resident macrophage
-              populations contribute to tumor growth and metastasis and are
-              important mediators of resistance to chemotherapy, radiation
-              therapy, and immune checkpoint blockade. Thus, targeting various
-              macrophage populations and their tumor-promoting phenotypes holds
-              therapeutic promise. Here, we discuss various macrophage
-              populations as regulators of tumor progression, immunity, and
-              immunotherapy. We provide an overview of macrophage targeting
-              strategies, including therapeutics designed to induce macrophage
-              depletion, impair recruitment, and induce repolarization. We also
-              provide a perspective on the therapeutic potential for
-              macrophage-specific acquisition of trained immunity as an
-              anti-cancer agent and discuss the therapeutic potential of
-              exploiting macrophages and their traits to reduce tumor burden.",
-  journal  = "Cells",
-  volume   =  10,
-  number   =  4,
-  month    =  apr,
+@UNPUBLISHED{Vergato2021-lm,
+  title    = "{Type-I} interferon signaling is essential for robust metronomic
+              chemo-immunogenic tumor regression in murine triple-negative
+              breast cancer",
+  author   = "Vergato, Cameron and Doshi, Kshama A and Roblyer, Darren and
+              Waxman, David J",
+  abstract = "Triple-negative breast cancer (TNBC) is characterized by poor
+              prognosis and aggressive growth, with limited therapeutic options
+              for many patients. Here, we use two syngeneic mouse TNBC models,
+              4T1 and E0771, to investigate the chemo-immunogenic potential of
+              cyclophosphamide and the mechanistic contributions of
+              cyclophosphamide-activated type-I interferon (IFN) signaling to
+              therapeutic activity. Chemically-activated cyclophosphamide
+              induced robust IFN$\alpha$/$\beta$ receptor-1-dependent signaling
+              linked to hundreds of IFN-stimulated gene responses in both TNBC
+              lines. Further, in 4T1 tumors, cyclophosphamide given on a
+              medium-dose, 6-day intermittent metronomic schedule induced
+              strong IFN signaling but comparatively weak immune cell
+              infiltration associated with long-term tumor growth stasis.
+              Induction of IFN signaling was somewhat weaker in E0771 tumors
+              but was followed by extensive downstream gene responses, robust
+              immune cell infiltration and prolonged tumor regression. The
+              immune dependence of these effective anti-tumor responses was
+              established by CD8 T-cell immunodepletion, which blocked
+              cyclophosphamide-induced E0771 tumor regression and led to tumor
+              stasis followed by regrowth. Strikingly, IFN$\alpha$/$\beta$
+              receptor-1 antibody blockade was even more effective in
+              preventing E0771 immune cell infiltration and blocked the major
+              tumor regression induced by cyclophosphamide treatment. Type-I
+              IFN signaling is thus essential for the robust chemo-immunogenic
+              response of these TNBC tumors to cyclophosphamide administered on
+              a metronomic schedule. Significance TNBC has poor prognosis and
+              few therapeutic options. We show that cyclophosphamide treatment
+              can induces extensive tumor regression in syngeneic mouse models
+              of TNBC via a chemo-immunogenic mechanism linked to type-I IFN
+              production. Our findings establish that IFN signaling is
+              essential for the robust anti-tumor actions of cyclophosphamide
+              and suggest that treatment resistance may stem from silencing the
+              IFN pathway. This suggests a new avenue for improving TNBC
+              treatment efficacy. \#\#\# Competing Interest Statement The
+              authors have declared no competing interest.",
+  journal  = "bioRxiv",
+  pages    = "2021.12.05.471293",
+  month    =  dec,
   year     =  2021,
-  keywords = "cancer; depletion; immune therapy; metastasis-associated
-              macrophage; monocyte; recruitment; repolarization;
-              tissue-resident macrophages; trained immunity; tumor
-              microenvironment; tumor-associated macrophages",
   language = "en"
-}
-
-@ARTICLE{Sunderkotter2004-bj,
-  title    = "Subpopulations of mouse blood monocytes differ in maturation
-              stage and inflammatory response",
-  author   = "Sunderk{\"o}tter, Cord and Nikolic, Tatjana and Dillon, Marilyn J
-              and Van Rooijen, Nico and Stehling, Martin and Drevets, Douglas A
-              and Leenen, Pieter J M",
-  abstract = "Blood monocytes are well-characterized precursors for macrophages
-              and dendritic cells. Subsets of human monocytes with differential
-              representation in various disease states are well known. In
-              contrast, mouse monocyte subsets have been characterized
-              minimally. In this study we identify three subpopulations of
-              mouse monocytes that can be distinguished by differential
-              expression of Ly-6C, CD43, CD11c, MBR, and CD62L. The subsets
-              share the characteristics of extensive phagocytosis, similar
-              expression of M-CSF receptor (CD115), and development into
-              macrophages upon M-CSF stimulation. By eliminating blood
-              monocytes with dichloromethylene-bisphosphonate-loaded liposomes
-              and monitoring their repopulation, we showed a developmental
-              relationship between the subsets. Monocytes were maximally
-              depleted 18 h after liposome application and subsequently
-              reappeared in the circulation. These cells were exclusively of
-              the Ly-6C(high) subset, resembling bone marrow monocytes. Serial
-              flow cytometric analyses of newly released Ly-6C(high) monocytes
-              showed that Ly-6C expression on these cells was down-regulated
-              while in circulation. Under inflammatory conditions elicited
-              either by acute infection with Listeria monocytogenes or chronic
-              infection with Leishmania major, there was a significant increase
-              in immature Ly-6C(high) monocytes, resembling the inflammatory
-              left shift of granulocytes. In addition, acute peritoneal
-              inflammation recruited preferentially Ly-6C(med-high) monocytes.
-              Taken together, these data identify distinct subpopulations of
-              mouse blood monocytes that differ in maturation stage and
-              capacity to become recruited to inflammatory sites.",
-  journal  = "J. Immunol.",
-  volume   =  172,
-  number   =  7,
-  pages    = "4410--4417",
-  month    =  apr,
-  year     =  2004,
-  language = "en"
-}
-
-@ARTICLE{noauthor_undated-qv,
-  title       = "{ADA454757.pdf}",
-  original_id = "801691e9-2d37-0866-9271-ba82ce4e52c4"
-}
-
-@MISC{noauthor_undated-uh,
-  title        = "Granulocyte-colony stimulating factor promotes lung
-                  metastasis through mobilization of {Ly6G+Ly6C+} granulocytes",
-  booktitle    = "{PNAS}",
-  abstract     = "Priming of the organ-specific premetastatic sites is thought
-                  to be an important yet incompletely understood step during
-                  metastasis. In this study, we ...",
-  howpublished = "\url{https://www.pnas.org/doi/full/10.1073/pnas.1015855107}",
-  note         = "Accessed: 2022-5-15",
-  language     = "en",
-  original_id  = "f640c65a-4cc9-08ce-8379-32bee988c95a"
 }
