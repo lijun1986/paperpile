@@ -154,42 +154,41 @@
   original_id  = "f640c65a-4cc9-08ce-8379-32bee988c95a"
 }
 
-@ARTICLE{Milling2022-ay,
-  title    = "Neoadjuvant {STING} Activation, Extended Half-life {IL2}, and
-              Checkpoint Blockade Promote Metastasis Clearance via Sustained
-              {NK-cell} Activation",
-  author   = "Milling, Lauren E and Garafola, Daniel and Agarwal, Yash and Wu,
-              Shengwei and Thomas, Ayush and Donahue, Nathan and Adams, Josetta
-              and Thai, Nikki and Suh, Heikyung and Irvine, Darrell J",
-  abstract = "Combination immunotherapy treatments that recruit both innate and
-              adaptive immunity have the potential to increase cancer response
-              rates by engaging a more complete repertoire of effector
-              mechanisms. Here, we combined intratumoral STimulator of
-              INterferon Genes (STING) agonist therapy with systemically
-              injected extended half-life IL2 and anti-PD-1 checkpoint blockade
-              (hereafter CIP therapy) to drive innate and adaptive antitumor
-              immunity in models of triple-negative breast cancer. Unlike
-              treatment with the individual components, this trivalent
-              immunotherapy halted primary tumor progression and led to
-              long-term remission for a majority of animals in two
-              spontaneously metastasizing orthotopic breast tumor models,
-              though only as a neoadjuvant therapy but not adjuvant therapy.
-              CIP therapy induced antitumor T-cell responses, but protection
-              from metastatic relapse depended on natural killer (NK) cells.
-              The combination of STING agonists with IL2/anti-PD-1 synergized
-              to stimulate sustained granzyme and cytokine expression by
-              lung-infiltrating NK cells. Type I IFNs generated as a result of
-              STING agonism, combined with IL2, acted in a positive-feedback
-              loop by enhancing the expression of IFNAR-1 and CD25 on lung NK
-              cells. These results suggest that NK cells can be therapeutically
-              targeted to effectively eliminate tumor metastases.See related
-              Spotlight by Demaria, p. 3.",
-  journal  = "Cancer Immunol Res",
-  volume   =  10,
-  number   =  1,
-  pages    = "26--39",
-  month    =  jan,
-  year     =  2022,
+@ARTICLE{Nicolai2020-wa,
+  title    = "{NK} cells mediate clearance of {CD8+} {T} cell-resistant tumors
+              in response to {STING} agonists",
+  author   = "Nicolai, Christopher J and Wolf, Natalie and Chang, I-Chang and
+              Kirn, Georgia and Marcus, Assaf and Ndubaku, Chudi O and
+              McWhirter, Sarah M and Raulet, David H",
+  abstract = "Several immunotherapy approaches that mobilize CD8+ T cell
+              responses stimulate tumor rejection, and some, such as checkpoint
+              blockade, have been approved for several cancer indications and
+              show impressive increases in patient survival. However, tumors
+              may evade CD8+ T cell recognition via loss of MHC molecules or
+              because they contain few or no neoantigens. Therefore, approaches
+              are needed to combat CD8+ T cell-resistant cancers.
+              STING-activating cyclic dinucleotides (CDNs) are a new class of
+              immune-stimulating agents that elicit impressive CD8+ T
+              cell-mediated tumor rejection in preclinical tumor models and are
+              now being tested in clinical trials. Here, we demonstrate
+              powerful CDN-induced, natural killer (NK) cell-mediated tumor
+              rejection in numerous tumor models, independent of CD8+ T cells.
+              CDNs enhanced NK cell activation, cytotoxicity, and antitumor
+              effects in part by inducing type I interferon (IFN). IFN acted in
+              part directly on NK cells in vivo and in part indirectly via the
+              induction of IL-15 and IL-15 receptors, which were important for
+              CDN-induced NK activation and tumor control. After in vivo
+              administration of CDNs, dendritic cells (DCs) up-regulated
+              IL-15R$\alpha$ in an IFN-dependent manner. Mice lacking the type
+              I IFN receptor specifically on DCs had reduced NK cell activation
+              and tumor control. Therapeutics that activate NK cells, such as
+              CDNs, checkpoint inhibitors, NK cell engagers, and cytokines, may
+              represent next-generation approaches to cancer immunotherapy.",
+  journal  = "Sci Immunol",
+  volume   =  5,
+  number   =  45,
+  month    =  mar,
+  year     =  2020,
   language = "en"
 }
 
@@ -285,6 +284,45 @@
 @ARTICLE{noauthor_undated-qv,
   title       = "{ADA454757.pdf}",
   original_id = "801691e9-2d37-0866-9271-ba82ce4e52c4"
+}
+
+@ARTICLE{Milling2022-ay,
+  title    = "Neoadjuvant {STING} Activation, Extended Half-life {IL2}, and
+              Checkpoint Blockade Promote Metastasis Clearance via Sustained
+              {NK-cell} Activation",
+  author   = "Milling, Lauren E and Garafola, Daniel and Agarwal, Yash and Wu,
+              Shengwei and Thomas, Ayush and Donahue, Nathan and Adams, Josetta
+              and Thai, Nikki and Suh, Heikyung and Irvine, Darrell J",
+  abstract = "Combination immunotherapy treatments that recruit both innate and
+              adaptive immunity have the potential to increase cancer response
+              rates by engaging a more complete repertoire of effector
+              mechanisms. Here, we combined intratumoral STimulator of
+              INterferon Genes (STING) agonist therapy with systemically
+              injected extended half-life IL2 and anti-PD-1 checkpoint blockade
+              (hereafter CIP therapy) to drive innate and adaptive antitumor
+              immunity in models of triple-negative breast cancer. Unlike
+              treatment with the individual components, this trivalent
+              immunotherapy halted primary tumor progression and led to
+              long-term remission for a majority of animals in two
+              spontaneously metastasizing orthotopic breast tumor models,
+              though only as a neoadjuvant therapy but not adjuvant therapy.
+              CIP therapy induced antitumor T-cell responses, but protection
+              from metastatic relapse depended on natural killer (NK) cells.
+              The combination of STING agonists with IL2/anti-PD-1 synergized
+              to stimulate sustained granzyme and cytokine expression by
+              lung-infiltrating NK cells. Type I IFNs generated as a result of
+              STING agonism, combined with IL2, acted in a positive-feedback
+              loop by enhancing the expression of IFNAR-1 and CD25 on lung NK
+              cells. These results suggest that NK cells can be therapeutically
+              targeted to effectively eliminate tumor metastases.See related
+              Spotlight by Demaria, p. 3.",
+  journal  = "Cancer Immunol Res",
+  volume   =  10,
+  number   =  1,
+  pages    = "26--39",
+  month    =  jan,
+  year     =  2022,
+  language = "en"
 }
 
 @ARTICLE{Zhu2017-om,
