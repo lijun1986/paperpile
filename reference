@@ -941,3 +941,36 @@
               Cytometry; Immunology; Model Organisms",
   language = "en"
 }
+
+@ARTICLE{Emmanuilidis2001-hu,
+  title    = "Critical role of Kupffer cell-derived {IL-10} for host defense in
+              septic peritonitis",
+  author   = "Emmanuilidis, K and Weighardt, H and Maier, S and Gerauer, K and
+              Fleischmann, T and Zheng, X X and Hancock, W W and Holzmann, B
+              and Heidecke, C D",
+  abstract = "Intra-abdominal infection in patients following major visceral
+              surgery is associated with high mortality. Using a macrophage
+              depletion technique, we demonstrate that in murine septic
+              peritonitis, Kupffer cells are a major source of systemic IL-10
+              levels. Kupffer cell-depleted mice were highly susceptible to the
+              lethal effects of septic peritonitis and exhibited an increased
+              bacterial load. Kupffer cell-depleted mice were protected by the
+              administration of an IL-10-Fc fusion protein. Loss of Kupffer
+              cell-derived IL-10 was associated with a weak increase in serum
+              IL-12 levels, whereas TNF, IL-1alpha, and IL-18 levels were not
+              significantly elevated, suggesting that the loss of Kupffer
+              cell-derived IL-10 did not result in a toxic cytokine release
+              syndrome. Instead, loss of Kupffer cell-derived IL-10 was
+              associated with a reduced splenocyte production of IFN-gamma that
+              is required for immune protection in murine septic peritonitis.
+              Therefore, the results suggest that the protective function of
+              IL-10 in septic peritonitis may not be restricted to the
+              anti-inflammatory activities of IL-10.",
+  journal  = "J. Immunol.",
+  volume   =  167,
+  number   =  7,
+  pages    = "3919--3927",
+  month    =  oct,
+  year     =  2001,
+  language = "en"
+}
