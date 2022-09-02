@@ -29,6 +29,36 @@
   original_id = "473ad5f7-b127-0bf0-bf45-c1287dd4427b"
 }
 
+@ARTICLE{Mellor1985-gv,
+  title    = "Structure and expression of genes encoding murine Qa-2 class {I}
+              antigens",
+  author   = "Mellor, A L and Antoniou, J and Robinson, P J",
+  abstract = "DNA structural analysis of the Qa region in two BALB/c mouse
+              substrains with different Qa-2 phenotypes reveals that a deletion
+              of DNA has occurred in BALB/cBy (Qa-2-) mice relative to BALB/c
+              (Qa-2+) mice. We propose that this deletion arises from unequal
+              crossing-over and recombination between adjacent BALB/c class I
+              genes and results in the generation of a hybrid class I gene in
+              BALB/cBy mice. Furthermore, we suggest that this is a direct
+              cause of the change in Qa-2 phenotype. Further support for this
+              model was obtained from transfection experiments in which cloned
+              genes from the equivalent part of the Qa region in C57BL/10 mice
+              were introduced into L cells. Four C57BL/10 genes, arranged in
+              two almost identical pairs, encode polypeptides that are
+              precipitated from lysates of transfectants with anti-Qa-2/3
+              antiserum. Although loss of one pair of these genes in BALB/c
+              mice has no qualitative effect on Qa-2 phenotype, the loss of
+              both pairs of genes via gene fusion leads to the loss of the
+              Qa-2+ phenotype in BALB/cBy mice.",
+  journal  = "Proc. Natl. Acad. Sci. U. S. A.",
+  volume   =  82,
+  number   =  17,
+  pages    = "5920--5924",
+  month    =  sep,
+  year     =  1985,
+  language = "en"
+}
+
 @BOOK{noauthor_undated-gh,
   title     = "Tumor Microenvironment",
   publisher = "Springer International Publishing"
