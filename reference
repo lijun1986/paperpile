@@ -1155,3 +1155,48 @@
               Prostaglandin E2; RNA-sequence",
   language = "en"
 }
+
+@ARTICLE{Mohamed2020-ip,
+  title    = "The Unfolded Protein Response Mediator {PERK} Governs Myeloid
+              {Cell-Driven} Immunosuppression in Tumors through Inhibition of
+              {STING} Signaling",
+  author   = "Mohamed, Eslam and Sierra, Rosa A and Trillo-Tinoco, Jimena and
+              Cao, Yu and Innamarato, Patrick and Payne, Kyle K and de Mingo
+              Pulido, Alvaro and Mandula, Jessica and Zhang, Shuzhong and
+              Thevenot, Paul and Biswas, Subir and Abdalla, Sarah K and
+              Costich, Tara Lee and H{\"a}nggi, Kay and Anadon, Carmen M and
+              Flores, Elsa R and Haura, Eric B and Mehrotra, Shikhar and
+              Pilon-Thomas, Shari and Ruffell, Brian and Munn, David H and
+              Cubillos-Ruiz, Juan R and Conejo-Garcia, Jose R and Rodriguez,
+              Paulo C",
+  abstract = "The primary mechanisms supporting immunoregulatory polarization
+              of myeloid cells upon infiltration into tumors remain largely
+              unexplored. Elucidation of these signals could enable better
+              strategies to restore protective anti-tumor immunity. Here, we
+              investigated the role of the intrinsic activation of the PKR-like
+              endoplasmic reticulum (ER) kinase (PERK) in the immunoinhibitory
+              actions of tumor-associated myeloid-derived suppressor cells
+              (tumor-MDSCs). PERK signaling increased in tumor-MDSCs, and its
+              deletion transformed MDSCs into myeloid cells that activated CD8+
+              T cell-mediated immunity against cancer. Tumor-MDSCs lacking PERK
+              exhibited disrupted NRF2-driven antioxidant capacity and impaired
+              mitochondrial respiratory homeostasis. Moreover, reduced NRF2
+              signaling in PERK-deficient MDSCs elicited cytosolic
+              mitochondrial DNA elevation and, consequently, STING-dependent
+              expression of anti-tumor type I interferon. Reactivation of NRF2
+              signaling, conditional deletion of STING, or blockade of type I
+              interferon receptor I restored the immunoinhibitory potential of
+              PERK-ablated MDSCs. Our findings demonstrate the pivotal role of
+              PERK in tumor-MDSC functionality and unveil strategies to
+              reprogram immunosuppressive myelopoiesis in tumors to boost
+              cancer immunotherapy.",
+  journal  = "Immunity",
+  volume   =  52,
+  number   =  4,
+  pages    = "668--682.e7",
+  month    =  apr,
+  year     =  2020,
+  keywords = "ER stress; MDSCs; NRF2; PERK; STING; tumor immunity; type I IFN;
+              unfolded protein responses",
+  language = "en"
+}
