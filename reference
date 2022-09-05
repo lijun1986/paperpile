@@ -1230,3 +1230,47 @@
               unfolded protein responses",
   language = "en"
 }
+
+@ARTICLE{Dubrot2021-fb,
+  title    = "In vivo screens using a selective {CRISPR} antigen removal
+              lentiviral vector system reveal immune dependencies in renal cell
+              carcinoma",
+  author   = "Dubrot, Juan and Lane-Reticker, Sarah Kate and Kessler, Emily A
+              and Ayer, Austin and Mishra, Gargi and Wolfe, Clara H and Zimmer,
+              Margaret D and Du, Peter P and Mahapatra, Animesh and Ockerman,
+              Kyle M and Davis, Thomas G R and Kohnle, Ian C and Pope, Hans W
+              and Allen, Peter M and Olander, Kira E and Iracheta-Vellve, Arvin
+              and Doench, John G and Haining, W Nicholas and Yates, Kathleen B
+              and Manguso, Robert T",
+  abstract = "CRISPR-Cas9 genome engineering has increased the pace of
+              discovery for immunology and cancer biology, revealing potential
+              therapeutic targets and providing insight into mechanisms
+              underlying resistance to immunotherapy. However, endogenous
+              immune recognition of Cas9 has limited the applicability of
+              CRISPR technologies in vivo. Here, we characterized immune
+              responses against Cas9 and other expressed CRISPR vector
+              components that cause antigen-specific tumor rejection in several
+              mouse cancer models. To avoid unwanted immune recognition, we
+              designed a lentiviral vector system that allowed selective CRISPR
+              antigen removal (SCAR) from tumor cells. The SCAR system reversed
+              immune-mediated rejection of CRISPR-modified tumor cells in vivo
+              and enabled high-throughput genetic screens in previously
+              intractable models. A pooled in vivo screen using SCAR in a
+              CRISPR-antigen-sensitive renal cell carcinoma revealed resistance
+              pathways associated with autophagy and major histocompatibility
+              complex class I (MHC class I) expression. Thus, SCAR presents a
+              resource that enables CRISPR-based studies of tumor-immune
+              interactions and prevents unwanted immune recognition of
+              genetically engineered cells, with implications for clinical
+              applications.",
+  journal  = "Immunity",
+  volume   =  54,
+  number   =  3,
+  pages    = "571--585.e6",
+  month    =  mar,
+  year     =  2021,
+  keywords = "CRISPR; Natural Killer cells; antigen presentation; checkpoint
+              blockade; immuno-oncology; immunotherapy; in vivo screen;
+              lentiviral vectors; pooled screen; target discovery",
+  language = "en"
+}
