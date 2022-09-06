@@ -147,6 +147,34 @@
   note         = "Accessed: 2022-9-5"
 }
 
+@ARTICLE{Dexter1978-nt,
+  title    = "Heterogeneity of tumor cells from a single mouse mammary tumor",
+  author   = "Dexter, D L and Kowalski, H M and Blazar, B A and Fligiel, Z and
+              Vogel, R and Heppner, G H",
+  abstract = "By the use of a variety of cell culture and separation methods,
+              four cell lines were isolated from a single autochthonous
+              BALB/cfC3H mammary tumor. These lines differ markedly from each
+              other in culture morphology, various in vitro growth properties,
+              expression of murine mammary tumor virus antigen, and karyotype,
+              yet all four lines are tumorigenic in normal, syngeneic hosts,
+              yielding tumors of generally similar histology, although distinct
+              from the original neoplasm. Three of the four lines have been
+              cloned from soft agar. The clones exhibit the same growth
+              properties as the lines from which they were derived. Karyotypic
+              analysis of the parent tumor revealed the presence of cells with
+              heterogeneous numbers of chromosomes similar to those seen in the
+              isolated lines, suggesting both the presence of these distinct
+              cell types in the original neoplasm and a genetic origin of the
+              diversity.",
+  journal  = "Cancer Res.",
+  volume   =  38,
+  number   =  10,
+  pages    = "3174--3181",
+  month    =  oct,
+  year     =  1978,
+  language = "en"
+}
+
 @MISC{noauthor_undated-uh,
   title        = "Granulocyte-colony stimulating factor promotes lung
                   metastasis through mobilization of {Ly6G+Ly6C+} granulocytes",
