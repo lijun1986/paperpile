@@ -141,12 +141,6 @@
   original_id = "a01259cc-9eec-0efc-b67e-2b396d3afe6b"
 }
 
-@MISC{noauthor_undated-ra,
-  title        = "[No title]",
-  howpublished = "\url{https://aacrjournals.org/cancerres/article/38/10/3174/482372/Heterogeneity-of-Tumor-Cells-from-a-Single-Mouse}",
-  note         = "Accessed: 2022-9-5"
-}
-
 @ARTICLE{Dexter1978-nt,
   title    = "Heterogeneity of tumor cells from a single mouse mammary tumor",
   author   = "Dexter, D L and Kowalski, H M and Blazar, B A and Fligiel, Z and
