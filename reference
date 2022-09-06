@@ -1,3 +1,206 @@
+@ARTICLE{Tacconi2021-ib,
+  title       = "{CD169+} lymph node macrophages have protective functions in
+                 mouse breast cancer metastasis",
+  author      = "Tacconi, Carlotta and Commerford, Catharina D and Dieterich,
+                 Lothar C and Schwager, Simon and He, Yuliang and Ikenberg,
+                 Kristian and Friebel, Ekaterina and Becher, Burkhard and
+                 Tugues, S{\`o}nia and Detmar, Michael",
+  abstract    = "Although the contribution of macrophages to metastasis is
+                 widely studied in primary tumors, the involvement of
+                 macrophages in tumor-draining lymph nodes (LNs) in this
+                 process is less clear. We find CD169+ macrophages as the
+                 predominant macrophage subtype in naive LNs, which undergo
+                 proliferative expansion in response to tumor stimuli. CD169+
+                 LN macrophage depletion, using an anti-CSF-1R antibody or
+                 clodronate-loaded liposomes, leads to increased metastatic
+                 burden in two mouse breast cancer models. The expansion of
+                 CD169+ macrophages is tightly connected to B cell expansion in
+                 tumor-draining LNs, and B cell depletion abrogates the effect
+                 of CD169+ macrophage absence on metastasis, indicating that
+                 the CD169+ macrophage anti-metastatic effects require B cell
+                 presence. These results reveal a protective role of CD169+ LN
+                 macrophages in breast cancer metastasis and raise caution for
+                 the use of drugs aiming at the depletion of tumor-associated
+                 macrophages, which might simultaneously deplete macrophages in
+                 tumor-draining LNs.",
+  journal     = "Cell Rep.",
+  volume      =  35,
+  number      =  2,
+  pages       = "108993",
+  month       =  apr,
+  year        =  2021,
+  keywords    = "CD169+ macrophages; breast cancer metastasis; distant organ
+                 metastasis; lymph node macrophages; tumor-associated
+                 macrophages; tumor-draining lymph node",
+  language    = "en",
+  original_id = "79fb70b1-c278-0f80-af02-42f563e36698"
+}
+
+@ARTICLE{Dawod2020-or,
+  title       = "Myeloid-derived suppressor cell depletion therapy targets
+                 {IL-17A-expressing} mammary carcinomas",
+  author      = "Dawod, Bassel and Liu, Jinghua and Gebremeskel, Simon and Yan,
+                 Chi and Sappong, Antonia and Johnston, Brent and Hoskin, David
+                 W and Marshall, Jean S and Wang, Jun",
+  abstract    = "Triple-negative breast cancer (TNBC) is an invasive subtype of
+                 breast cancer but paradoxically associated with increased
+                 tumor-infiltrating leukocytes. The molecular and cellular
+                 mechanisms underlying TNBC immunobiology are incompletely
+                 understood. Interleukin (IL)-17A is a pro-inflammatory
+                 cytokine that has both pro- and anti-tumor effects and found
+                 in 40-80\% of TNBC samples. We report here that IL-17A mRNA
+                 and protein are detectable in some human TNBC cell lines and
+                 further upregulated by IL-23 and LPS stimulation. Furthermore,
+                 the impact of tumor-derived IL-17A in host immune response and
+                 tumor growth was examined using murine TNBC 4T1 mammary
+                 carcinoma cells transduced with an adenoviral vector
+                 expressing IL-17A (AdIL-17A) or control vector (Addl).
+                 Compared to Addl-transduction, AdIL-17A-transduction enhanced
+                 4T1 tumor growth and lung metastasis in vivo, which was
+                 associated with a marked expansion of myeloid-derived
+                 suppressor cells (MDSCs). However, AdIL-17A-transduction also
+                 induced strong organ-specific and time-dependent immune
+                 activation indicated by dynamic changes of NK cells, B cells,
+                 CD4, and CD8 T cells in peripheral blood, lung, and tumor
+                 site, as well as the plasma levels of IFN$\gamma$. Such
+                 findings highlight that tumor-associated IL-17A induces
+                 concurrent immune activation and immune suppression.
+                 Administration of anti-Gr1 or anti-G-CSF antibody effectively
+                 depleted MDSCs in vivo, markedly reducing the growth of
+                 AdIL-17A-transduced 4T1 tumors, and eliminating lung
+                 metastasis. Collectively, our study demonstrates that MDSC
+                 depletion is an effective and practical approach for treating
+                 IL-17A-enriched mammary carcinomas.",
+  journal     = "Sci. Rep.",
+  volume      =  10,
+  number      =  1,
+  pages       = "13343",
+  month       =  aug,
+  year        =  2020,
+  language    = "en",
+  original_id = "48b2be91-4d6d-0d9a-8919-fee5fea4fe44"
+}
+
+@ARTICLE{Bosiljcic2019-en,
+  title       = "Targeting myeloid-derived suppressor cells in combination with
+                 primary mammary tumor resection reduces metastatic growth in
+                 the lungs",
+  author      = "Bosiljcic, Momir and Cederberg, Rachel A and Hamilton, Melisa
+                 J and LePard, Nancy E and Harbourne, Bryant T and Collier,
+                 Jenna L and Halvorsen, Elizabeth C and Shi, Rocky and Franks,
+                 S Elizabeth and Kim, Ada Y and Ban{\'a}th, Judit P and Hamer,
+                 Mark and Rossi, Fabio M and Bennewith, Kevin L",
+  abstract    = "BACKGROUND: Solid tumors produce proteins that can induce the
+                 accumulation of bone marrow-derived cells in various tissues,
+                 and these cells can enhance metastatic tumor growth by several
+                 mechanisms. 4T1 murine mammary tumors are known to produce
+                 granulocyte colony-stimulating factor (G-CSF) and increase the
+                 numbers of immunosuppressive CD11b+Gr1+ myeloid-derived
+                 suppressor cells (MDSCs) in tissues such as the spleen and
+                 lungs of tumor-bearing mice. While surgical resection of
+                 primary tumors decreases MDSC levels in the spleen, the
+                 longevity and impact of MDSCs and other immune cells in the
+                 lungs after tumor resection have been less studied. METHODS:
+                 We used mass cytometry time of flight (CyTOF) and flow
+                 cytometry to quantify MDSCs in the spleen, peripheral blood,
+                 and lungs of mice bearing orthotopic murine mammary tumors. We
+                 also tested the effect of primary tumor resection and/or
+                 gemcitabine treatment on the levels of MDSCs, other immune
+                 suppressor and effector cells, and metastatic tumor cells in
+                 the lungs. RESULTS: We have found that, similar to mice with
+                 4T1 tumors, mice bearing metastatic 4T07 tumors also exhibit
+                 accumulation of CD11b+Gr1+ MDSCs in the spleen and lungs,
+                 while tissues of mice with non-metastatic 67NR tumors do not
+                 contain MDSCs. Mice with orthotopically implanted 4T1 tumors
+                 have increased granulocytic (G-) MDSCs, monocytic (M-) MDSCs,
+                 macrophages, eosinophils, and NK cells in the lungs. Resection
+                 of primary 4T1 tumors decreases G-MDSCs, M-MDSCs, and
+                 macrophages in the lungs within 48 h, but significant numbers
+                 of functional immunosuppressive G-MDSCs persist in the lungs
+                 for 2 weeks after tumor resection, indicative of an
+                 environment that can promote metastatic tumor growth. The
+                 chemotherapeutic agent gemcitabine depletes G-MDSCs, M-MDSCs,
+                 macrophages, and eosinophils in the lungs of 4T1 tumor-bearing
+                 mice, and we found that treating mice with gemcitabine after
+                 primary tumor resection decreases residual G-MDSCs in the
+                 lungs and decreases subsequent metastatic growth. CONCLUSIONS:
+                 Our data support the development of therapeutic strategies to
+                 target MDSCs and to monitor MDSC levels before and after
+                 primary tumor resection to enhance the effectiveness of
+                 immune-based therapies and improve the treatment of metastatic
+                 breast cancer in the clinic.",
+  journal     = "Breast Cancer Res.",
+  volume      =  21,
+  number      =  1,
+  pages       = "103",
+  month       =  sep,
+  year        =  2019,
+  keywords    = "4T07; 4T1; 67NR; Eosinophils; Gemcitabine; Macrophages;
+                 Metastasis; Myeloid-derived suppressor cells; Tumor resection",
+  language    = "en",
+  original_id = "a01259cc-9eec-0efc-b67e-2b396d3afe6b"
+}
+
+@MISC{noauthor_undated-ra,
+  title        = "[No title]",
+  howpublished = "\url{https://aacrjournals.org/cancerres/article/38/10/3174/482372/Heterogeneity-of-Tumor-Cells-from-a-Single-Mouse}",
+  note         = "Accessed: 2022-9-5"
+}
+
+@MISC{noauthor_undated-uh,
+  title        = "Granulocyte-colony stimulating factor promotes lung
+                  metastasis through mobilization of {Ly6G+Ly6C+} granulocytes",
+  booktitle    = "{PNAS}",
+  abstract     = "Priming of the organ-specific premetastatic sites is thought
+                  to be an important yet incompletely understood step during
+                  metastasis. In this study, we ...",
+  howpublished = "\url{https://www.pnas.org/doi/full/10.1073/pnas.1015855107}",
+  note         = "Accessed: 2022-5-15",
+  language     = "en",
+  original_id  = "f640c65a-4cc9-08ce-8379-32bee988c95a"
+}
+
+@ARTICLE{Wang2022-ln,
+  title    = "Mesenchymal stem cells attenuate acute lung injury in mice partly
+              by suppressing alveolar macrophage activation in a
+              {PGE2-dependent} manner",
+  author   = "Wang, Gaojian and Zhang, Yaping and Hu, Nianqiang and Liu, Qinxue
+              and Ma, Fengjie and Xie, Junran",
+  abstract = "Mesenchymal stem cells (MSCs) have been demonstrated to attenuate
+              acute lung injury (ALI). We also found that they can suppress the
+              activation of alveolar macrophages (AMs), which can partly
+              account for their therapeutic effects. MSCs do not inherently own
+              immunosuppressive effects, when co-cultured with inflammatory
+              immune cells, MSCs can be activated by inflammatory cytokines and
+              meanwhile exert immunosuppressive effects. In order to further
+              research, RNA sequencing (RNA-seq) of MSCs cultured before and
+              after co-culturing with activated macrophages was performed. The
+              data suggested a total of 5268 differentially expressed genes
+              (DEGs) along the process. We used the data of 2754 upregulated
+              DEGs to develop a signaling network of genes and the
+              transcription factors targeting them in order to predict the
+              altered functions of MSCs after exposure to inflammatory stimuli.
+              This constructed network revealed some critical target genes and
+              potential roles of MSCs under inflammatory conditions. According
+              to the network, Ptgs2 was assumed to be an important gene
+              participating in the immunosuppressive effects of MSCs. We also
+              identified significant increases in the expression of COX2
+              protein and the secretion of PGE2 from MSCs. The use of the COX2
+              inhibitor NS-398 restrained the secretion of PGE2 and reversed
+              the suppression of macrophage activation by MSCs in vitro. In
+              addition, a selective antagonist of PGE2 binding receptor (EP4
+              receptor), GW627368X, also reversed the inhibitory effects of
+              MSCs on AMs and the protective effects in ALI mouse. In summary,
+              the therapeutic effects of MSCs on ALI partly occur through
+              suppressing AM activation via PGE2 binding to EP4 receptor.",
+  journal  = "Inflammation",
+  month    =  jun,
+  year     =  2022,
+  keywords = "Acute lung injury; Alveolar macrophage; Mesenchymal stem cell;
+              Prostaglandin E2; RNA-sequence",
+  language = "en"
+}
+
 @ARTICLE{Stackowicz2019-gb,
   title       = "Mouse Models and Tools for the in vivo Study of Neutrophils",
   author      = "Stackowicz, Julien and J{\"o}nsson, Friederike and Reber,
@@ -101,19 +304,6 @@
               tissue-resident macrophages; trained immunity; tumor
               microenvironment; tumor-associated macrophages",
   language = "en"
-}
-
-@MISC{noauthor_undated-uh,
-  title        = "Granulocyte-colony stimulating factor promotes lung
-                  metastasis through mobilization of {Ly6G+Ly6C+} granulocytes",
-  booktitle    = "{PNAS}",
-  abstract     = "Priming of the organ-specific premetastatic sites is thought
-                  to be an important yet incompletely understood step during
-                  metastasis. In this study, we ...",
-  howpublished = "\url{https://www.pnas.org/doi/full/10.1073/pnas.1015855107}",
-  note         = "Accessed: 2022-5-15",
-  language     = "en",
-  original_id  = "f640c65a-4cc9-08ce-8379-32bee988c95a"
 }
 
 @ARTICLE{Skelton2001-uz,
@@ -440,51 +630,6 @@
   original_id = "57903e11-369c-02ff-84ad-9a92c5dc38dd"
 }
 
-@ARTICLE{Dawod2020-or,
-  title       = "Myeloid-derived suppressor cell depletion therapy targets
-                 {IL-17A-expressing} mammary carcinomas",
-  author      = "Dawod, Bassel and Liu, Jinghua and Gebremeskel, Simon and Yan,
-                 Chi and Sappong, Antonia and Johnston, Brent and Hoskin, David
-                 W and Marshall, Jean S and Wang, Jun",
-  abstract    = "Triple-negative breast cancer (TNBC) is an invasive subtype of
-                 breast cancer but paradoxically associated with increased
-                 tumor-infiltrating leukocytes. The molecular and cellular
-                 mechanisms underlying TNBC immunobiology are incompletely
-                 understood. Interleukin (IL)-17A is a pro-inflammatory
-                 cytokine that has both pro- and anti-tumor effects and found
-                 in 40-80\% of TNBC samples. We report here that IL-17A mRNA
-                 and protein are detectable in some human TNBC cell lines and
-                 further upregulated by IL-23 and LPS stimulation. Furthermore,
-                 the impact of tumor-derived IL-17A in host immune response and
-                 tumor growth was examined using murine TNBC 4T1 mammary
-                 carcinoma cells transduced with an adenoviral vector
-                 expressing IL-17A (AdIL-17A) or control vector (Addl).
-                 Compared to Addl-transduction, AdIL-17A-transduction enhanced
-                 4T1 tumor growth and lung metastasis in vivo, which was
-                 associated with a marked expansion of myeloid-derived
-                 suppressor cells (MDSCs). However, AdIL-17A-transduction also
-                 induced strong organ-specific and time-dependent immune
-                 activation indicated by dynamic changes of NK cells, B cells,
-                 CD4, and CD8 T cells in peripheral blood, lung, and tumor
-                 site, as well as the plasma levels of IFN$\gamma$. Such
-                 findings highlight that tumor-associated IL-17A induces
-                 concurrent immune activation and immune suppression.
-                 Administration of anti-Gr1 or anti-G-CSF antibody effectively
-                 depleted MDSCs in vivo, markedly reducing the growth of
-                 AdIL-17A-transduced 4T1 tumors, and eliminating lung
-                 metastasis. Collectively, our study demonstrates that MDSC
-                 depletion is an effective and practical approach for treating
-                 IL-17A-enriched mammary carcinomas.",
-  journal     = "Sci. Rep.",
-  volume      =  10,
-  number      =  1,
-  pages       = "13343",
-  month       =  aug,
-  year        =  2020,
-  language    = "en",
-  original_id = "48b2be91-4d6d-0d9a-8919-fee5fea4fe44"
-}
-
 @ARTICLE{Ouzounova2017-ff,
   title       = "Monocytic and granulocytic myeloid derived suppressor cells
                  differentially regulate spatiotemporal tumour plasticity
@@ -521,104 +666,6 @@
   year        =  2017,
   language    = "en",
   original_id = "c082a089-f4f8-0f49-b4c5-f1e975faa17b"
-}
-
-@ARTICLE{Bosiljcic2019-en,
-  title       = "Targeting myeloid-derived suppressor cells in combination with
-                 primary mammary tumor resection reduces metastatic growth in
-                 the lungs",
-  author      = "Bosiljcic, Momir and Cederberg, Rachel A and Hamilton, Melisa
-                 J and LePard, Nancy E and Harbourne, Bryant T and Collier,
-                 Jenna L and Halvorsen, Elizabeth C and Shi, Rocky and Franks,
-                 S Elizabeth and Kim, Ada Y and Ban{\'a}th, Judit P and Hamer,
-                 Mark and Rossi, Fabio M and Bennewith, Kevin L",
-  abstract    = "BACKGROUND: Solid tumors produce proteins that can induce the
-                 accumulation of bone marrow-derived cells in various tissues,
-                 and these cells can enhance metastatic tumor growth by several
-                 mechanisms. 4T1 murine mammary tumors are known to produce
-                 granulocyte colony-stimulating factor (G-CSF) and increase the
-                 numbers of immunosuppressive CD11b+Gr1+ myeloid-derived
-                 suppressor cells (MDSCs) in tissues such as the spleen and
-                 lungs of tumor-bearing mice. While surgical resection of
-                 primary tumors decreases MDSC levels in the spleen, the
-                 longevity and impact of MDSCs and other immune cells in the
-                 lungs after tumor resection have been less studied. METHODS:
-                 We used mass cytometry time of flight (CyTOF) and flow
-                 cytometry to quantify MDSCs in the spleen, peripheral blood,
-                 and lungs of mice bearing orthotopic murine mammary tumors. We
-                 also tested the effect of primary tumor resection and/or
-                 gemcitabine treatment on the levels of MDSCs, other immune
-                 suppressor and effector cells, and metastatic tumor cells in
-                 the lungs. RESULTS: We have found that, similar to mice with
-                 4T1 tumors, mice bearing metastatic 4T07 tumors also exhibit
-                 accumulation of CD11b+Gr1+ MDSCs in the spleen and lungs,
-                 while tissues of mice with non-metastatic 67NR tumors do not
-                 contain MDSCs. Mice with orthotopically implanted 4T1 tumors
-                 have increased granulocytic (G-) MDSCs, monocytic (M-) MDSCs,
-                 macrophages, eosinophils, and NK cells in the lungs. Resection
-                 of primary 4T1 tumors decreases G-MDSCs, M-MDSCs, and
-                 macrophages in the lungs within 48 h, but significant numbers
-                 of functional immunosuppressive G-MDSCs persist in the lungs
-                 for 2 weeks after tumor resection, indicative of an
-                 environment that can promote metastatic tumor growth. The
-                 chemotherapeutic agent gemcitabine depletes G-MDSCs, M-MDSCs,
-                 macrophages, and eosinophils in the lungs of 4T1 tumor-bearing
-                 mice, and we found that treating mice with gemcitabine after
-                 primary tumor resection decreases residual G-MDSCs in the
-                 lungs and decreases subsequent metastatic growth. CONCLUSIONS:
-                 Our data support the development of therapeutic strategies to
-                 target MDSCs and to monitor MDSC levels before and after
-                 primary tumor resection to enhance the effectiveness of
-                 immune-based therapies and improve the treatment of metastatic
-                 breast cancer in the clinic.",
-  journal     = "Breast Cancer Res.",
-  volume      =  21,
-  number      =  1,
-  pages       = "103",
-  month       =  sep,
-  year        =  2019,
-  keywords    = "4T07; 4T1; 67NR; Eosinophils; Gemcitabine; Macrophages;
-                 Metastasis; Myeloid-derived suppressor cells; Tumor resection",
-  language    = "en",
-  original_id = "a01259cc-9eec-0efc-b67e-2b396d3afe6b"
-}
-
-@ARTICLE{Tacconi2021-ib,
-  title       = "{CD169+} lymph node macrophages have protective functions in
-                 mouse breast cancer metastasis",
-  author      = "Tacconi, Carlotta and Commerford, Catharina D and Dieterich,
-                 Lothar C and Schwager, Simon and He, Yuliang and Ikenberg,
-                 Kristian and Friebel, Ekaterina and Becher, Burkhard and
-                 Tugues, S{\`o}nia and Detmar, Michael",
-  abstract    = "Although the contribution of macrophages to metastasis is
-                 widely studied in primary tumors, the involvement of
-                 macrophages in tumor-draining lymph nodes (LNs) in this
-                 process is less clear. We find CD169+ macrophages as the
-                 predominant macrophage subtype in naive LNs, which undergo
-                 proliferative expansion in response to tumor stimuli. CD169+
-                 LN macrophage depletion, using an anti-CSF-1R antibody or
-                 clodronate-loaded liposomes, leads to increased metastatic
-                 burden in two mouse breast cancer models. The expansion of
-                 CD169+ macrophages is tightly connected to B cell expansion in
-                 tumor-draining LNs, and B cell depletion abrogates the effect
-                 of CD169+ macrophage absence on metastasis, indicating that
-                 the CD169+ macrophage anti-metastatic effects require B cell
-                 presence. These results reveal a protective role of CD169+ LN
-                 macrophages in breast cancer metastasis and raise caution for
-                 the use of drugs aiming at the depletion of tumor-associated
-                 macrophages, which might simultaneously deplete macrophages in
-                 tumor-draining LNs.",
-  journal     = "Cell Rep.",
-  volume      =  35,
-  number      =  2,
-  pages       = "108993",
-  month       =  apr,
-  year        =  2021,
-  keywords    = "CD169+ macrophages; breast cancer metastasis; distant organ
-                 metastasis; lymph node macrophages; tumor-associated
-                 macrophages; tumor-draining lymph node",
-  language    = "en",
-  original_id = "79fb70b1-c278-0f80-af02-42f563e36698"
 }
 
 @ARTICLE{Sunderkotter2004-bj,
@@ -1142,47 +1189,6 @@
   keywords = "CRISPR screens; Socs1; TGF beta; cancer immunology; interferon
               gamma; lung cancer; spatial genomics; spatial transcriptomics;
               tumor clonality; tumor microenvironment",
-  language = "en"
-}
-
-@ARTICLE{Wang2022-ln,
-  title    = "Mesenchymal stem cells attenuate acute lung injury in mice partly
-              by suppressing alveolar macrophage activation in a
-              {PGE2-dependent} manner",
-  author   = "Wang, Gaojian and Zhang, Yaping and Hu, Nianqiang and Liu, Qinxue
-              and Ma, Fengjie and Xie, Junran",
-  abstract = "Mesenchymal stem cells (MSCs) have been demonstrated to attenuate
-              acute lung injury (ALI). We also found that they can suppress the
-              activation of alveolar macrophages (AMs), which can partly
-              account for their therapeutic effects. MSCs do not inherently own
-              immunosuppressive effects, when co-cultured with inflammatory
-              immune cells, MSCs can be activated by inflammatory cytokines and
-              meanwhile exert immunosuppressive effects. In order to further
-              research, RNA sequencing (RNA-seq) of MSCs cultured before and
-              after co-culturing with activated macrophages was performed. The
-              data suggested a total of 5268 differentially expressed genes
-              (DEGs) along the process. We used the data of 2754 upregulated
-              DEGs to develop a signaling network of genes and the
-              transcription factors targeting them in order to predict the
-              altered functions of MSCs after exposure to inflammatory stimuli.
-              This constructed network revealed some critical target genes and
-              potential roles of MSCs under inflammatory conditions. According
-              to the network, Ptgs2 was assumed to be an important gene
-              participating in the immunosuppressive effects of MSCs. We also
-              identified significant increases in the expression of COX2
-              protein and the secretion of PGE2 from MSCs. The use of the COX2
-              inhibitor NS-398 restrained the secretion of PGE2 and reversed
-              the suppression of macrophage activation by MSCs in vitro. In
-              addition, a selective antagonist of PGE2 binding receptor (EP4
-              receptor), GW627368X, also reversed the inhibitory effects of
-              MSCs on AMs and the protective effects in ALI mouse. In summary,
-              the therapeutic effects of MSCs on ALI partly occur through
-              suppressing AM activation via PGE2 binding to EP4 receptor.",
-  journal  = "Inflammation",
-  month    =  jun,
-  year     =  2022,
-  keywords = "Acute lung injury; Alveolar macrophage; Mesenchymal stem cell;
-              Prostaglandin E2; RNA-sequence",
   language = "en"
 }
 
