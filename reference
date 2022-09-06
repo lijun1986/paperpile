@@ -1391,3 +1391,24 @@
   month    =  dec,
   year     =  1978
 }
+
+@ARTICLE{Steinmetz1983-uf,
+  title    = "Genes of the major histocompatibility complex in mouse and man",
+  author   = "Steinmetz, M and Hood, L",
+  abstract = "The genes of the major histocompatibility complex code for
+              cell-surface molecules that play an important role in the
+              generation of the immune response. These genes and molecules have
+              been studied intensively over the last five decades by
+              geneticists, biochemists, and immunologists, but only recently
+              has the isolation of the genes by molecular biologists
+              facilitated their precise characterization. Many surprising
+              findings have been made concerning their structure, multiplicity,
+              organization, function, and evolution.",
+  journal  = "Science",
+  volume   =  222,
+  number   =  4625,
+  pages    = "727--733",
+  month    =  nov,
+  year     =  1983,
+  language = "en"
+}
