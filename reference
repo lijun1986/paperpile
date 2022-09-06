@@ -1302,9 +1302,3 @@
   language     = "en",
   original_id  = "f640c65a-4cc9-08ce-8379-32bee988c95a"
 }
-
-@MISC{noauthor_undated-ci,
-  title        = "{Sci-Hub}",
-  howpublished = "\url{https://sci-hub.se/10.1007/978-3-642-70740-7_1}",
-  note         = "Accessed: 2022-9-5"
-}
