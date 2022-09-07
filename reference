@@ -1499,3 +1499,37 @@
   year     =  2021,
   language = "en"
 }
+
+@ARTICLE{Zhang2021-wv,
+  title    = "Dissecting esophageal squamous-cell carcinoma ecosystem by
+              single-cell transcriptomic analysis",
+  author   = "Zhang, Xiannian and Peng, Linna and Luo, Yingying and Zhang,
+              Shaosen and Pu, Yang and Chen, Yamei and Guo, Wenjia and Yao,
+              Jiacheng and Shao, Mingming and Fan, Wenyi and Cui, Qionghua and
+              Xi, Yiyi and Sun, Yanxia and Niu, Xiangjie and Zhao, Xuan and
+              Chen, Liping and Wang, Yuqian and Liu, Yachen and Yang, Xinyu and
+              Wang, Chengcheng and Zhong, Ce and Tan, Wen and Wang, Jianbin and
+              Wu, Chen and Lin, Dongxin",
+  abstract = "Esophageal squamous-cell carcinoma (ESCC), one of the most
+              prevalent and lethal malignant disease, has a complex but unknown
+              tumor ecosystem. Here, we investigate the composition of ESCC
+              tumors based on 208,659 single-cell transcriptomes derived from
+              60 individuals. We identify 8 common expression programs from
+              malignant epithelial cells and discover 42 cell types, including
+              26 immune cell and 16 nonimmune stromal cell subtypes in the
+              tumor microenvironment (TME), and analyse the interactions
+              between cancer cells and other cells and the interactions among
+              different cell types in the TME. Moreover, we link the cancer
+              cell transcriptomes to the somatic mutations and identify several
+              markers significantly associated with patients' survival, which
+              may be relevant to precision care of ESCC patients. These results
+              reveal the immunosuppressive status in the ESCC TME and further
+              our understanding of ESCC.",
+  journal  = "Nat. Commun.",
+  volume   =  12,
+  number   =  1,
+  pages    = "5291",
+  month    =  sep,
+  year     =  2021,
+  language = "en"
+}
