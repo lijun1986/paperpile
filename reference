@@ -1462,3 +1462,40 @@
               Single-cell RNA-seq; Tumor microenvironment",
   language = "en"
 }
+
+@ARTICLE{Dinh2021-ra,
+  title    = "Integrated single-cell transcriptome analysis reveals
+              heterogeneity of esophageal squamous cell carcinoma
+              microenvironment",
+  author   = "Dinh, Huy Q and Pan, Feng and Wang, Geng and Huang, Qing-Feng and
+              Olingy, Claire E and Wu, Zhi-Yong and Wang, Shao-Hong and Xu, Xin
+              and Xu, Xiu-E and He, Jian-Zhong and Yang, Qian and Orsulic,
+              Sandra and Haro, Marcela and Li, Li-Yan and Huang, Guo-Wei and
+              Breunig, Joshua J and Koeffler, H Phillip and Hedrick, Catherine
+              C and Xu, Li-Yan and Lin, De-Chen and Li, En-Min",
+  abstract = "The tumor microenvironment is a highly complex ecosystem of
+              diverse cell types, which shape cancer biology and impact the
+              responsiveness to therapy. Here, we analyze the microenvironment
+              of esophageal squamous cell carcinoma (ESCC) using single-cell
+              transcriptome sequencing in 62,161 cells from blood, adjacent
+              nonmalignant and matched tumor samples from 11 ESCC patients. We
+              uncover heterogeneity in most cell types of the ESCC stroma,
+              particularly in the fibroblast and immune cell compartments. We
+              identify a tumor-specific subset of CST1+ myofibroblasts with
+              prognostic values and potential biological significance. CST1+
+              myofibroblasts are also highly tumor-specific in other cancer
+              types. Additionally, a subset of antigen-presenting fibroblasts
+              is revealed and validated. Analyses of myeloid and T lymphoid
+              lineages highlight the immunosuppressive nature of the ESCC
+              microenvironment, and identify cancer-specific expression of
+              immune checkpoint inhibitors. This work establishes a rich
+              resource of stromal cell types of the ESCC microenvironment for
+              further understanding of ESCC biology.",
+  journal  = "Nat. Commun.",
+  volume   =  12,
+  number   =  1,
+  pages    = "7335",
+  month    =  dec,
+  year     =  2021,
+  language = "en"
+}
