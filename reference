@@ -1525,3 +1525,40 @@
               protein response; virus",
   language = "en"
 }
+
+@ARTICLE{Ran2019-qk,
+  title     = "{YIPF5} is essential for innate immunity to {DNA} virus and
+               facilitates {COPII-dependent} {STING} trafficking",
+  author    = "Ran, Yong and Xiong, Mei-Guang and Xu, Zhi-Sheng and Luo,
+               Wei-Wei and Wang, Su-Yun and Wang, Yan-Yi",
+  abstract  = "STING plays central roles in the innate immune response to
+               pathogens that contain DNA. Sensing cytoplasmic DNA by cyclic
+               GMP-AMP synthase produces cyclic GMP-AMP, which binds to and
+               activates STING and induces STING translocation from the
+               endoplasmic reticulum to the perinuclear microsome. However,
+               this trafficking process has not been fully elucidated yet. In
+               this study, we identified YIPF5 as a positive regulator of STING
+               trafficking. YIPF5 is essential for DNA virus- or intracellular
+               DNA-triggered production of type I IFNs. Consistently, knockdown
+               of YIPF5 impairs cellular antiviral responses to DNA virus.
+               Mechanistically, YIPF5 interacts with both STING and components
+               of COPII, facilitating STING recruitment to COPII in the
+               presence of cytoplasmic dsDNA. Furthermore, knockdown of
+               components of COPII inhibits DNA virus-triggered production of
+               type I IFNs, suggesting that COPII is involved in innate immune
+               responses to DNA viruses. Collectively, our findings demonstrate
+               that YIPF5 positively regulates STING-mediated innate immune
+               responses by recruiting STING to COPII-coated vesicles and
+               facilitating STING trafficking from the endoplasmic reticulum to
+               Golgi, providing important insights into the molecular
+               mechanisms of intracellular DNA-stimulated STING trafficking and
+               activation.",
+  journal   = "J. Immunol.",
+  publisher = "The American Association of Immunologists",
+  volume    =  203,
+  number    =  6,
+  pages     = "1560--1570",
+  month     =  sep,
+  year      =  2019,
+  language  = "en"
+}
