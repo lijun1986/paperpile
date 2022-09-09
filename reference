@@ -1562,3 +1562,42 @@
   year      =  2019,
   language  = "en"
 }
+
+@ARTICLE{Chu2021-bp,
+  title     = "Tonic prime-boost of {STING} signalling mediates {Niemann-Pick}
+               disease type {C}",
+  author    = "Chu, Ting-Ting and Tu, Xintao and Yang, Kun and Wu, Jianjun and
+               Repa, Joyce J and Yan, Nan",
+  abstract  = "The classic mode of STING activation is through binding the
+               cyclic dinucleotide 2'3'-cyclic GMP-AMP (cGAMP), produced by the
+               DNA sensor cyclic GMP-AMP synthase (cGAS), which is important
+               for the innate immune response to microbial infection and
+               autoimmune disease. Modes of STING activation that are
+               independent of cGAS are much less well understood. Here, through
+               a spatiotemporally resolved proximity labelling screen followed
+               by quantitative proteomics, we identify the lysosomal membrane
+               protein Niemann-Pick type C1 (NPC1) as a cofactor in the
+               trafficking of STING. NPC1 interacts with STING and recruits it
+               to the lysosome for degradation in both human and mouse cells.
+               Notably, we find that knockout of Npc1 'primes' STING signalling
+               by physically linking or 'tethering' STING to SREBP2
+               trafficking. Loss of NPC1 protein also 'boosts' STING signalling
+               by blocking lysosomal degradation. Both priming and boosting of
+               STING signalling are required for severe neurological disease in
+               the Npc1-/- mouse. Genetic deletion of Sting1 (the gene that
+               encodes STING) or Irf3, but not that of Cgas, significantly
+               reduced the activation of microglia and relieved the loss of
+               Purkinje neurons in the cerebellum of Npc1-/- mice, leading to
+               improved motor function. Our study identifies a cGAS- and
+               cGAMP-independent mode of STING activation that affects
+               neuropathology and provides a therapeutic target for the
+               treatment of Niemann-Pick disease type C.",
+  journal   = "Nature",
+  publisher = "Springer Science and Business Media LLC",
+  volume    =  596,
+  number    =  7873,
+  pages     = "570--575",
+  month     =  aug,
+  year      =  2021,
+  language  = "en"
+}
