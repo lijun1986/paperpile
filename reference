@@ -1678,3 +1678,45 @@
   year     =  2014,
   language = "en"
 }
+
+@ARTICLE{Mair2021-ay,
+  title    = "A lesson from the wild: The natural state of eosinophils is
+              {Ly6Ghi}",
+  author   = "Mair, Iris and Wolfenden, Andrew and Lowe, Ann E and Bennett,
+              Alex and Muir, Andrew and Smith, Hannah and Fenn, Jonathan and
+              Bradley, Janette E and Else, Kathryn J",
+  abstract = "With a long history of promoting pathological inflammation,
+              eosinophils are now emerging as important regulatory cells. Yet,
+              findings from controlled laboratory experiments so far lack
+              translation to animals, including humans, in their natural
+              environment. In order to appreciate the breadth of eosinophil
+              phenotype under non-laboratory, uncontrolled conditions, we
+              exploit a free-living population of the model organism Mus
+              musculus domesticus. Eosinophils were present at significantly
+              higher proportions in the spleen and bone marrow of wild mice
+              compared with laboratory mice. Strikingly, the majority of
+              eosinophils of wild mice exhibited a unique Ly6Ghi phenotype
+              seldom described in laboratory literature. Ly6G expression
+              correlated with activation status in spleen and bone marrow, but
+              not peritoneal exudate cells, and is therefore likely not an
+              activation marker per se. Intermediate Ly6G expression was
+              transiently induced in a small proportion of eosinophils from
+              C57BL/6 laboratory mice during acute infection with the whipworm
+              Trichuris muris, but not during low-dose chronic infection, which
+              better represents parasite exposure in the wild. We conclude that
+              the natural state of the eosinophil is not adequately reflected
+              in the standard laboratory mouse, which compromises our attempts
+              to dissect their functional relevance. Our findings emphasize the
+              importance of studying the immune system in its natural context -
+              alongside more mechanistic laboratory experiments - in order to
+              capture the entirety of immune phenotypes and functions.",
+  journal  = "Immunology",
+  volume   =  164,
+  number   =  4,
+  pages    = "766--776",
+  month    =  dec,
+  year     =  2021,
+  keywords = "Ly6G; ecoimmunology; eosinophils; flow cytometry; granulocytes;
+              phenotype; wild mice",
+  language = "en"
+}
