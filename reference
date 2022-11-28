@@ -1720,3 +1720,45 @@
               phenotype; wild mice",
   language = "en"
 }
+
+@ARTICLE{Mandula2022-zh,
+  title    = "Ablation of the endoplasmic reticulum stress kinase {PERK}
+              induces paraptosis and type {I} interferon to promote anti-tumor
+              {T} cell responses",
+  author   = "Mandula, Jessica K and Chang, Shiun and Mohamed, Eslam and
+              Jimenez, Rachel and Sierra-Mondragon, Rosa A and Chang, Darwin C
+              and Obermayer, Alyssa N and Moran-Segura, Carlos M and Das,
+              Satyajit and Vazquez-Martinez, Julio A and Prieto, Karol and
+              Chen, Ann and Smalley, Keiran S M and Czerniecki, Brian and
+              Forsyth, Peter and Koya, Richard C and Ruffell, Brian and
+              Cubillos-Ruiz, Juan R and Munn, David H and Shaw, Timothy I and
+              Conejo-Garcia, Jose R and Rodriguez, Paulo C",
+  abstract = "Activation of unfolded protein responses (UPRs) in cancer cells
+              undergoing endoplasmic reticulum (ER) stress promotes survival.
+              However, how UPR in tumor cells impacts anti-tumor immune
+              responses remains poorly described. Here, we investigate the role
+              of the UPR mediator pancreatic ER kinase (PKR)-like ER kinase
+              (PERK) in cancer cells in the modulation of anti-tumor immunity.
+              Deletion of PERK in cancer cells or pharmacological inhibition of
+              PERK in melanoma-bearing mice incites robust activation of
+              anti-tumor T cell immunity and attenuates tumor growth. PERK
+              elimination in ER-stressed malignant cells triggers
+              SEC61$\beta$-induced paraptosis, thereby promoting immunogenic
+              cell death (ICD) and systemic anti-tumor responses. ICD induction
+              in PERK-ablated tumors stimulates type I interferon production in
+              dendritic cells (DCs), which primes CCR2-dependent tumor
+              trafficking of common-monocytic precursors and their intra-tumor
+              commitment into monocytic-lineage inflammatory Ly6C+CD103+ DCs.
+              These findings identify how tumor cell-derived PERK promotes
+              immune evasion and highlight the potential of PERK-targeting
+              therapies in cancer immunotherapy.",
+  journal  = "Cancer Cell",
+  volume   =  40,
+  number   =  10,
+  pages    = "1145--1160.e9",
+  month    =  oct,
+  year     =  2022,
+  keywords = "PERK; immunogenic cell death; tumor immunity; type I IFN;
+              unfolded protein responses",
+  language = "en"
+}
