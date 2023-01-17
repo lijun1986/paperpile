@@ -1762,3 +1762,37 @@
               unfolded protein responses",
   language = "en"
 }
+
+@ARTICLE{Dean2023-is,
+  title    = "The aryl hydrocarbon receptor cell intrinsically promotes
+              resident memory {CD8+} {T} cell differentiation and function",
+  author   = "Dean, Joseph W and Helm, Eric Y and Fu, Zheng and Xiong, Lifeng
+              and Sun, Na and Oliff, Kristen N and Muehlbauer, Marcus and
+              Avram, Dorina and Zhou, Liang",
+  abstract = "The Aryl hydrocarbon receptor (Ahr) regulates the differentiation
+              and function of CD4+ T cells; however, its cell-intrinsic role in
+              CD8+ T cells remains elusive. Herein we show that Ahr acts as a
+              promoter of resident memory CD8+ T cell (TRM) differentiation and
+              function. Genetic ablation of Ahr in mouse CD8+ T cells leads to
+              increased CD127-KLRG1+ short-lived effector cells and CD44+CD62L+
+              T central memory cells but reduced granzyme-B-producing
+              CD69+CD103+ TRM cells. Genome-wide analyses reveal that Ahr
+              suppresses the circulating while promoting the resident memory
+              core gene program. A tumor resident polyfunctional CD8+ T cell
+              population, revealed by single-cell RNA-seq, is diminished upon
+              Ahr deletion, compromising anti-tumor immunity. Human intestinal
+              intraepithelial CD8+ T cells also highly express AHR that
+              regulates in vitro TRM differentiation and granzyme B production.
+              Collectively, these data suggest that Ahr is an important
+              cell-intrinsic factor for CD8+ T cell immunity.",
+  journal  = "Cell Rep.",
+  volume   =  42,
+  number   =  1,
+  pages    = "111963",
+  month    =  jan,
+  year     =  2023,
+  keywords = "CD8(+) T cell; CP: Immunology; aryl hydrocarbon receptor; cancer
+              immunology; cytotoxicity; development; differentiation; mucosal
+              immunology; tissue resident memory; tumor infiltrating lymphocyte",
+  language = "en"
+}
