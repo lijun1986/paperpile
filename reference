@@ -1794,7 +1794,7 @@
   keywords = "CD8(+) T cell; CP: Immunology; aryl hydrocarbon receptor; cancer
               immunology; cytotoxicity; development; differentiation; mucosal
               immunology; tissue resident memory; tumor infiltrating
-              lymphocyte;ARI CD8;Only mouse study",
+              lymphocyte;ARI CD8;Mouse study",
   language = "en"
 }
 
@@ -1905,7 +1905,7 @@
   pages    = "101--105",
   month    =  oct,
   year     =  2014,
-  keywords = "Only mouse study",
+  keywords = "Mouse study",
   language = "en"
 }
 
@@ -2028,7 +2028,7 @@
   month    =  dec,
   year     =  2015,
   keywords = "T-box transcription factors; TGF-$\beta$; Tissue-resident memory
-              T cells; peripheral immunity;Only mouse study",
+              T cells; peripheral immunity;Mouse study",
   language = "en"
 }
 
@@ -2064,7 +2064,7 @@
   pages    = "414--421",
   month    =  apr,
   year     =  2016,
-  keywords = "Only mouse study",
+  keywords = "Mouse study",
   language = "en"
 }
 
@@ -2146,6 +2146,43 @@
   pages    = "e89289",
   month    =  dec,
   year     =  2016,
-  keywords = "Only mouse study",
+  keywords = "Mouse study",
+  language = "en"
+}
+
+@ARTICLE{Murray2016-gl,
+  title    = "Very Late Antigen-1 Marks Functional {Tumor-Resident} {CD8} {T}
+              Cells and Correlates with Survival of Melanoma Patients",
+  author   = "Murray, Timothy and Fuertes Marraco, Silvia A and Baumgaertner,
+              Petra and Bordry, Natacha and Cagnon, Laur{\`e}ne and Donda,
+              Alena and Romero, Pedro and Verdeil, Gr{\'e}gory and Speiser,
+              Daniel E",
+  abstract = "A major limiting factor in the success of immunotherapy is tumor
+              infiltration by CD8+ T cells, a process that remains poorly
+              understood. In the present study, we characterized homing
+              receptors expressed by human melanoma-specific CD8+ T cells. Our
+              data reveal that P-selectin binding and expression of the
+              retention integrin, very late antigen (VLA)-1, by vaccine-induced
+              T cells correlate with longer patient survival. Furthermore, we
+              demonstrate that CD8+VLA-1+ tumor-infiltrating lymphocytes (TILs)
+              are highly enriched in melanoma metastases in diverse tissues.
+              VLA-1-expressing TIL frequently co-express CD69 and CD103,
+              indicating tissue-resident memory T cells (TRM) differentiation.
+              We employed a mouse model of melanoma to further characterize
+              VLA-1-expressing TIL. Our data show that VLA-1+ TRM develop in
+              murine tumors within 2 weeks, where they exhibit increased
+              activation status, as well as superior effector functions. In
+              addition, in vivo blockade of either VLA-1 or CD103 significantly
+              impaired control of subcutaneous tumors. Together, our data
+              indicate that VLA-1+ TRM develop in tumors and play an important
+              role in tumor immunity, presenting novel targets for the
+              optimization of cancer immunotherapy.",
+  journal  = "Front. Immunol.",
+  volume   =  7,
+  pages    = "573",
+  month    =  dec,
+  year     =  2016,
+  keywords = "CD103; VLA-1; cancer vaccines; melanoma; tissue-resident memory T
+              cells",
   language = "en"
 }
