@@ -1296,6 +1296,48 @@
   language = "en"
 }
 
+@ARTICLE{Jin2022-cq,
+  title    = "{CD103+CD8+} tissue-resident memory {T} cell infiltration
+              predicts clinical outcome and adjuvant therapeutic benefit in
+              muscle-invasive bladder cancer",
+  author   = "Jin, Kaifeng and Yu, Yanze and Zeng, Han and Liu, Zhaopei and
+              You, Runze and Zhang, Hongyi and Liu, Chunnan and Su, Xiaohe and
+              Yan, Sen and Chang, Yuan and Xu, Le and Xu, Jiejie and Zhu, Yu
+              and Wang, Zewei",
+  abstract = "BACKGROUND: CD103+CD8+ tissue-resident memory T (TRM) cells,
+              associated with better overall survival among various
+              malignancies, are thought to activate anti-tumour immune response
+              and affect therapeutic sensitivity including both immunotherapy
+              and adjuvant chemotherapy (ACT). METHODS: Totally 650
+              muscle-invasive bladder cancer (MIBC) patients from three
+              independent cohorts were included in this study for survival and
+              cisplatin-based ACT response analysis. Another public data set
+              consisting of 195 patients from IMvigor210 trial receiving PD-L1
+              blockade were involved in the assessment of immunotherapeutic
+              response. Fifty-nine fresh tumour tissues were used to evaluate
+              immune infiltration of CD103+CD8+ TRM cells. RESULTS: Patients
+              with high CD103+CD8+ TRM cells infiltration, but not CD8+ T
+              cells, are more likely to benefit from immunotherapy and ACT. The
+              presence of TRM cells is highly associated with an enhanced
+              IFN$\gamma$-enriched and T cell-inflamed anti-tumour
+              microenvironment. Elevated CD103+CD8+ TRM cells infiltration
+              correlated with superior ACT response in mismatch repair (MMR),
+              homologous recombination (HR), PIK3CA/AKT and RAS/RAF pathway
+              proficient or histone modification and cell cycle pathway
+              deficient patients. CONCLUSIONS: CD103+CD8+ TRM cells played a
+              crucial role in anti-tumour immunity and served as an ideal
+              prognostic biomarker. It could be treated as a superior companion
+              predictor for treatment response to PD-L1 inhibitor and ACT
+              within MIBC patients.",
+  journal  = "Br. J. Cancer",
+  volume   =  126,
+  number   =  11,
+  pages    = "1581--1588",
+  month    =  jun,
+  year     =  2022,
+  language = "en"
+}
+
 @ARTICLE{Duhen2018-rt,
   title    = "Co-expression of {CD39} and {CD103} identifies tumor-reactive
               {CD8} {T} cells in human solid tumors",
