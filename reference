@@ -3705,3 +3705,41 @@
               scRNA-seq; vitiligo;Mouse study",
   language = "en"
 }
+
+@ARTICLE{Losurdo2021-wa,
+  title    = "Single-cell profiling defines the prognostic benefit of
+              {CD39high} tissue resident memory {CD8+} {T} cells in
+              luminal-like breast cancer",
+  author   = "Losurdo, Agnese and Scirgolea, Caterina and Alvisi, Giorgia and
+              Brummelman, Jolanda and Errico, Valentina and Di Tommaso, Luca
+              and Pilipow, Karolina and Colombo, Federico Simone and Fernandes,
+              Bethania and Peano, Clelia and Testori, Alberto and Tinterri,
+              Corrado and Roncalli, Massimo and Santoro, Armando and Mazza,
+              Emilia Maria Cristina and Lugli, Enrico",
+  abstract = "Luminal-like breast cancer (BC) constitutes the majority of BC
+              subtypes, but, differently from highly aggressive triple negative
+              BC, is poorly infiltrated by the immune system. The quality of
+              the immune infiltrate in luminal-like BCs has been poorly
+              studied, thereby limiting further investigation of
+              immunotherapeutic strategies. By using high-dimensional
+              single-cell technologies, we identify heterogeneous behavior
+              within the tissue-resident memory CD8+ T (Trm) cells infiltrating
+              luminal-like tumors. A subset of CD127- CD39hi Trm cells,
+              preferentially present in the tumor compared to the adjacent
+              normal breast tissue or peripheral blood, retains enhanced
+              degranulation capacity compared to the CD127+ CD39lo Trm
+              counterpart ex vivo, and is specifically associated with positive
+              prognosis. Nevertheless, such prognostic benefit is lost in the
+              presence of highly-suppressive CCR8hi ICOShi IRF4+ effector
+              Tregs. Thus, combinatorial strategies aiming at boosting Trm
+              function and infiltration while relieving from Treg-mediated
+              immunosuppression should be investigated to achieve proper tumor
+              control in luminal-like BCs.",
+  journal  = "Commun Biol",
+  volume   =  4,
+  number   =  1,
+  pages    = "1117",
+  month    =  sep,
+  year     =  2021,
+  language = "en"
+}
