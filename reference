@@ -3628,3 +3628,39 @@
   keywords = "Mouse study",
   language = "en"
 }
+
+@ARTICLE{Malenica2021-nb,
+  title    = "{Integrin-$\alpha$V-mediated} activation of {TGF-$\beta$}
+              regulates anti-tumour {CD8} {T} cell immunity and response to
+              {PD-1} blockade",
+  author   = "Malenica, Ines and Adam, Julien and Corgnac, St{\'e}phanie and
+              Mezquita, Laura and Auclin, Edouard and Damei, Isabelle and
+              Grynszpan, Laetitia and Gros, Gwendoline and de Montpr{\'e}ville,
+              Vincent and Planchard, David and Th{\'e}ret, Nathalie and Besse,
+              Benjamin and Mami-Chouaib, Fathia",
+  abstract = "TGF-$\beta$ is secreted in the tumour microenvironment in a
+              latent, inactive form bound to latency associated protein and
+              activated by the integrin $\alpha$V subunit. The activation of
+              latent TGF-$\beta$ by cancer-cell-expressed $\alpha$V re-shapes
+              the tumour microenvironment, and this could affect patient
+              responses to PD-1-targeting therapy. Here we show, using
+              multiplex immunofluorescence staining in cohorts of anti-PD-1 and
+              anti-PD-L1-treated lung cancer patients, that decreased
+              expression of cancer cell $\alpha$V is associated with improved
+              immunotherapy-related, progression-free survival, as well as with
+              an increased density of CD8+CD103+ tumour-infiltrating
+              lymphocytes. Mechanistically, tumour $\alpha$V regulates CD8 T
+              cell recruitment, induces CD103 expression on activated CD8+ T
+              cells and promotes their differentiation to granzyme B-producing
+              CD103+CD69+ resident memory T cells via autocrine TGF-$\beta$
+              signalling. Thus, our work provides the underlying principle of
+              targeting cancer cell $\alpha$V for more efficient PD-1
+              checkpoint blockade therapy.",
+  journal  = "Nat. Commun.",
+  volume   =  12,
+  number   =  1,
+  pages    = "5209",
+  month    =  sep,
+  year     =  2021,
+  language = "en"
+}
