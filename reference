@@ -2464,3 +2464,46 @@
   keywords = "Mouse study",
   language = "en"
 }
+
+@ARTICLE{Milner2017-rq,
+  title    = "Runx3 programs {CD8+} {T} cell residency in non-lymphoid tissues
+              and tumours",
+  author   = "Milner, J Justin and Toma, Clara and Yu, Bingfei and Zhang, Kai
+              and Omilusik, Kyla and Phan, Anthony T and Wang, Dapeng and
+              Getzler, Adam J and Nguyen, Toan and Crotty, Shane and Wang, Wei
+              and Pipkin, Matthew E and Goldrath, Ananda W",
+  abstract = "Tissue-resident memory CD8+ T (TRM) cells are found at common
+              sites of pathogen exposure, where they elicit rapid and robust
+              protective immune responses. However, the molecular signals that
+              control TRM cell differentiation and homeostasis are not fully
+              understood. Here we show that mouse TRM precursor cells represent
+              a unique CD8+ T cell subset that is distinct from the precursors
+              of circulating memory cell populations at the levels of gene
+              expression and chromatin accessibility. Using computational and
+              pooled in vivo RNA interference screens, we identify the
+              transcription factor Runx3 as a key regulator of TRM cell
+              differentiation and homeostasis. Runx3 was required to establish
+              TRM cell populations in diverse tissue environments, and
+              supported the expression of crucial tissue-residency genes while
+              suppressing genes associated with tissue egress and
+              recirculation. Furthermore, we show that human and mouse
+              tumour-infiltrating lymphocytes share a core tissue-residency
+              gene-expression signature with TRM cells that is associated with
+              Runx3 activity. In a mouse model of adoptive T cell therapy for
+              melanoma, Runx3-deficient CD8+ tumour-infiltrating lymphocytes
+              failed to accumulate in tumours, resulting in greater rates of
+              tumour growth and mortality. Conversely, overexpression of Runx3
+              enhanced tumour-specific CD8+ T cell abundance, delayed tumour
+              growth, and prolonged survival. In addition to establishing Runx3
+              as a central regulator of TRM cell differentiation, these results
+              provide insight into the signals that promote T cell residency in
+              non-lymphoid sites, which could be used to enhance vaccine
+              efficacy or adoptive cell therapy treatments that target cancer.",
+  journal  = "Nature",
+  volume   =  552,
+  number   =  7684,
+  pages    = "253--257",
+  month    =  dec,
+  year     =  2017,
+  language = "en"
+}
