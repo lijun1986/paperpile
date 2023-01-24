@@ -2803,3 +2803,37 @@
               lymphocytes;Mouse study",
   language = "en"
 }
+
+@ARTICLE{Menares2019-op,
+  title    = "Tissue-resident memory {CD8+} {T} cells amplify anti-tumor
+              immunity by triggering antigen spreading through dendritic cells",
+  author   = "Menares, Evelyn and G{\'a}lvez-Cancino, Felipe and
+              C{\'a}ceres-Morgado, Pablo and Ghorani, Ehsan and L{\'o}pez,
+              Ernesto and D{\'\i}az, Ximena and Saavedra-Almarza, Juan and
+              Figueroa, Diego A and Roa, Eduardo and Quezada, Sergio A and
+              Lladser, Alvaro",
+  abstract = "Tissue-resident memory CD8+ T (Trm) cells mediate potent local
+              innate and adaptive immune responses and play a central role
+              against solid tumors. However, whether Trm cells cross-talk with
+              dendritic cells (DCs) to support anti-tumor immunity remains
+              unclear. Here we show that antigen-specific activation of skin
+              Trm cells leads to maturation and migration to draining lymph
+              nodes of cross-presenting dermal DCs. Tumor rejection mediated by
+              Trm cells triggers the spread of cytotoxic CD8+ T cell responses
+              against tumor-derived neo- and self-antigens via dermal DCs.
+              These responses suppress the growth of intradermal tumors and
+              disseminated melanoma lacking the Trm cell-targeted epitope.
+              Moreover, analysis of RNA sequencing data from human melanoma
+              tumors reveals that enrichment of a Trm cell gene signature
+              associates with DC activation and improved survival. This work
+              unveils the ability of Trm cells to amplify the breath of
+              cytotoxic CD8+ T cell responses through DCs, thereby
+              strengthening anti-tumor immunity.",
+  journal  = "Nat. Commun.",
+  volume   =  10,
+  number   =  1,
+  pages    = "4401",
+  month    =  sep,
+  year     =  2019,
+  language = "en"
+}
