@@ -2913,3 +2913,42 @@
   keywords = "Mouse study",
   language = "en"
 }
+
+@ARTICLE{Swadling2020-um,
+  title    = "Human Liver Memory {CD8+} {T} Cells Use Autophagy for Tissue
+              Residence",
+  author   = "Swadling, Leo and Pallett, Laura J and Diniz, Mariana O and
+              Baker, Josephine M and Amin, Oliver E and Stegmann, Kerstin A and
+              Burton, Alice R and Schmidt, Nathalie M and Jeffery-Smith, Anna
+              and Zakeri, Nekisa and Suveizdyte, Kornelija and Froghi, Farid
+              and Fusai, Giuseppe and Rosenberg, William M and Davidson, Brian
+              R and Schurich, Anna and Simon, A Katharina and Maini, Mala K",
+  abstract = "Tissue-resident memory T cells have critical roles in long-term
+              pathogen and tumor immune surveillance in the liver. We
+              investigate the role of autophagy in equipping human memory T
+              cells to acquire tissue residence and maintain functionality in
+              the immunosuppressive liver environment. By performing ex vivo
+              staining of freshly isolated cells from human liver tissue, we
+              find that an increased rate of basal autophagy is a hallmark of
+              intrahepatic lymphocytes, particularly liver-resident CD8+ T
+              cells. CD8+ T cells with increased autophagy are those best able
+              to proliferate and mediate cytotoxicity and cytokine production.
+              Conversely, blocking autophagy induction results in the
+              accumulation of depolarized mitochondria, a feature of exhausted
+              T cells. Primary hepatic stellate cells or the prototypic hepatic
+              cytokine interleukin (IL)-15 induce autophagy in parallel with
+              tissue-homing/retention markers. Inhibition of T cell autophagy
+              abrogates tissue-residence programming. Thus, upregulation of
+              autophagy adapts CD8+ T cells to combat mitochondrial
+              depolarization, optimize functionality, and acquire tissue
+              residence.",
+  journal  = "Cell Rep.",
+  volume   =  30,
+  number   =  3,
+  pages    = "687--698.e6",
+  month    =  jan,
+  year     =  2020,
+  keywords = "IL-15; T cell; autophagy; hepatitis B virus; immunometabolism;
+              liver; mitophagy; tissue-resident",
+  language = "en"
+}
