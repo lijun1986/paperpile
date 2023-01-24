@@ -4284,3 +4284,52 @@
               memory-like T cell; tumor-infiltrating lymphocyte;Human study",
   language = "en"
 }
+
+@ARTICLE{Nose2023-yy,
+  title    = "The tissue-resident marker {CD103} on peripheral blood {T} cells
+              predicts responses to {anti-PD-1} therapy in gastric cancer",
+  author   = "Nose, Yohei and Saito, Takuro and Yamamoto, Kei and Yamashita,
+              Kotaro and Tanaka, Koji and Yamamoto, Kazuyoshi and Makino,
+              Tomoki and Takahashi, Tsuyoshi and Kawashima, Atsunari and
+              Haruna, Miya and Hirata, Michinari and Ueyama, Azumi and Iwahori,
+              Kota and Satoh, Taroh and Kurokawa, Yukinori and Eguchi,
+              Hidetoshi and Doki, Yuichiro and Wada, Hisashi",
+  abstract = "BACKGROUND: Immune checkpoint inhibitors (ICIs) have
+              revolutionized cancer treatment. Since clinical benefits are
+              limited to a subset of patients, we aimed to identify peripheral
+              blood biomarkers that predict the efficacy of the anti-programmed
+              cell death protein 1 (PD-1) antibody (nivolumab) in patients with
+              gastric cancer. METHODS: We collected peripheral blood samples
+              from gastric cancer patients (n = 29) before and after treatment
+              with nivolumab and investigated the relationship between the
+              frequency of surface or intracellular markers among
+              nivolumab-binding PD-1+CD8+ T cells and treatment responses using
+              multicolor flow cytometry. The tumors, lymph nodes, and
+              peripheral blood of gastric cancer patients who underwent
+              gastrectomy following nivolumab treatment were collected, and
+              nivolumab-binding PD-1+CD8+ T cells in these tissue samples were
+              characterized. RESULTS: Patients with a high frequency of CD103
+              among PD-1+CD8+ T cells in peripheral blood 2 weeks after the
+              start of treatment had significantly better progression-free
+              survival than the low group (P = 0.032). This CD103+PD-1+CD8+ T
+              cell population mainly consisted of central memory T cells,
+              showing the high expression of Ki-67 and few cytotoxic granules.
+              In contrast, effector memory T cells were more frequently
+              observed among CD103+PD-1+CD8+ T cells in tumors, which implied a
+              change in the differentiated status of central memory T cells in
+              lymph nodes and peripheral blood to effector memory T cells in
+              tumors during the treatment with ICIs. CONCLUSIONS: A high
+              frequency of CD103 among PD-1+CD8+ T cells 2 weeks after
+              nivolumab treatment in patients with advanced gastric cancer may
+              be a useful biomarker for predicting the efficacy of anti-PD-1
+              therapy.",
+  journal  = "Cancer Immunol. Immunother.",
+  volume   =  72,
+  number   =  1,
+  pages    = "169--181",
+  month    =  jan,
+  year     =  2023,
+  keywords = "CD103; Clinical response; Gastric cancer; Nivolumab; Predictive
+              biomarker",
+  language = "en"
+}
