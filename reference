@@ -3560,3 +3560,41 @@
   keywords = "Human study",
   language = "en"
 }
+
+@ARTICLE{You2021-gf,
+  title    = "Active surveillance characterizes human intratumoral {T} cell
+              exhaustion",
+  author   = "You, Ran and Artichoker, Jordan and Fries, Adam and Edwards,
+              Austin W and Combes, Alexis J and Reeder, Gabriella C and Samad,
+              Bushra and Krummel, Matthew F",
+  abstract = "Intratumoral T cells that might otherwise control tumors are
+              often identified in an ``exhausted'' state, defined by specific
+              epigenetic modifications and upregulation of genes such as CD38,
+              cytotoxic T-lymphocyte-associated protein 4 (CTLA4), and
+              programmed cell death 1 (PD1). Although the term might imply
+              inactivity, there has been little study of this state at the
+              phenotypic level in tumors to understand the extent of their
+              incapacitation. Starting with the observation that T cells move
+              more quickly through mouse tumors the longer they reside there
+              and progress toward exhaustion, we developed a nonstimulatory,
+              live-biopsy method for the real-time study of T cell behavior
+              within individual patient tumors. Using 2-photon microscopy, we
+              studied native CD8+ T cell interaction with antigen-presenting
+              cells (APCs) and cancer cells in different microniches of human
+              tumors and found that T cell speed was variable by region and by
+              patient and was inversely correlated with local tumor density.
+              Across a range of tumor types, we found a strong relationship
+              between CD8+ T cell motility and the exhausted T cell state that
+              corresponded with our observations made in mouse models in which
+              exhausted T cells moved faster. Our study demonstrates T cell
+              dynamic states in individual human tumors and supports the
+              existence of an active program in ``exhausted'' T cells that
+              extends beyond incapacitating them.",
+  journal  = "J. Clin. Invest.",
+  volume   =  131,
+  number   =  18,
+  month    =  sep,
+  year     =  2021,
+  keywords = "Cancer; Immunology; Oncology; T cells",
+  language = "en"
+}
