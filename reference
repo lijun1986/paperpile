@@ -3790,3 +3790,39 @@
               microenvironment; tumor-infiltrating;Human study",
   language = "en"
 }
+
+@ARTICLE{Evrard2022-zv,
+  title    = "Sphingosine 1-phosphate receptor 5 ({S1PR5}) regulates the
+              peripheral retention of tissue-resident lymphocytes",
+  author   = "Evrard, Maximilien and Wynne-Jones, Erica and Peng, Changwei and
+              Kato, Yu and Christo, Susan N and Fonseca, Raissa and Park,
+              Simone L and Burn, Thomas N and Osman, Maleika and Devi, Sapna
+              and Chun, Jerold and Mueller, Scott N and Kannourakis, George and
+              Berzins, Stuart P and Pellicci, Daniel G and Heath, William R and
+              Jameson, Stephen C and Mackay, Laura K",
+  abstract = "Tissue-resident memory T (TRM) cells provide long-lasting immune
+              protection. One of the key events controlling TRM cell
+              development is the local retention of TRM cell precursors coupled
+              to downregulation of molecules necessary for tissue exit.
+              Sphingosine-1-phosphate receptor 5 (S1PR5) is a migratory
+              receptor with an uncharted function in T cells. Here, we show
+              that S1PR5 plays a critical role in T cell infiltration and
+              emigration from peripheral organs, as well as being specifically
+              downregulated in TRM cells. Consequentially, TRM cell development
+              was selectively impaired upon ectopic expression of S1pr5,
+              whereas loss of S1pr5 enhanced skin TRM cell formation by
+              promoting peripheral T cell sequestration. Importantly, we found
+              that T-bet and ZEB2 were required for S1pr5 induction and that
+              local TGF-$\beta$ signaling was necessary to promote coordinated
+              Tbx21, Zeb2, and S1pr5 downregulation. Moreover, S1PR5-mediated
+              control of tissue residency was conserved across innate and
+              adaptive immune compartments. Together, these results identify
+              the T-bet-ZEB2-S1PR5 axis as a previously unappreciated mechanism
+              modulating the generation of tissue-resident lymphocytes.",
+  journal  = "J. Exp. Med.",
+  volume   =  219,
+  number   =  1,
+  month    =  jan,
+  year     =  2022,
+  language = "en"
+}
