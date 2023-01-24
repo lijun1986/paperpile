@@ -3456,3 +3456,46 @@
   keywords = "Human study",
   language = "en"
 }
+
+@ARTICLE{Cheng2021-by,
+  title    = "Non-terminally exhausted tumor-resident memory {HBV-specific} {T}
+              cell responses correlate with relapse-free survival in
+              hepatocellular carcinoma",
+  author   = "Cheng, Yang and Gunasegaran, Bavani and Singh, Harsimran D and
+              Dutertre, Charles-Antoine and Loh, Chiew Yee and Lim, Jia Qi and
+              Crawford, Jeremy Chase and Lee, Hong Kai and Zhang, Xiaomeng and
+              Lee, Bernett and Becht, Etienne and Lim, Wan Jun and Yeong, Joe
+              and Chan, Chung Yip and Chung, Alexander and Goh, Brian K P and
+              Chow, Pierce K H and Chan, Jerry K Y and Ginhoux, Florent and
+              Tai, David and Chen, Jinmiao and Lim, Seng Gee and Zhai, Weiwei
+              and Choo, Su Pin and Newell, Evan W",
+  abstract = "Hepatocellular carcinoma (HCC) often develops following chronic
+              hepatitis B virus (HBV) infection and responds poorly to immune
+              checkpoint blockade. Here, we examined the antigen specificities
+              of HCC-infiltrating T cells and their relevance to tumor control.
+              Using highly multiplexed peptide-MHC tetramer staining of
+              unexpanded cells from blood, liver, and tumor tissues from 46 HCC
+              patients, we detected 91 different antigen-specific CD8+ T cell
+              populations targeting HBV, neoantigen, tumor-associated, and
+              disease-unrelated antigens. Parallel high-dimensional analysis
+              delineated five distinct antigen-specific tissue-resident memory
+              T (Trm) cell populations. Intratumoral and intrahepatic
+              HBV-specific T cells were enriched for two Trm cell subsets that
+              were PD-1loTOXlo, despite being clonally expanded. High
+              frequencies of intratumoral terminally exhausted T cells were
+              uncommon. Patients with tumor-infiltrating HBV-specific CD8+ Trm
+              cells exhibited longer-term relapse-free survival. Thus,
+              non-terminally exhausted HBV-specific CD8+ Trm cells show
+              hallmarks of active involvement and effective antitumor response,
+              implying that these cells could be harnessed for therapeutic
+              purposes.",
+  journal  = "Immunity",
+  volume   =  54,
+  number   =  8,
+  pages    = "1825--1840.e7",
+  month    =  aug,
+  year     =  2021,
+  keywords = "CD8; HBV; HCC; T cell exhaustion; TCR; Tex; Trm; highly
+              multiplexed pMHC tetramer; mass cytometry; virus-specific T cell",
+  language = "en"
+}
