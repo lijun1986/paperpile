@@ -3234,3 +3234,38 @@
               lymphocytes;Human study",
   language = "en"
 }
+
+@ARTICLE{Gueguen2021-mu,
+  title    = "Contribution of resident and circulating precursors to
+              tumor-infiltrating {CD8+} {T} cell populations in lung cancer",
+  author   = "Gueguen, Paul and Metoikidou, Christina and Dupic, Thomas and
+              Lawand, Myriam and Goudot, Christel and Baulande, Sylvain and
+              Lameiras, Sonia and Lantz, Olivier and Girard, Nicolas and
+              Seguin-Givelet, Agathe and Lefevre, Marine and Mora, Thierry and
+              Walczak, Aleksandra M and Waterfall, Joshua J and Amigorena,
+              Sebastian",
+  abstract = "Tumor-infiltrating lymphocytes (TILs), in general, and especially
+              CD8+ TILs, represent a favorable prognostic factor in non-small
+              cell lung cancer (NSCLC). The tissue origin, regenerative
+              capacities, and differentiation pathways of TIL subpopulations
+              remain poorly understood. Using a combination of single-cell RNA
+              and T cell receptor (TCR) sequencing, we investigate the
+              functional organization of TIL populations in primary NSCLC. We
+              identify two CD8+ TIL subpopulations expressing memory-like gene
+              modules: one is also present in blood (circulating precursors)
+              and the other one in juxtatumor tissue (tissue-resident
+              precursors). In tumors, these two precursor populations converge
+              through a unique transitional state into terminally
+              differentiated cells, often referred to as dysfunctional or
+              exhausted. Differentiation is associated with TCR expansion, and
+              transition from precursor to late-differentiated states
+              correlates with intratumor T cell cycling. These results provide
+              a coherent working model for TIL origin, ontogeny, and functional
+              organization in primary NSCLC.",
+  journal  = "Sci Immunol",
+  volume   =  6,
+  number   =  55,
+  month    =  jan,
+  year     =  2021,
+  language = "en"
+}
