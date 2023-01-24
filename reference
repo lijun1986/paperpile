@@ -3270,3 +3270,41 @@
   keywords = "Human study",
   language = "en"
 }
+
+@ARTICLE{Liikanen2021-hz,
+  title    = "Hypoxia-inducible factor activity promotes antitumor effector
+              function and tissue residency by {CD8+} {T} cells",
+  author   = "Liikanen, Ilkka and Lauhan, Colette and Quon, Sara and Omilusik,
+              Kyla and Phan, Anthony T and Bartrol{\'\i}, Laura Barcel{\'o} and
+              Ferry, Amir and Goulding, John and Chen, Joyce and Scott-Browne,
+              James P and Yustein, Jason T and Scharping, Nicole E and
+              Witherden, Deborah A and Goldrath, Ananda W",
+  abstract = "Adoptive T cell therapies (ACTs) hold great promise in cancer
+              treatment, but low overall response rates in patients with solid
+              tumors underscore remaining challenges in realizing the potential
+              of this cellular immunotherapy approach. Promoting CD8+ T cell
+              adaptation to tissue residency represents an underutilized but
+              promising strategy to improve tumor-infiltrating lymphocyte (TIL)
+              function. Here, we report that deletion of the HIF negative
+              regulator von Hippel-Lindau (VHL) in CD8+ T cells induced
+              HIF-1$\alpha$/HIF-2$\alpha$-dependent differentiation of
+              tissue-resident memory-like (Trm-like) TILs in mouse models of
+              malignancy. VHL-deficient TILs accumulated in tumors and
+              exhibited a core Trm signature despite an exhaustion-associated
+              phenotype, which led to retained polyfunctionality and response
+              to $\alpha$PD-1 immunotherapy, resulting in tumor eradication and
+              protective tissue-resident memory. VHL deficiency similarly
+              facilitated enhanced accumulation of chimeric antigen receptor
+              (CAR) T cells with a Trm-like phenotype in tumors. Thus, HIF
+              activity in CD8+ TILs promotes accumulation and antitumor
+              activity, providing a new strategy to enhance the efficacy of
+              ACTs.",
+  journal  = "J. Clin. Invest.",
+  volume   =  131,
+  number   =  7,
+  month    =  apr,
+  year     =  2021,
+  keywords = "Adaptive immunity; Immunology; Immunotherapy; T cells;
+              Therapeutics",
+  language = "en"
+}
