@@ -2971,6 +2971,57 @@
   language = "en"
 }
 
+@ARTICLE{Corgnac2022-tn,
+  title    = "Cancer stem-like cells evade {CD8+CD103+} tumor-resident memory
+              {T} ({TRM}) lymphocytes by initiating an
+              epithelial-to-mesenchymal transition program in a human lung
+              tumor model",
+  author   = "Corgnac, St{\'e}phanie and Damei, Isabelle and Gros, Gwendoline
+              and Caidi, Aziza and Terry, St{\'e}phane and Chouaib, Salem and
+              Deloger, Marc and Mami-Chouaib, Fathia",
+  abstract = "BACKGROUND: Cancer stem cells (CSC) define a population of rare
+              malignant cells endowed with 'stemness' properties, such as
+              self-renewing, multipotency and tumorigenicity. They are
+              responsible for tumor initiation and progression, and could be
+              associated with resistance to immunotherapies by negatively
+              regulating antitumor immune response and acquiring molecular
+              features enabling escape from CD8 T-cell immunity. However, the
+              immunological hallmarks of human lung CSC and their potential
+              interactions with resident memory T (TRM) cells within the tumor
+              microenvironment have not been investigated. METHODS: We
+              generated a non-small cell lung cancer model, including CSC line
+              and clones, and autologous CD8+CD103+ TRM and CD8+CD103- non-TRM
+              clones, to dissect out immune properties of CSC and their
+              susceptibility to specific T-cell-mediated cytotoxic activity.
+              RESULTS: Unlike their parental tumor cells, lung CSC are
+              characterized by the initiation of an epithelial-to-mesenchymal
+              transition program defined by upregulation of the SNAIL1
+              transcription factor and downregulation of
+              phosphorylated-GSK-3$\beta$ and cell surface E-cadherin.
+              Acquisition of a CSC profile results in partial resistance to
+              TRM-cell-mediated cytotoxicity, which correlates with decreased
+              surface expression of the CD103 ligand E-cadherin and human
+              leukocyte antigen-A2-neoepitope complexes. On the other hand, CSC
+              gained expression of intercellular adhesion molecule (ICAM)-1 and
+              thereby sensitivity to leukocyte function-associated antigen
+              (LFA)-1-dependent non-TRM-cell-mediated killing. Cytotoxicity is
+              inhibited by anti-ICAM-1 and anti-major histocompatibility
+              complex class I neutralizing antibodies further emphasizing the
+              role of LFA-1/ICAM-1 interaction in T-cell receptor-dependent
+              lytic function. CONCLUSION: Our data support the rational design
+              of immunotherapeutic strategies targeting CSC to optimize their
+              responsiveness to local CD8+CD103+ TRM cells for more efficient
+              anticancer treatments.",
+  journal  = "J Immunother Cancer",
+  volume   =  10,
+  number   =  4,
+  month    =  apr,
+  year     =  2022,
+  keywords = "CD8-positive T-lymphocytes; immune evation; immunity;
+              lymphocytes, tumor-infiltrating; tumor microenvironment",
+  language = "en"
+}
+
 @ARTICLE{Webb2014-wa,
   title    = "Tumor-infiltrating lymphocytes expressing the tissue resident
               memory marker {CD103} are associated with increased survival in
