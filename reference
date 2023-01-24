@@ -362,49 +362,6 @@
   language = "en"
 }
 
-@ARTICLE{Park2020-rx,
-  title    = "Intratumoral {CD103-positive} tumour-infiltrating lymphocytes are
-              associated with favourable prognosis in patients with
-              triple-negative breast cancer",
-  author   = "Park, Min H and Kwon, Sun Y and Choi, Jung E and Gong, Gyungyub
-              and Bae, Young K",
-  abstract = "AIMS: Cluster of differentiation 103 (CD103), a marker of tissue
-              resident memory T cells, is expressed on subsets of CD8+ T
-              lymphocytes. We investigated the prognostic significance of
-              CD103+ intra-epithelial tumour-infiltrating lymphocytes (iTILs)
-              in invasive breast cancer (IBC). METHODS AND RESULTS:
-              Immunohistochemistry was performed for CD103, CD8 and TGF-$\beta$
-              isoforms (1, 2 and 3) on tissue microarrays of 1187 IBC samples.
-              CD103+ and CD8+ iTILs were present in 904 (76.2\%) and 854 (74\%)
-              cases with an overall mean $\pm$ standard deviation of 38.2 $\pm$
-              100.2/mm2 and 30.4 $\pm$ 89.7/mm2 , respectively. The numbers of
-              CD103+ and CD8+ iTILs were positively correlated, and CD103+
-              iTILs outnumbered CD8+ iTILs in HER2-positive and triple-negative
-              breast cancer (TNBC). CD103+ and CD8+ iTIL densities were
-              significantly higher in tumours of histological grade 3, absence
-              of lymphovascular invasion, high Ki-67 index, high stromal TIL
-              density or TGF-$\beta$3 expression. High CD103+ iTIL density was
-              associated with better disease-free survival (DFS, P = 0.007),
-              but no significant association was observed for overall survival
-              (OS). Subgroup analysis by cancer molecular subtype showed that
-              CD103+ iTIL count was prognostic only for TNBC (OS, P = 0.035;
-              DFS, P = 0.009). CD8+ iTIL density was significant for DFS, but
-              not for OS, in the entire cohort and TNBC. In multivariate
-              analysis, CD103+ iTIL density was an independent prognostic
-              factor of OS (P = 0.02) and DFS (P = 0.007) in TNBC, while CD8+
-              iTIL density was not significant for survival. CONCLUSIONS: CD103
-              iTIL density can serve as a predictor of good prognosis in
-              patients with TNBC.",
-  journal  = "Histopathology",
-  volume   =  77,
-  number   =  4,
-  pages    = "560--569",
-  month    =  oct,
-  year     =  2020,
-  keywords = "CD103; breast neoplasms; prognosis",
-  language = "en"
-}
-
 @ARTICLE{Stackowicz2019-gb,
   title       = "Mouse Models and Tools for the in vivo Study of Neutrophils",
   author      = "Stackowicz, Julien and J{\"o}nsson, Friederike and Reber,
@@ -3037,5 +2994,48 @@
   month    =  apr,
   year     =  2020,
   keywords = "Mouse study",
+  language = "en"
+}
+
+@ARTICLE{Park2020-rx,
+  title    = "Intratumoral {CD103-positive} tumour-infiltrating lymphocytes are
+              associated with favourable prognosis in patients with
+              triple-negative breast cancer",
+  author   = "Park, Min H and Kwon, Sun Y and Choi, Jung E and Gong, Gyungyub
+              and Bae, Young K",
+  abstract = "AIMS: Cluster of differentiation 103 (CD103), a marker of tissue
+              resident memory T cells, is expressed on subsets of CD8+ T
+              lymphocytes. We investigated the prognostic significance of
+              CD103+ intra-epithelial tumour-infiltrating lymphocytes (iTILs)
+              in invasive breast cancer (IBC). METHODS AND RESULTS:
+              Immunohistochemistry was performed for CD103, CD8 and TGF-$\beta$
+              isoforms (1, 2 and 3) on tissue microarrays of 1187 IBC samples.
+              CD103+ and CD8+ iTILs were present in 904 (76.2\%) and 854 (74\%)
+              cases with an overall mean $\pm$ standard deviation of 38.2 $\pm$
+              100.2/mm2 and 30.4 $\pm$ 89.7/mm2 , respectively. The numbers of
+              CD103+ and CD8+ iTILs were positively correlated, and CD103+
+              iTILs outnumbered CD8+ iTILs in HER2-positive and triple-negative
+              breast cancer (TNBC). CD103+ and CD8+ iTIL densities were
+              significantly higher in tumours of histological grade 3, absence
+              of lymphovascular invasion, high Ki-67 index, high stromal TIL
+              density or TGF-$\beta$3 expression. High CD103+ iTIL density was
+              associated with better disease-free survival (DFS, P = 0.007),
+              but no significant association was observed for overall survival
+              (OS). Subgroup analysis by cancer molecular subtype showed that
+              CD103+ iTIL count was prognostic only for TNBC (OS, P = 0.035;
+              DFS, P = 0.009). CD8+ iTIL density was significant for DFS, but
+              not for OS, in the entire cohort and TNBC. In multivariate
+              analysis, CD103+ iTIL density was an independent prognostic
+              factor of OS (P = 0.02) and DFS (P = 0.007) in TNBC, while CD8+
+              iTIL density was not significant for survival. CONCLUSIONS: CD103
+              iTIL density can serve as a predictor of good prognosis in
+              patients with TNBC.",
+  journal  = "Histopathology",
+  volume   =  77,
+  number   =  4,
+  pages    = "560--569",
+  month    =  oct,
+  year     =  2020,
+  keywords = "CD103; breast neoplasms; prognosis;Human study",
   language = "en"
 }
