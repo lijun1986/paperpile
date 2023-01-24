@@ -3288,6 +3288,68 @@
   language = "en"
 }
 
+@ARTICLE{Fehlings2022-is,
+  title    = "Single-cell analysis reveals clonally expanded tumor-associated
+              {CD57+} {CD8} {T} cells are enriched in the periphery of patients
+              with metastatic urothelial cancer responding to {PD-L1} blockade",
+  author   = "Fehlings, Michael and Kim, Leesun and Guan, Xiangnan and Yuen,
+              Kobe and Tafazzol, Alireza and Sanjabi, Shomyseh and Zill, Oliver
+              A and Rishipathak, Deepali and Wallace, Andrew and Nardin,
+              Alessandra and Ma, Siming and Milojkovic, Ana and Newell, Evan W
+              and Mariathasan, Sanjeev and Yadav, Mahesh",
+  abstract = "BACKGROUND: A growing body of evidence suggests that T-cell
+              responses against neoantigens are critical regulators of response
+              to immune checkpoint blockade. We previously showed that
+              circulating neoantigen-specific CD8 T cells in patients with lung
+              cancer responding to anti-Programmed death-ligand 1 (PD-L1)
+              (atezolizumab) exhibit a unique phenotype with high expression of
+              CD57, CD244, and KLRG1. Here, we extended our analysis on
+              neoantigen-specific CD8 T cells to patients with metastatic
+              urothelial cancer (mUC) and further profiled total CD8 T cells to
+              identify blood-based predictive biomarkers of response to
+              atezolizumab. METHODS: We identified tumor neoantigens from 20
+              patients with mUC and profiled their peripheral CD8 T cells using
+              highly multiplexed combinatorial tetramer staining. Another set
+              of patients with mUC treated with atezolizumab (n=30) or
+              chemotherapy (n=40) were selected to profile peripheral CD8 T
+              cells by mass cytometry. Using single-cell transcriptional
+              analysis (single-cell RNA sequencing (scRNA-seq)), together with
+              CITE-seq (cellular indexing of transcriptomes and epitopes by
+              sequencing) and paired T-cell receptor (TCR) sequencing, we
+              further characterized peripheral CD8 T cells in a subset of
+              patients (n=16). RESULTS: High frequency of CD57 was observed in
+              neoantigen-specific CD8 T cells in patients with mUC responding
+              to atezolizumab. Extending these findings to bulk CD8 T cells, we
+              found higher frequency of CD57 expressing CD8 T cells before
+              treatment in patients responding to atezolizumab (n=20, p<0.01)
+              but not to chemotherapy. These findings were corroborated in a
+              validation cohort (n=30, p<0.01) and notably were independent of
+              known biomarkers of response. scRNA-seq analysis identified a
+              clonally expanded cluster enriched within CD57+ CD8 T cells in
+              responding patients characterized by higher expression of genes
+              associated with activation, cytotoxicity, and tissue-resident
+              memory markers. Furthermore, compared with CD57- CD8 T cells,
+              TCRs of CD57+ CD8 T cells showed increased overlap with the TCR
+              repertoire of tumor-infiltrating T cells. CONCLUSIONS:
+              Collectively, we show high frequencies of CD57 among
+              neoantigen-specific and bulk CD8 T cells in patients responding
+              to atezolizumab. The TCR repertoire overlap between peripheral
+              CD57+ CD8 T cells and tumor-infiltrating lymphocytes suggest that
+              accumulation of peripheral CD57+ CD8 T cells is reflective of an
+              ongoing antitumor T-cell response. Our findings provide evidence
+              and rationale for using circulating CD8 T cells expressing CD57
+              as a readily accessible blood-based biomarker for selecting
+              patients with mUC for atezolizumab therapy.",
+  journal  = "J Immunother Cancer",
+  volume   =  10,
+  number   =  8,
+  month    =  aug,
+  year     =  2022,
+  keywords = "CD8-positive T-lymphocytes; immunotherapy; receptors, antigen;
+              urinary bladder neoplasms",
+  language = "en"
+}
+
 @ARTICLE{Attrill2022-vr,
   title    = "Higher proportions of {CD39+} tumor-resident cytotoxic {T} cells
               predict recurrence-free survival in patients with stage {III}
