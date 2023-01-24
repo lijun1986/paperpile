@@ -770,6 +770,50 @@
   language = "en"
 }
 
+@ARTICLE{Corgnac2020-nw,
+  title    = "{CD103+CD8+} {TRM} Cells Accumulate in Tumors of
+              {Anti-PD-1-Responder} Lung Cancer Patients and Are
+              {Tumor-Reactive} Lymphocytes Enriched with Tc17",
+  author   = "Corgnac, St{\'e}phanie and Malenica, Ines and Mezquita, Laura and
+              Auclin, Edouard and Voilin, Elodie and Kacher, Jamila and Halse,
+              Heloise and Grynszpan, Laetitia and Signolle, Nicolas and Dayris,
+              Thibault and Leclerc, Marine and Droin, Nathalie and de
+              Montpr{\'e}ville, Vincent and Mercier, Olaf and Validire, Pierre
+              and Scoazec, Jean-Yves and Massard, Christophe and Chouaib, Salem
+              and Planchard, David and Adam, Julien and Besse, Benjamin and
+              Mami-Chouaib, Fathia",
+  abstract = "Accumulation of CD103+CD8+ resident memory T (TRM) cells in human
+              lung tumors has been associated with a favorable prognosis.
+              However, the contribution of TRM to anti-tumor immunity and to
+              the response to immune checkpoint blockade has not been clearly
+              established. Using quantitative multiplex immunofluorescence on
+              cohorts of non-small cell lung cancer patients treated with
+              anti-PD-(L)1, we show that an increased density of CD103+CD8+
+              lymphocytes in immunotherapy-naive tumors is associated with
+              greatly improved outcomes. The density of CD103+CD8+ cells
+              increases during immunotherapy in most responder, but not in
+              non-responder, patients. CD103+CD8+ cells co-express CD49a and
+              CD69 and display a molecular profile characterized by the
+              expression of PD-1 and CD39. CD103+CD8+ tumor TRM, but not
+              CD103-CD8+ tumor-infiltrating counterparts, express Aiolos,
+              phosphorylated STAT-3, and IL-17; demonstrate enhanced
+              proliferation and cytotoxicity toward autologous cancer cells;
+              and frequently display oligoclonal expansion of TCR-$\beta$
+              clonotypes. These results explain why CD103+CD8+ TRM are
+              associated with better outcomes in anti-PD-(L)1-treated patients.",
+  journal  = "Cell Rep Med",
+  volume   =  1,
+  number   =  7,
+  pages    = "100127",
+  month    =  oct,
+  year     =  2020,
+  keywords = "Aiolos, AhR, and T-bet transcription factors; CD103 integrin; CD8
+              TRM cells; CTL; ICB response biomarkers; TCR repertoire; Tc17;
+              anti-PD-1 immunotherapy; lung cancer; tumor-infiltrating
+              lymphocytes",
+  language = "en"
+}
+
 @ARTICLE{Nguyen2021-ia,
   title    = "A protocol for macrophage depletion and reconstitution in a mouse
               model of sepsis",
