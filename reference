@@ -833,6 +833,43 @@
   language = "en"
 }
 
+@ARTICLE{Ganesan2017-gp,
+  title    = "Tissue-resident memory features are linked to the magnitude of
+              cytotoxic {T} cell responses in human lung cancer",
+  author   = "Ganesan, Anusha-Preethi and Clarke, James and Wood, Oliver and
+              Garrido-Martin, Eva M and Chee, Serena J and Mellows, Toby and
+              Samaniego-Castruita, Daniela and Singh, Divya and Seumois,
+              Gr{\'e}gory and Alzetani, Aiman and Woo, Edwin and Friedmann,
+              Peter S and King, Emma V and Thomas, Gareth J and Sanchez-Elsner,
+              Tilman and Vijayanand, Pandurangan and Ottensmeier, Christian H",
+  abstract = "Therapies that boost the anti-tumor responses of cytotoxic T
+              lymphocytes (CTLs) have shown promise; however, clinical
+              responses to the immunotherapeutic agents currently available
+              vary considerably, and the molecular basis of this is unclear. We
+              performed transcriptomic profiling of tumor-infiltrating CTLs
+              from treatment-naive patients with lung cancer to define the
+              molecular features associated with the robustness of anti-tumor
+              immune responses. We observed considerable heterogeneity in the
+              expression of molecules associated with activation of the T cell
+              antigen receptor (TCR) and of immunological-checkpoint molecules
+              such as 4-1BB, PD-1 and TIM-3. Tumors with a high density of CTLs
+              showed enrichment for transcripts linked to tissue-resident
+              memory cells (TRM cells), such as CD103, and CTLs from CD103hi
+              tumors displayed features of enhanced cytotoxicity. A greater
+              density of TRM cells in tumors was predictive of a better
+              survival outcome in lung cancer, and this effect was independent
+              of that conferred by CTL density. Here we define the 'molecular
+              fingerprint' of tumor-infiltrating CTLs and identify potentially
+              new targets for immunotherapy.",
+  journal  = "Nat. Immunol.",
+  volume   =  18,
+  number   =  8,
+  pages    = "940--950",
+  month    =  aug,
+  year     =  2017,
+  language = "en"
+}
+
 @ARTICLE{Nagarsheth2017-gk,
   title    = "Chemokines in the cancer microenvironment and their relevance in
               cancer immunotherapy",
