@@ -3384,3 +3384,39 @@
               tumor immunology;Mouse study",
   language = "en"
 }
+
+@ARTICLE{Hasan2021-la,
+  title    = "Hypoxia acts as an environmental cue for the human
+              tissue-resident memory {T} cell differentiation program",
+  author   = "Hasan, Farah and Chiu, Yulun and Shaw, Rebecca M and Wang, Junmei
+              and Yee, Cassian",
+  abstract = "Tissue-resident memory T cells (TRM) provide frontline defense
+              against infectious diseases and contribute to antitumor immunity;
+              however, aside from the necessity of TGF-$\beta$, knowledge
+              regarding TRM-inductive cues remains incomplete, particularly for
+              human cells. Oxygen tension is an environmental cue that
+              distinguishes peripheral tissues from the circulation, and here,
+              we demonstrate that differentiation of human CD8+ T cells in the
+              presence of hypoxia and TGF-$\beta$1 led to the development of a
+              TRM phenotype, characterized by a greater than 5-fold increase in
+              CD69+CD103+ cells expressing human TRM hallmarks and enrichment
+              for endogenous human TRM gene signatures, including increased
+              adhesion molecule expression and decreased expression of genes
+              involved in recirculation. Hypoxia and TGF-$\beta$1 synergized to
+              produce a significantly larger population of TRM phenotype cells
+              than either condition alone, and comparison of these cells from
+              the individual and combination conditions revealed distinct
+              phenotypic and transcriptional profiles, indicating a programming
+              response to milieu rather than a mere expansion. Our findings
+              identify a likely previously unreported cue for the TRM
+              differentiation program and can enable facile generation of human
+              TRM phenotype cells in vitro for basic studies and translational
+              applications such as adoptive cellular therapy.",
+  journal  = "JCI Insight",
+  volume   =  6,
+  number   =  10,
+  month    =  may,
+  year     =  2021,
+  keywords = "Hypoxia; Immunology; T cells",
+  language = "en"
+}
