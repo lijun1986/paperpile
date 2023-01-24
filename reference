@@ -3744,3 +3744,49 @@
   keywords = "Human study",
   language = "en"
 }
+
+@ARTICLE{Muthuswamy2021-qh,
+  title    = "{CXCR6} by increasing retention of memory {CD8+} {T} cells in the
+              ovarian tumor microenvironment promotes immunosurveillance and
+              control of ovarian cancer",
+  author   = "Muthuswamy, Ravikumar and McGray, Aj Robert and Battaglia,
+              Sebastiano and He, Wenjun and Miliotto, Anthony and Eppolito,
+              Cheryl and Matsuzaki, Junko and Takemasa, Tsuji and Koya, Richard
+              and Chodon, Thinle and Lichty, Brian D and Shrikant, Protul and
+              Odunsi, Kunle",
+  abstract = "PURPOSE: Resident memory CD8 T cells, owing to their ability to
+              reside and persist in peripheral tissues, impart adaptive
+              sentinel activity and amplify local immune response, and have
+              beneficial implications for tumor surveillance and control. The
+              current study aimed to clarify the less known chemotactic
+              mechanisms that govern the localization, retention, and residency
+              of memory CD8 T cells in the ovarian tumor microenvironment.
+              EXPERIMENTAL DESIGN: RNA and protein expressions of chemokine
+              receptors in CD8+ resident memory T cells in human ovarian
+              tumor-infiltrating CD8+ T cells and their association with
+              survival were analyzed. The role of CXCR6 on antitumor T cells
+              was investigated using prophylactic vaccine models in murine
+              ovarian cancer. RESULTS: Chemokine receptor profiling of
+              CD8+CD103+ resident memory tumor-infiltrating lymphocytes in
+              patients with ovarian cancer revealed high expression of CXCR6.
+              Analysis of The Cancer Genome Atlas (TCGA) (ovarian cancer
+              database revealed CXCR6 to be associated with CD103 and increased
+              patient survival. Functional studies in mouse models of ovarian
+              cancer revealed that CXCR6 is a marker of resident, but not
+              circulatory, tumor-specific memory CD8+ T cells. CXCR6-deficient
+              tumor-specific CD8+ T cells showed reduced retention in tumor
+              tissues, leading to diminished resident memory responses and poor
+              control of ovarian cancer. CONCLUSIONS: CXCR6, by promoting
+              retention in tumor tissues, serves a critical role in resident
+              memory T cell-mediated immunosurveillance and control of ovarian
+              cancer. Future studies warrant exploiting CXCR6 to promote
+              resident memory responses in cancers.",
+  journal  = "J Immunother Cancer",
+  volume   =  9,
+  number   =  10,
+  month    =  oct,
+  year     =  2021,
+  keywords = "adoptive; immunological memory; immunotherapy; lymphocytes; tumor
+              microenvironment; tumor-infiltrating",
+  language = "en"
+}
