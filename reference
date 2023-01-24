@@ -643,6 +643,50 @@
   original_id = "45d83228-e494-0f92-9ab9-1b784afbe395"
 }
 
+@ARTICLE{Webb2014-wa,
+  title    = "Tumor-infiltrating lymphocytes expressing the tissue resident
+              memory marker {CD103} are associated with increased survival in
+              high-grade serous ovarian cancer",
+  author   = "Webb, John R and Milne, Katy and Watson, Peter and Deleeuw,
+              Ronald J and Nelson, Brad H",
+  abstract = "BACKGROUND: The presence of CD8(+) tumor-infiltrating lymphocytes
+              (TIL) is associated with prolonged survival in high-grade serous
+              ovarian cancer (HGSC) and other epithelial cancers. Survival is
+              most strongly associated with intraepithelial versus intrastromal
+              CD8(+) TILs; however, the mechanisms that promote the
+              intraepithelial localization of TILs remain poorly understood. We
+              hypothesized that intraepithelial CD8(+) TILs, like normal
+              mucosal intraepithelial lymphocytes, might express CD103, a
+              subunit of $\alpha$E/$\beta$7 integrin, which binds E-cadherin on
+              epithelial cells. METHODS: A large collection of primary ovarian
+              tumors (HGSC, endometrioid, mucinous, and clear cell) was
+              analyzed by immunohistochemistry for the presence of
+              TIL-expressing CD103. The activation and differentiation status
+              of CD103(+) TILs were assessed by flow cytometry. The prognostic
+              significance of TIL subsets was evaluated by Kaplan-Meier
+              analysis. RESULTS: CD103(+) TILs were present in all major
+              ovarian cancer subtypes and were most abundant in HGSC. CD103(+)
+              TILs were preferentially localized to epithelial regions of
+              tumors and were comprised predominantly of CD8(+) T cells
+              expressing activation (HLA-DR, Ki-67, PD-1) and cytolytic (TIA-1)
+              markers, as well as CD56(+) NK cells. Tumor infiltration by
+              CD103(+) TILs was strongly associated with patient survival in
+              HGSC. Tumors containing CD8(+) TILs that were CD103(-) showed
+              poor prognosis equivalent to tumors lacking CD8(+) TILs
+              altogether. CONCLUSIONS: CD103(+) TILs comprise intraepithelial,
+              activated CD8(+) T cells, and NK cells and are strongly
+              associated with patient survival in HGSC. CD103 may serve as a
+              useful marker for enriching the most beneficial subsets of TILs
+              for immunotherapy.",
+  journal  = "Clin. Cancer Res.",
+  volume   =  20,
+  number   =  2,
+  pages    = "434--444",
+  month    =  jan,
+  year     =  2014,
+  language = "en"
+}
+
 @ARTICLE{Feng2014-vw,
   title    = "Epithelial-to-mesenchymal transition activates
               {PERK-eIF2$\alpha$} and sensitizes cells to endoplasmic reticulum
