@@ -362,45 +362,6 @@
   language = "en"
 }
 
-@ARTICLE{Bourdely2020-ub,
-  title    = "Transcriptional and Functional Analysis of {CD1c+} Human
-              Dendritic Cells Identifies a {CD163+} Subset Priming {CD8+CD103+}
-              {T} Cells",
-  author   = "Bourdely, Pierre and Anselmi, Giorgio and Vaivode, Kristine and
-              Ramos, Rodrigo Nalio and Missolo-Koussou, Yoann and Hidalgo,
-              Sofia and Tosselo, Jimena and Nu{\~n}ez, Nicolas and Richer,
-              Wilfrid and Vincent-Salomon, Anne and Saxena, Alka and Wood,
-              Kristie and Lladser, Alvaro and Piaggio, Eliane and Helft, Julie
-              and Guermonprez, Pierre",
-  abstract = "Dendritic cells (DCs) are antigen-presenting cells controlling T
-              cell activation. In humans, the diversity, ontogeny, and
-              functional capabilities of DC subsets are not fully understood.
-              Here, we identified circulating CD88-CD1c+CD163+ DCs (called
-              DC3s) as immediate precursors of inflammatory
-              CD88-CD14+CD1c+CD163+Fc$\epsilon$RI+ DCs. DC3s develop via a
-              specific pathway activated by GM-CSF, independent of
-              cDC-restricted (CDP) and monocyte-restricted (cMoP) progenitors.
-              Like classical DCs but unlike monocytes, DC3s drove activation of
-              naive T cells. In vitro, DC3s displayed a distinctive ability to
-              prime CD8+ T cells expressing a tissue homing signature and the
-              epithelial homing alpha-E integrin (CD103) through transforming
-              growth factor $\beta$ (TGF-$\beta$) signaling. In vivo, DC3s
-              infiltrated luminal breast cancer primary tumors, and DC3
-              infiltration correlated positively with CD8+CD103+CD69+
-              tissue-resident memory T cells. Together, these findings define
-              DC3s as a lineage of inflammatory DCs endowed with a strong
-              potential to regulate tumor immunity.",
-  journal  = "Immunity",
-  volume   =  53,
-  number   =  2,
-  pages    = "335--352.e8",
-  month    =  aug,
-  year     =  2020,
-  keywords = "DC progenitors; DC3s; T(RM); cDC2s; conventional DCs;
-              inflammatory DCs; monocytes; mononuclear phagocytes",
-  language = "en"
-}
-
 @ARTICLE{Stackowicz2019-gb,
   title       = "Mouse Models and Tools for the in vivo Study of Neutrophils",
   author      = "Stackowicz, Julien and J{\"o}nsson, Friederike and Reber,
@@ -3156,5 +3117,44 @@
   month    =  jun,
   year     =  2020,
   keywords = "immunology; tumors;Human study",
+  language = "en"
+}
+
+@ARTICLE{Bourdely2020-ub,
+  title    = "Transcriptional and Functional Analysis of {CD1c+} Human
+              Dendritic Cells Identifies a {CD163+} Subset Priming {CD8+CD103+}
+              {T} Cells",
+  author   = "Bourdely, Pierre and Anselmi, Giorgio and Vaivode, Kristine and
+              Ramos, Rodrigo Nalio and Missolo-Koussou, Yoann and Hidalgo,
+              Sofia and Tosselo, Jimena and Nu{\~n}ez, Nicolas and Richer,
+              Wilfrid and Vincent-Salomon, Anne and Saxena, Alka and Wood,
+              Kristie and Lladser, Alvaro and Piaggio, Eliane and Helft, Julie
+              and Guermonprez, Pierre",
+  abstract = "Dendritic cells (DCs) are antigen-presenting cells controlling T
+              cell activation. In humans, the diversity, ontogeny, and
+              functional capabilities of DC subsets are not fully understood.
+              Here, we identified circulating CD88-CD1c+CD163+ DCs (called
+              DC3s) as immediate precursors of inflammatory
+              CD88-CD14+CD1c+CD163+Fc$\epsilon$RI+ DCs. DC3s develop via a
+              specific pathway activated by GM-CSF, independent of
+              cDC-restricted (CDP) and monocyte-restricted (cMoP) progenitors.
+              Like classical DCs but unlike monocytes, DC3s drove activation of
+              naive T cells. In vitro, DC3s displayed a distinctive ability to
+              prime CD8+ T cells expressing a tissue homing signature and the
+              epithelial homing alpha-E integrin (CD103) through transforming
+              growth factor $\beta$ (TGF-$\beta$) signaling. In vivo, DC3s
+              infiltrated luminal breast cancer primary tumors, and DC3
+              infiltration correlated positively with CD8+CD103+CD69+
+              tissue-resident memory T cells. Together, these findings define
+              DC3s as a lineage of inflammatory DCs endowed with a strong
+              potential to regulate tumor immunity.",
+  journal  = "Immunity",
+  volume   =  53,
+  number   =  2,
+  pages    = "335--352.e8",
+  month    =  aug,
+  year     =  2020,
+  keywords = "DC progenitors; DC3s; T(RM); cDC2s; conventional DCs;
+              inflammatory DCs; monocytes; mononuclear phagocytes;Human study",
   language = "en"
 }
