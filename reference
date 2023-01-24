@@ -1783,6 +1783,39 @@
   language = "en"
 }
 
+@ARTICLE{Sun2022-nv,
+  title    = "{scRNA-seq} of gastric tumor shows complex intercellular
+              interaction with an alternative {T} cell exhaustion trajectory",
+  author   = "Sun, Keyong and Xu, Runda and Ma, Fuhai and Yang, Naixue and Li,
+              Yang and Sun, Xiaofeng and Jin, Peng and Kang, Wenzhe and Jia,
+              Lemei and Xiong, Jianping and Hu, Haitao and Tian, Yantao and
+              Lan, Xun",
+  abstract = "The tumor microenvironment (TME) in gastric cancer (GC) has been
+              shown to be important for tumor control but the specific
+              characteristics for GC are not fully appreciated. We generated an
+              atlas of 166,533 cells from 10 GC patients with matched paratumor
+              tissues and blood. Our results show tumor-associated stromal
+              cells (TASCs) have upregulated activity of Wnt signaling and
+              angiogenesis, and are negatively correlated with survival.
+              Tumor-associated macrophages and LAMP3+ DCs are involved in
+              mediating T cell activity and form intercellular interaction hubs
+              with TASCs. Clonotype and trajectory analysis demonstrates that
+              Tc17 (IL-17+CD8+ T cells) originate from tissue-resident memory T
+              cells and can subsequently differentiate into exhausted T cells,
+              suggesting an alternative pathway for T cell exhaustion. Our
+              results indicate that IL17+ cells may promote tumor progression
+              through IL17, IL22, and IL26 signaling, highlighting the
+              possibility of targeting IL17+ cells and associated signaling
+              pathways as a therapeutic strategy to treat GC.",
+  journal  = "Nat. Commun.",
+  volume   =  13,
+  number   =  1,
+  pages    = "4943",
+  month    =  aug,
+  year     =  2022,
+  language = "en"
+}
+
 @ARTICLE{Er2018-ps,
   title       = "Pericyte-like spreading by disseminated cancer cells activates
                  {YAP} and {MRTF} for metastatic colonization",
