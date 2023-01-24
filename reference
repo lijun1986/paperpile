@@ -2508,3 +2508,46 @@
   keywords = "Mouse study",
   language = "en"
 }
+
+@ARTICLE{Edwards2018-nr,
+  title    = "{CD103+} {Tumor-Resident} {CD8+} {T} Cells Are Associated with
+              Improved Survival in {Immunotherapy-Na{\"\i}ve} Melanoma Patients
+              and Expand Significantly During {Anti-PD-1} Treatment",
+  author   = "Edwards, Jarem and Wilmott, James S and Madore, Jason and Gide,
+              Tuba Nur and Quek, Camelia and Tasker, Annie and Ferguson, Angela
+              and Chen, Jinbiao and Hewavisenti, Rehana and Hersey, Peter and
+              Gebhardt, Thomas and Weninger, Wolfgang and Britton, Warwick J
+              and Saw, Robyn P M and Thompson, John F and Menzies, Alexander M
+              and Long, Georgina V and Scolyer, Richard A and Palendira,
+              Umaimainthan",
+  abstract = "Purpose: Therapeutic blockade of immune checkpoints has
+              revolutionized cancer treatment. Durable responses, however,
+              occur in less than half of those treated, and efforts to improve
+              treatment efficacy are confounded by a lack of understanding of
+              the characteristics of the cells that initiate antitumor immune
+              response.Patients and Methods: We performed multiparameter flow
+              cytometry and quantitative multiplex immunofluorescence staining
+              on tumor specimens from immunotherapy-na{\"\i}ve melanoma
+              patients and longitudinal biopsy specimen obtained from patients
+              undergoing anti-PD-1 therapy.Results: Increased numbers of
+              CD69+CD103+ tumor-resident CD8+ T cells were associated with
+              improved melanoma-specific survival in immunotherapy-na{\"\i}ve
+              melanoma patients. Local IL15 expression levels strongly
+              correlated with these tumor-resident T-cell numbers. The
+              expression of several immune checkpoints including PD-1 and LAG3
+              was highly enriched in this subset, and these cells significantly
+              expanded early during anti-PD-1 immunotherapy.Conclusions:
+              Tumor-resident CD8+ T-cell numbers are more prognostic than total
+              CD8+ T cells in metastatic melanoma. In addition, they are likely
+              to initiate response to anti-PD-1 and anti-LAG-3 treatments. We
+              propose that the immune profile of these cells prior to treatment
+              could inform strategies for immune checkpoint blockade. Clin
+              Cancer Res; 24(13); 3036-45. \copyright{}2018 AACR.",
+  journal  = "Clin. Cancer Res.",
+  volume   =  24,
+  number   =  13,
+  pages    = "3036--3045",
+  month    =  jul,
+  year     =  2018,
+  language = "en"
+}
