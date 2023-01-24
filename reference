@@ -3059,6 +3059,69 @@
   language = "en"
 }
 
+@ARTICLE{Attrill2022-vr,
+  title    = "Higher proportions of {CD39+} tumor-resident cytotoxic {T} cells
+              predict recurrence-free survival in patients with stage {III}
+              melanoma treated with adjuvant immunotherapy",
+  author   = "Attrill, Grace Heloise and Owen, Carina N and Ahmed, Tasnia and
+              Vergara, Ismael A and Colebatch, Andrew J and Conway, Jordan W
+              and Nahar, Kazi J and Thompson, John F and Pires da Silva, Ines
+              and Carlino, Matteo S and Menzies, Alexander M and Lo, Serigne
+              and Palendira, Umaimainthan and Scolyer, Richard A and Long,
+              Georgina V and Wilmott, James S",
+  abstract = "BACKGROUND: Adjuvant immune checkpoint inhibitor (ICI)
+              immunotherapies have significantly reduced the recurrence rate in
+              high-risk patients with stage III melanoma compared with surgery
+              alone. However, 48\% of anti-PD-1-treated patients will develop
+              recurrent disease within 4 years. There is a need to identify
+              biomarkers of recurrence after adjuvant ICI to enable
+              identification of patients in need of alternative treatment
+              strategies. As cytotoxic T cells are critical for the antitumor
+              response to anti-PD-1, we sought to determine whether specific
+              subsets were predictive of recurrence in anti-PD-1-treated
+              high-risk patients with stage III melanoma. METHODS: Associations
+              with recurrence in patients with stage III melanoma were sought
+              by analyzing resection specimens (n=103) taken prior to adjuvant
+              nivolumab/pembrolizumab$\pm$low-dose/low-interval ipilimumab.
+              Multiplex immunohistochemistry was used to quantify intratumoral
+              CD8+ T-cell populations using phenotypical markers CD39, CD103,
+              and PD-1. RESULTS: With a median follow-up of 19.3 months, 37/103
+              (36\%) of patients had a recurrence. Two CD8+ T-cell
+              subpopulations were significantly associated with recurrence.
+              First, CD39+ tumor-resident memory cells (CD39+CD103+PD-1+CD8+
+              (CD39+ Trm)) comprised a significantly higher proportion of CD8+
+              T cells in recurrence-free patients (p=0.0004). Conversely,
+              bystander T cells (CD39-CD103-PD-1-CD8+) comprised a
+              significantly greater proportion of T cells in patients who
+              developed recurrence (p=0.0002). Spatial analysis identified that
+              CD39+ Trms localized significantly closer to melanoma cells than
+              bystander T cells. Multivariable analysis confirmed significantly
+              improved recurrence-free survival (RFS) in patients with a high
+              proportion of intratumoral CD39+ Trms (1-year RFS high 78.1\% vs
+              low 49.9\%, HR 0.32, 95\% CI 0.15 to 0.69), no complete lymph
+              node dissection performed, and less advanced disease stage (HR
+              2.85, 95\% CI 1.13 to 7.19, and HR 1.29, 95\% CI 0.59 to 2.82).
+              The final Cox regression model identified patients who developed
+              recurrence with an area under the curve of 75.9\% in the
+              discovery cohort and 69.5\% in a separate validation cohort
+              (n=33) to predict recurrence status at 1 year. CONCLUSIONS:
+              Adjuvant immunotherapy-treated patients with a high proportion of
+              CD39+ Trms in their baseline melanoma resection have a
+              significantly reduced risk of melanoma recurrence. This
+              population of T cells may not only represent a biomarker of RFS
+              following anti-PD-1 therapy, but may also be an avenue for
+              therapeutic manipulation and enhancing outcomes for
+              immunotherapy-treated patients with cancer.",
+  journal  = "J Immunother Cancer",
+  volume   =  10,
+  number   =  6,
+  month    =  jun,
+  year     =  2022,
+  keywords = "CD8-positive T-lymphocytes; immunotherapy; melanoma; tumor
+              microenvironment",
+  language = "en"
+}
+
 @ARTICLE{Webb2014-wa,
   title    = "Tumor-infiltrating lymphocytes expressing the tissue resident
               memory marker {CD103} are associated with increased survival in
