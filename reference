@@ -2723,3 +2723,43 @@
   keywords = "Mouse study",
   language = "en"
 }
+
+@ARTICLE{Egelston2019-qw,
+  title    = "Resident memory {CD8+} {T} cells within cancer islands mediate
+              survival in breast cancer patients",
+  author   = "Egelston, Colt A and Avalos, Christian and Tu, Travis Y and
+              Rosario, Anthony and Wang, Roger and Solomon, Shawn and
+              Srinivasan, Gayathri and Nelson, Michael S and Huang, Yinghui and
+              Lim, Min Hui and Simons, Diana L and He, Ting-Fang and Yim, John
+              H and Kruper, Laura and Mortimer, Joanne and Yost, Susan and Guo,
+              Weihua and Ruel, Christopher and Frankel, Paul H and Yuan, Yuan
+              and Lee, Peter P",
+  abstract = "CD8+ tumor-infiltrating lymphocytes (TILs) correlate with
+              relapse-free survival (RFS) in most cancer types, including
+              breast cancer. However, subset composition, functional status,
+              and spatial location of CD8+ TILs in relation to RFS in human
+              breast tumors remain unclear. Spatial tissue analysis via
+              quantitative immunofluorescence showed that infiltration of CD8+
+              T cells into cancer islands was more significantly associated
+              with RFS than CD8+ T cell infiltration into either tumor stroma
+              or total tumor. Localization into cancer islands within tumors is
+              mediated by expression of the integrin CD103, which is a marker
+              for tissue-resident memory T cells (TRMs). Analysis of fresh
+              tumor samples revealed that CD8+ TRMs are functionally similar to
+              other CD8+ TILs, suggesting that the basis of their protective
+              effect is their spatial distribution rather than functional
+              differences. Indeed, CD103+ TRMs, as compared with CD103-CD8+
+              TILs, are enriched within cancer islands, and CD8+ TRM proximity
+              to cancer cells drives the association of CD8+ TIL densities with
+              RFS. Together, these findings reveal the importance of cancer
+              island-localized CD8+ TRMs in surveillance of the breast tumor
+              microenvironment and as a critical determinant of RFS in patients
+              with breast cancer.",
+  journal  = "JCI Insight",
+  volume   =  4,
+  number   =  19,
+  month    =  oct,
+  year     =  2019,
+  keywords = "Breast cancer; Immunology; Oncology; T cells",
+  language = "en"
+}
