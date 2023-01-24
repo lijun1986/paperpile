@@ -2873,3 +2873,42 @@
   keywords = "Mouse study",
   language = "en"
 }
+
+@ARTICLE{Jansen2019-dg,
+  title    = "An intra-tumoral niche maintains and differentiates stem-like
+              {CD8} {T} cells",
+  author   = "Jansen, Caroline S and Prokhnevska, Nataliya and Master, Viraj A
+              and Sanda, Martin G and Carlisle, Jennifer W and Bilen, Mehmet
+              Asim and Cardenas, Maria and Wilkinson, Scott and Lake, Ross and
+              Sowalsky, Adam G and Valanparambil, Rajesh M and Hudson, William
+              H and McGuire, Donald and Melnick, Kevin and Khan, Amir I and
+              Kim, Kyu and Chang, Yun Min and Kim, Alice and Filson,
+              Christopher P and Alemozaffar, Mehrdad and Osunkoya, Adeboye O
+              and Mullane, Patrick and Ellis, Carla and Akondy, Rama and Im, Se
+              Jin and Kamphorst, Alice O and Reyes, Adriana and Liu, Yuan and
+              Kissick, Haydn",
+  abstract = "Tumour-infiltrating lymphocytes are associated with a survival
+              benefit in several tumour types and with the response to
+              immunotherapy1-8. However, the reason some tumours have high CD8
+              T cell infiltration while others do not remains unclear. Here we
+              investigate the requirements for maintaining a CD8 T cell
+              response against human cancer. We find that CD8 T cells within
+              tumours consist of distinct populations of terminally
+              differentiated and stem-like cells. On proliferation, stem-like
+              CD8 T cells give rise to more terminally differentiated,
+              effector-molecule-expressing daughter cells. For many T cells to
+              infiltrate the tumour, it is critical that this effector
+              differentiation process occur. In addition, we show that these
+              stem-like T cells reside in dense antigen-presenting-cell niches
+              within the tumour, and that tumours that fail to form these
+              structures are not extensively infiltrated by T cells. Patients
+              with progressive disease lack these immune niches, suggesting
+              that niche breakdown may be a key mechanism of immune escape.",
+  journal  = "Nature",
+  volume   =  576,
+  number   =  7787,
+  pages    = "465--470",
+  month    =  dec,
+  year     =  2019,
+  language = "en"
+}
