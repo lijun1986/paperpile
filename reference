@@ -879,6 +879,79 @@
   language = "en"
 }
 
+@ARTICLE{Barsch2022-ef,
+  title    = "T-cell exhaustion and residency dynamics inform clinical outcomes
+              in hepatocellular carcinoma",
+  author   = "Barsch, Maryam and Sali{\'e}, Henrike and Schlaak, Alexandra
+              Emilia and Zhang, Zhen and Hess, Moritz and Mayer, Lena Sophie
+              and Tauber, Catrin and Otto-Mora, Patricia and Ohtani, Takuya and
+              Nilsson, Tobias and Wischer, Lara and Winkler, Frances and Manne,
+              Sasikant and Rech, Andrew and Schmitt-Graeff, Annette and
+              Bronsert, Peter and Hofmann, Maike and Neumann-Haefelin,
+              Christoph and Boettler, Tobias and Fichtner-Feigl, Stefan and van
+              Boemmel, Florian and Berg, Thomas and Rimassa, Lorenza and Di
+              Tommaso, Luca and Saeed, Anwaar and D'Alessio, Antonio and
+              Pinato, David J and Bettinger, Dominik and Binder, Harald and
+              John Wherry, E and Schultheiss, Michael and Thimme, Robert and
+              Bengsch, Bertram",
+  abstract = "BACKGROUND \& AIMS: Despite recent translation of immunotherapies
+              into clinical practice, the immunobiology of hepatocellular
+              carcinoma (HCC), in particular the role and clinical relevance of
+              exhausted and liver-resident T cells remain unclear. We therefore
+              dissected the landscape of exhausted and resident T cell
+              responses in the peripheral blood and tumor microenvironment of
+              patients with HCC. METHODS: Lymphocytes were isolated from the
+              blood, tumor and tumor-surrounding liver tissue of patients with
+              HCC (n = 40, n = 10 treated with anti-PD-1 therapy). Phenotype,
+              function and response to anti-PD-1 were analyzed by mass and flow
+              cytometry ex vivo and in vitro, tissue residence was further
+              assessed by immunohistochemistry and imaging mass cytometry. Gene
+              signatures were analyzed in silico. RESULTS: We identified
+              significant enrichment of heterogeneous populations of exhausted
+              CD8+ T cells (TEX) in the tumor microenvironment. Strong
+              enrichment of severely exhausted CD8 T cells expressing multiple
+              immune checkpoints in addition to PD-1 was linked to poor
+              progression-free and overall survival. In contrast, PD-1 was also
+              expressed on a subset of more functional and metabolically active
+              CD103+ tissue-resident memory T cells (TRM) that expressed few
+              additional immune checkpoints and were associated with better
+              survival. TEX enrichment was independent of BCLC stage,
+              alpha-fetoprotein levels or age as a variable for
+              progression-free survival in our cohort. These findings were in
+              line with in silico gene signature analysis of HCC tumor
+              transcriptomes from The Cancer Genome Atlas. A higher baseline
+              TRM/TEX ratio was associated with disease control in
+              anti-PD-1-treated patients. CONCLUSION: Our data provide
+              information on the role of peripheral and intratumoral TEX-TRM
+              dynamics in determining outcomes in patients with HCC. The
+              dynamics between exhausted and liver-resident T cells have
+              implications for immune-based diagnostics, rational patient
+              selection and monitoring during HCC immunotherapies. LAY SUMMARY:
+              The role of the immune response in hepatocellular carcinoma (HCC)
+              remains unclear. T cells can mediate protection against tumor
+              cells but are frequently dysfunctional and exhausted in cancer.
+              We found that patients with a predominance of exhausted CD8+ T
+              cells (TEX) had poor survival compared to patients with a
+              predominance of tissue-resident memory T cells (TRM). This
+              correlated with the molecular profile, metabolic and functional
+              status of these cell populations. The enrichment of TEX was
+              independently associated with prognosis in addition to disease
+              stage, age and tumor markers. A high TRM proportion was also
+              associated with better outcomes following checkpoint therapy.
+              Thus, these T-cell populations are novel biomarkers with
+              relevance in HCC.",
+  journal  = "J. Hepatol.",
+  volume   =  77,
+  number   =  2,
+  pages    = "397--409",
+  month    =  aug,
+  year     =  2022,
+  keywords = "Hepatocellular Carcinoma; PD-1; T-cell exhaustion; immune
+              checkpoint blockade; immune profiling; mass cytometry;
+              tissue-resident memory T cells",
+  language = "en"
+}
+
 @ARTICLE{Wang2015-wq,
   title    = "{CD103+} Tumor Infiltrating Lymphocytes Predict a Favorable
               Prognosis in Urothelial Cell Carcinoma of the Bladder",
