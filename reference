@@ -2226,3 +2226,48 @@
   keywords = "Human study",
   language = "en"
 }
+
+@ARTICLE{Koh2017-qk,
+  title    = "Prognostic implications of intratumoral {CD103+}
+              tumor-infiltrating lymphocytes in pulmonary squamous cell
+              carcinoma",
+  author   = "Koh, Jaemoon and Kim, Sehui and Kim, Moon-Young and Go,
+              Heounjeong and Jeon, Yoon Kyung and Chung, Doo Hyun",
+  abstract = "CD103 is the $\alpha$E subunit of $\alpha$E$\beta$7 integrin that
+              is expressed in tissue-resident memory T cells, where it promotes
+              cytotoxic T cell responses against tumors. However, little is
+              known about its expression or clinicopathological implications in
+              non-small cell lung cancer (NSCLC). This study investigated the
+              prognostic implications of CD103+ tumor-infiltrating lymphocytes
+              (TILs) in NSCLC. We established two cohorts: patients with
+              resected NSCLC (n = 132) and patients with pulmonary squamous
+              cell carcinoma (pSCC), a subset of NSCLC (n = 378), to estimate
+              the prognostic significance of CD103+ TILs. The numbers of CD103+
+              TILs in the intratumoral (i.e., intraepithelial) and stromal
+              regions of NSCLC were estimated using immunohistochemistry and
+              automated image analysis. In the NSCLC cohort, high numbers of
+              intratumoral CD103+ TILs were significantly associated with
+              prolonged disease-free survival (DFS) and overall survival (OS)
+              in patients with pSCC but not in those with pulmonary
+              adenocarcinoma. In the pSCC cohort, a positive correlation was
+              observed between the numbers of intratumoral CD103+ and CD8+ TILs
+              (correlation coefficient = 0.736, P < 0.001). The ratio of
+              intratumoral/stromal CD103+ TILs was higher in pSCC with high
+              compared to low E-cadherin expression (P = 0.021). According to
+              Kaplan-Meier analysis, high intratumoral but not stromal CD103+
+              TILs were associated with prolonged DFS and OS in patients with
+              resected pSCC (P = 0.021 and 0.002, respectively). Multivariate
+              analysis revealed that a high number of intratumoral CD103+ TILs
+              is an independent predictor of a more favorable DFS (P = 0.021).
+              Thus, a high number of intratumoral CD103+ TILs is a favorable
+              prognostic indicator in patients with pSCC.",
+  journal  = "Oncotarget",
+  volume   =  8,
+  number   =  8,
+  pages    = "13762--13769",
+  month    =  feb,
+  year     =  2017,
+  keywords = "CD103; cancer immunotherapy; prognosis; pulmonary squamous cell
+              carcinoma; tumor-infiltrating lymphocytes",
+  language = "en"
+}
