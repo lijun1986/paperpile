@@ -797,6 +797,39 @@
   language = "en"
 }
 
+@ARTICLE{Enamorado2017-fx,
+  title    = "Enhanced anti-tumour immunity requires the interplay between
+              resident and circulating memory {CD8+} {T} cells",
+  author   = "Enamorado, Michel and Iborra, Salvador and Priego, Elena and
+              Cueto, Francisco J and Quintana, Juan A and Mart{\'\i}nez-Cano,
+              Sarai and Mej{\'\i}as-P{\'e}rez, Ernesto and Esteban, Mariano and
+              Melero, Ignacio and Hidalgo, Andr{\'e}s and Sancho, David",
+  abstract = "The goal of successful anti-tumoural immunity is the development
+              of long-term protective immunity to prevent relapse. Infiltration
+              of tumours with CD8+ T cells with a resident memory (Trm)
+              phenotype correlates with improved survival. However, the
+              interplay of circulating CD8+ T cells and Trm cells remains
+              poorly explored in tumour immunity. Using different vaccination
+              strategies that fine-tune the generation of Trm cells or
+              circulating memory T cells, here we show that, while both subsets
+              are sufficient for anti-tumour immunity, the presence of Trm
+              cells improves anti-tumour efficacy. Transferred central memory T
+              cells (Tcm) generate Trm cells following viral infection or
+              tumour challenge. Anti-PD-1 treatment promotes infiltration of
+              transferred Tcm cells within tumours, improving anti-tumour
+              immunity. Moreover, Batf3-dependent dendritic cells are essential
+              for reactivation of circulating memory anti-tumour response. Our
+              findings show the plasticity, collaboration and requirements for
+              reactivation of memory CD8+ T cells subsets needed for optimal
+              tumour vaccination and immunotherapy.",
+  journal  = "Nat. Commun.",
+  volume   =  8,
+  pages    = "16073",
+  month    =  jul,
+  year     =  2017,
+  language = "en"
+}
+
 @ARTICLE{Mohammed2016-gq,
   title    = "Stromal cells control the epithelial residence of {DCs} and
               memory {T} cells by regulated activation of {TGF-$\beta$}",
