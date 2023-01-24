@@ -2520,6 +2520,7 @@
   number   =  10,
   month    =  oct,
   year     =  2022,
+  keywords = "Mouse study",
   language = "en"
 }
 
