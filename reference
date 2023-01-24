@@ -2259,6 +2259,41 @@
   language = "en"
 }
 
+@ARTICLE{Li2022-ys,
+  title    = "In vivo labeling reveals continuous trafficking of {TCF-1+} {T}
+              cells between tumor and lymphoid tissue",
+  author   = "Li, Zhi and Tuong, Zewen K and Dean, Isaac and Willis, Claire and
+              Gaspal, Fabrina and Fiancette, R{\'e}mi and Idris, Suaad and
+              Kennedy, Bethany and Ferdinand, John R and Pe{\~n}alver, Ana and
+              Cabantous, Mia and Murtuza Baker, Syed and Fry, Jeremy W and
+              Carlesso, Gianluca and Hammond, Scott A and Dovedi, Simon J and
+              Hepworth, Matthew R and Clatworthy, Menna R and Withers, David R",
+  abstract = "Improving the efficacy of immune checkpoint therapies will
+              require a better understanding of how immune cells are recruited
+              and sustained in tumors. Here, we used the photoconversion of the
+              tumor immune cell compartment to identify newly entering
+              lymphocytes, determine how they change over time, and investigate
+              their egress from the tumor. Combining single-cell
+              transcriptomics and flow cytometry, we found that while a diverse
+              mix of CD8 T cell subsets enter the tumor, all CD8 T cells
+              retained within this environment for more than 72 h developed an
+              exhausted phenotype, revealing the rapid establishment of this
+              program. Rather than forming tumor-resident populations,
+              non-effector subsets, which express TCF-1 and include memory and
+              stem-like cells, were continuously recruited into the tumor, but
+              this recruitment was balanced by concurrent egress to the
+              tumor-draining lymph node. Thus, the TCF-1+ CD8 T cell niche in
+              tumors is highly dynamic, with the circulation of cells between
+              the tumor and peripheral lymphoid tissue to bridge systemic and
+              intratumoral responses.",
+  journal  = "J. Exp. Med.",
+  volume   =  219,
+  number   =  6,
+  month    =  jun,
+  year     =  2022,
+  language = "en"
+}
+
 @UNPUBLISHED{Zhang2020-an,
   title    = "{CECR2} Drives Breast Cancer Metastasis by Suppressing Macrophage
               Inflammatory Responses",
