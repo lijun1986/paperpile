@@ -4321,6 +4321,64 @@
   language = "en"
 }
 
+@ARTICLE{Attrill2022-rd,
+  title    = "Detailed spatial immunophenotyping of primary melanomas reveals
+              immune cell subpopulations associated with patient outcome",
+  author   = "Attrill, Grace H and Lee, Hansol and Tasker, Annie T and Adegoke,
+              Nurudeen A and Ferguson, Angela L and da Silva, Ines Pires and
+              Saw, Robyn P M and Thompson, John F and Palendira, Umaimainthan
+              and Long, Georgina V and Ferguson, Peter M and Scolyer, Richard A
+              and Wilmott, James S",
+  abstract = "While the tumor immune microenvironment (TIME) of metastatic
+              melanoma has been well characterized, the primary melanoma TIME
+              is comparatively poorly understood. Additionally, although the
+              association of tumor-infiltrating lymphocytes with primary
+              melanoma patient outcome has been known for decades, it is not
+              considered in the current AJCC melanoma staging system. Detailed
+              immune phenotyping of advanced melanoma has revealed multiple
+              immune biomarkers, including the presence of CD8+ T-cells, for
+              predicting response to immunotherapies. However, in primary
+              melanomas, immune biomarkers are lacking and CD8+ T-cells have
+              yet to be extensively characterized. As recent studies combining
+              immune features and clinicopathologic characteristics have
+              created more accurate predictive models, this study sought to
+              characterize the TIME of primary melanomas and identify
+              predictors of patient outcome. We first phenotyped CD8+ T cells
+              in fresh stage II primary melanomas using flow cytometry (n = 6),
+              identifying a CD39+ tumor-resident CD8+ T-cell subset enriched
+              for PD-1 expression. We then performed Opal multiplex
+              immunohistochemistry and quantitative pathology-based immune
+              profiling of CD8+ T-cell subsets, along with B cells, NK cells,
+              Langerhans cells and Class I MHC expression in stage II primary
+              melanoma specimens from patients with long-term follow-up (n =
+              66), comparing patients based on their recurrence status at 5
+              years after primary diagnosis. A CD39+CD103+PD-1- CD8+ T-cell
+              population (P2) comprised a significantly higher proportion of
+              intratumoral and stromal CD8+ T-cells in patients with
+              recurrence-free survival (RFS) $\geq$5 years vs those with RFS <5
+              years (p = 0.013). Similarly, intratumoral B cells (p = 0.044)
+              and a significantly higher B cell density at the tumor/stromal
+              interface were associated with RFS. Both P2 and B cells localized
+              in significantly closer proximity to melanoma cells in patients
+              who remained recurrence-free (P2 p = 0.0139, B cell p = 0.0049).
+              Our results highlight how characterizing the TIME in primary
+              melanomas may provide new insights into how the complex interplay
+              of the immune system and tumor can modify the disease outcomes.
+              Furthermore, in the context of current clinical trials of
+              adjuvant anti-PD-1 therapies in high-risk stage II primary
+              melanoma, assessment of B cells and P2 could identify patients at
+              risk of recurrence and aid in long-term treatment decisions at
+              the point of primary melanoma diagnosis.",
+  journal  = "Front. Immunol.",
+  volume   =  13,
+  pages    = "979993",
+  month    =  aug,
+  year     =  2022,
+  keywords = "Clinicopathological features; T cell phenotypes;
+              immunophenotyping; primary melanoma; spatial pathology",
+  language = "en"
+}
+
 @ARTICLE{Cotechini2021-zr,
   title    = "{Tissue-Resident} and Recruited Macrophages in Primary Tumor and
               Metastatic Microenvironments: Potential Targets in Cancer Therapy",
