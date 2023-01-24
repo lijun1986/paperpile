@@ -3500,3 +3500,62 @@
               cell;Human study",
   language = "en"
 }
+
+@ARTICLE{Caushi2021-um,
+  title    = "Transcriptional programs of neoantigen-specific {TIL} in
+              {anti-PD-1-treated} lung cancers",
+  author   = "Caushi, Justina X and Zhang, Jiajia and Ji, Zhicheng and
+              Vaghasia, Ajay and Zhang, Boyang and Hsiue, Emily Han-Chung and
+              Mog, Brian J and Hou, Wenpin and Justesen, Sune and Blosser,
+              Richard and Tam, Ada and Anagnostou, Valsamo and Cottrell, Tricia
+              R and Guo, Haidan and Chan, Hok Yee and Singh, Dipika and Thapa,
+              Sampriti and Dykema, Arbor G and Burman, Poromendro and
+              Choudhury, Begum and Aparicio, Luis and Cheung, Laurene S and
+              Lanis, Mara and Belcaid, Zineb and El Asmar, Margueritta and
+              Illei, Peter B and Wang, Rulin and Meyers, Jennifer and Schuebel,
+              Kornel and Gupta, Anuj and Skaist, Alyza and Wheelan, Sarah and
+              Naidoo, Jarushka and Marrone, Kristen A and Brock, Malcolm and
+              Ha, Jinny and Bush, Errol L and Park, Bernard J and Bott, Matthew
+              and Jones, David R and Reuss, Joshua E and Velculescu, Victor E
+              and Chaft, Jamie E and Kinzler, Kenneth W and Zhou, Shibin and
+              Vogelstein, Bert and Taube, Janis M and Hellmann, Matthew D and
+              Brahmer, Julie R and Merghoub, Taha and Forde, Patrick M and
+              Yegnasubramanian, Srinivasan and Ji, Hongkai and Pardoll, Drew M
+              and Smith, Kellie N",
+  abstract = "PD-1 blockade unleashes CD8 T cells1, including those specific
+              for mutation-associated neoantigens (MANA), but factors in the
+              tumour microenvironment can inhibit these T cell responses.
+              Single-cell transcriptomics have revealed global T cell
+              dysfunction programs in tumour-infiltrating lymphocytes (TIL).
+              However, the majority of TIL do not recognize tumour antigens2,
+              and little is known about transcriptional programs of
+              MANA-specific TIL. Here, we identify MANA-specific T cell clones
+              using the MANA functional expansion of specific T cells assay3 in
+              neoadjuvant anti-PD-1-treated non-small cell lung cancers
+              (NSCLC). We use their T cell receptors as a 'barcode' to track
+              and analyse their transcriptional programs in the tumour
+              microenvironment using coupled single-cell RNA sequencing and T
+              cell receptor sequencing. We find both MANA- and virus-specific
+              clones in TIL, regardless of response, and MANA-, influenza- and
+              Epstein-Barr virus-specific TIL each have unique transcriptional
+              programs. Despite exposure to cognate antigen, MANA-specific TIL
+              express an incompletely activated cytolytic program.
+              MANA-specific CD8 T cells have hallmark transcriptional programs
+              of tissue-resident memory (TRM) cells, but low levels of
+              interleukin-7 receptor (IL-7R) and are functionally less
+              responsive to interleukin-7 (IL-7) compared with
+              influenza-specific TRM cells. Compared with those from responding
+              tumours, MANA-specific clones from non-responding tumours express
+              T cell receptors with markedly lower ligand-dependent signalling,
+              are largely confined to HOBIThigh TRM subsets, and coordinately
+              upregulate checkpoints, killer inhibitory receptors and
+              inhibitors of T cell activation. These findings provide important
+              insights for overcoming resistance to PD-1 blockade.",
+  journal  = "Nature",
+  volume   =  596,
+  number   =  7870,
+  pages    = "126--132",
+  month    =  aug,
+  year     =  2021,
+  language = "en"
+}
