@@ -1875,3 +1875,35 @@
   keywords = "Human study",
   language = "en"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Ariotti2014-lg,
+  title    = "{T} cell memory. Skin-resident memory {CD8⁺} {T} cells trigger a
+              state of tissue-wide pathogen alert",
+  author   = "Ariotti, Silvia and Hogenbirk, Marc A and Dijkgraaf, Feline E and
+              Visser, Lindy L and Hoekstra, Mirjam E and Song, Ji-Ying and
+              Jacobs, Heinz and Haanen, John B and Schumacher, Ton N",
+  abstract = "After an infection, pathogen-specific tissue-resident memory T
+              cells (T(RM) cells) persist in nonlymphoid tissues to provide
+              rapid control upon reinfection, and vaccination strategies that
+              create T(RM) cell pools at sites of pathogen entry are therefore
+              attractive. However, it is not well understood how T(RM) cells
+              provide such pathogen protection. Here, we demonstrate that
+              activated T(RM) cells in mouse skin profoundly alter the local
+              tissue environment by inducing a number of broadly active
+              antiviral and antibacterial genes. This ``pathogen alert'' allows
+              skin T(RM) cells to protect against an antigenically unrelated
+              virus. These data describe a mechanism by which tissue-resident
+              memory CD8(+) T cells protect previously infected sites that is
+              rapid, amplifies the activation of a small number of cells into
+              an organ-wide response, and has the capacity to control escape
+              variants.",
+  journal  = "Science",
+  volume   =  346,
+  number   =  6205,
+  pages    = "101--105",
+  month    =  oct,
+  year     =  2014,
+  language = "en"
+}
