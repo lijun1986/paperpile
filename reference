@@ -1908,3 +1908,41 @@
   keywords = "Only mouse study",
   language = "en"
 }
+
+@ARTICLE{Djenidi2015-pt,
+  title    = "{CD8+CD103+} tumor-infiltrating lymphocytes are tumor-specific
+              tissue-resident memory {T} cells and a prognostic factor for
+              survival in lung cancer patients",
+  author   = "Djenidi, Fay{\c c}al and Adam, Julien and Goubar, A{\"\i}cha and
+              Durgeau, Aur{\'e}lie and Meurice, Guillaume and de
+              Montpr{\'e}ville, Vincent and Validire, Pierre and Besse,
+              Benjamin and Mami-Chouaib, Fathia",
+  abstract = "We had previously demonstrated the role of CD103 integrin on lung
+              tumor-infiltrating lymphocyte (TIL) clones in promoting specific
+              TCR-mediated epithelial tumor cell cytotoxicity. However, the
+              contribution of CD103 on intratumoral T cell distribution and
+              functions and the prognosis significance of TIL subpopulations in
+              non-small cell lung carcinoma (NSCLC) have thus far not been
+              systematically addressed. In this study, we show that an enhanced
+              CD103(+) TIL subset correlates with improved early stage NSCLC
+              patient survival and increased intraepithelial lymphocyte
+              infiltration. Moreover, our results indicate that CD8(+)CD103(+)
+              TIL, freshly isolated from NSCLC specimens, display
+              transcriptomic and phenotypic signatures characteristic of
+              tissue-resident memory T cells and frequently express PD-1 and
+              Tim-3 checkpoint receptors. This TIL subset also displays
+              increased activation-induced cell death and mediates specific
+              cytolytic activity toward autologous tumor cells upon blockade of
+              the PD-1-PD-L1 interaction. These findings emphasize the role of
+              CD8(+)CD103(+) tissue-resident memory T cells in promoting
+              intratumoral CTL responses and support the rationale for using
+              anti-PD-1 blocking Ab to reverse tumor-induced T cell exhaustion
+              in NSCLC patients.",
+  journal  = "J. Immunol.",
+  volume   =  194,
+  number   =  7,
+  pages    = "3475--3486",
+  month    =  apr,
+  year     =  2015,
+  language = "en"
+}
