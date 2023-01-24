@@ -362,45 +362,6 @@
   language = "en"
 }
 
-@ARTICLE{Milner2020-wo,
-  title    = "Heterogenous Populations of {Tissue-Resident} {CD8+} {T} Cells
-              Are Generated in Response to Infection and Malignancy",
-  author   = "Milner, J Justin and Toma, Clara and He, Zhaoren and Kurd, Nadia
-              S and Nguyen, Quynh P and McDonald, Bryan and Quezada, Lauren and
-              Widjaja, Christella E and Witherden, Deborah A and Crowl, John T
-              and Shaw, Laura A and Yeo, Gene W and Chang, John T and Omilusik,
-              Kyla D and Goldrath, Ananda W",
-  abstract = "Tissue-resident memory CD8+ T cells (Trm) provide host protection
-              through continuous surveillance of non-lymphoid tissues. Using
-              single-cell RNA-sequencing (scRNA-seq) and genetic reporter mice,
-              we identified discrete lineages of intestinal antigen-specific
-              CD8+ T cells, including a Blimp1hiId3lo tissue-resident effector
-              cell population most prominent in the early phase of acute viral
-              and bacterial infections and a molecularly distinct Blimp1loId3hi
-              tissue-resident memory population that subsequently accumulated
-              at later infection time points. These Trm populations exhibited
-              distinct cytokine production, secondary memory potential, and
-              transcriptional programs including differential roles for
-              transcriptional regulators Blimp1, T-bet, Id2, and Id3 in
-              supporting and maintaining intestinal Trm. Extending our analysis
-              to malignant tissue, we also identified discrete populations of
-              effector-like and memory-like CD8+ T cell populations with
-              tissue-resident gene-expression signatures that shared features
-              of terminally exhausted and progenitor-exhausted T cells,
-              respectively. Our findings provide insight into the development
-              and functional heterogeneity of Trm cells, which has implications
-              for enhancing vaccination and immunotherapy approaches.",
-  journal  = "Immunity",
-  volume   =  52,
-  number   =  5,
-  pages    = "808--824.e7",
-  month    =  may,
-  year     =  2020,
-  keywords = "T cell; memory T cell; single-cell RNA-sequencing;
-              tissue-resident memory T cells; tumor immunity",
-  language = "en"
-}
-
 @ARTICLE{Stackowicz2019-gb,
   title       = "Mouse Models and Tools for the in vivo Study of Neutrophils",
   author      = "Stackowicz, Julien and J{\"o}nsson, Friederike and Reber,
@@ -3076,5 +3037,44 @@
   month    =  oct,
   year     =  2020,
   keywords = "CD103; breast neoplasms; prognosis;Human study",
+  language = "en"
+}
+
+@ARTICLE{Milner2020-wo,
+  title    = "Heterogenous Populations of {Tissue-Resident} {CD8+} {T} Cells
+              Are Generated in Response to Infection and Malignancy",
+  author   = "Milner, J Justin and Toma, Clara and He, Zhaoren and Kurd, Nadia
+              S and Nguyen, Quynh P and McDonald, Bryan and Quezada, Lauren and
+              Widjaja, Christella E and Witherden, Deborah A and Crowl, John T
+              and Shaw, Laura A and Yeo, Gene W and Chang, John T and Omilusik,
+              Kyla D and Goldrath, Ananda W",
+  abstract = "Tissue-resident memory CD8+ T cells (Trm) provide host protection
+              through continuous surveillance of non-lymphoid tissues. Using
+              single-cell RNA-sequencing (scRNA-seq) and genetic reporter mice,
+              we identified discrete lineages of intestinal antigen-specific
+              CD8+ T cells, including a Blimp1hiId3lo tissue-resident effector
+              cell population most prominent in the early phase of acute viral
+              and bacterial infections and a molecularly distinct Blimp1loId3hi
+              tissue-resident memory population that subsequently accumulated
+              at later infection time points. These Trm populations exhibited
+              distinct cytokine production, secondary memory potential, and
+              transcriptional programs including differential roles for
+              transcriptional regulators Blimp1, T-bet, Id2, and Id3 in
+              supporting and maintaining intestinal Trm. Extending our analysis
+              to malignant tissue, we also identified discrete populations of
+              effector-like and memory-like CD8+ T cell populations with
+              tissue-resident gene-expression signatures that shared features
+              of terminally exhausted and progenitor-exhausted T cells,
+              respectively. Our findings provide insight into the development
+              and functional heterogeneity of Trm cells, which has implications
+              for enhancing vaccination and immunotherapy approaches.",
+  journal  = "Immunity",
+  volume   =  52,
+  number   =  5,
+  pages    = "808--824.e7",
+  month    =  may,
+  year     =  2020,
+  keywords = "T cell; memory T cell; single-cell RNA-sequencing;
+              tissue-resident memory T cells; tumor immunity;Mouse study",
   language = "en"
 }
