@@ -4378,3 +4378,39 @@
   keywords = "Mouse study",
   language = "en"
 }
+
+@ARTICLE{Fonseca2022-sk,
+  title    = "Runx3 drives a {CD8+} {T} cell tissue residency program that is
+              absent in {CD4+} {T} cells",
+  author   = "Fonseca, Ra{\'\i}ssa and Burn, Thomas N and Gandolfo, Luke C and
+              Devi, Sapna and Park, Simone L and Obers, Andreas and Evrard,
+              Maximilien and Christo, Susan N and Buquicchio, Frank A and
+              Lareau, Caleb A and McDonald, Keely M and Sandford, Sarah K and
+              Zamudio, Natasha M and Zanluqui, Nagela G and Zaid, Ali and
+              Speed, Terence P and Satpathy, Ansuman T and Mueller, Scott N and
+              Carbone, Francis R and Mackay, Laura K",
+  abstract = "Tissue-resident memory T cells (TRM cells) provide rapid and
+              superior control of localized infections. While the transcription
+              factor Runx3 is a critical regulator of CD8+ T cell tissue
+              residency, its expression is repressed in CD4+ T cells. Here, we
+              show that, as a direct consequence of this Runx3-deficiency, CD4+
+              TRM cells lacked the transforming growth factor
+              (TGF)-$\beta$-responsive transcriptional network that underpins
+              the tissue residency of epithelial CD8+ TRM cells. While CD4+ TRM
+              cell formation required Runx1, this, along with the modest
+              expression of Runx3 in CD4+ TRM cells, was insufficient to engage
+              the TGF-$\beta$-driven residency program. Ectopic expression of
+              Runx3 in CD4+ T cells incited this TGF-$\beta$-transcriptional
+              network to promote prolonged survival, decreased tissue egress, a
+              microanatomical redistribution towards epithelial layers and
+              enhanced effector functionality. Thus, our results reveal
+              distinct programming of tissue residency in CD8+ and CD4+ TRM
+              cell subsets that is attributable to divergent Runx3 activity.",
+  journal  = "Nat. Immunol.",
+  volume   =  23,
+  number   =  8,
+  pages    = "1236--1245",
+  month    =  aug,
+  year     =  2022,
+  language = "en"
+}
