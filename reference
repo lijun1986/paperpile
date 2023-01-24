@@ -3040,6 +3040,52 @@
   language = "en"
 }
 
+@ARTICLE{Lee2022-rn,
+  title    = "{CD39+} tissue-resident memory {CD8+} {T} cells with a clonal
+              overlap across compartments mediate antitumor immunity in breast
+              cancer",
+  author   = "Lee, Yong Joon and Kim, Jee Ye and Jeon, Seung Hyuck and Nam,
+              Heejin and Jung, Jae Hyung and Jeon, Minwoo and Kim, Eui-Soon and
+              Bae, Soong June and Ahn, Juneyoung and Yoo, Tae-Kyung and Sun,
+              Woo Young and Ahn, Sung Gwe and Jeong, Joon and Park, Su-Hyung
+              and Park, Woo Chan and Kim, Seung Il and Shin, Eui-Cheol",
+  abstract = "Despite being a standard treatment option in breast cancer,
+              immune checkpoint inhibitors (ICIs) are only efficacious for a
+              subset of patients. To gain a better understanding of the
+              antitumor immune response in breast cancer, we examined the
+              heterogeneity of CD8+ T cells in tumors, metastatic lymph nodes
+              (mLNs), and peripheral blood from patients with early breast
+              cancer (n = 131). Among tissue-resident memory CD8+ T (TRM)
+              cells, including virus- and tumor-specific CD8+ T cells, CD39
+              expression was observed in a tumor-specific and exhausted
+              subpopulation in both tumors and mLNs. CD39+ TRM cells from
+              tumors and mLNs exhibited a phenotypic similarity and clonally
+              overlapped with each other. Moreover, tumor or mLN CD39+ TRM
+              cells clonally overlapped with CD39- TRM and non-TRM cells in the
+              same compartment, implying a tissue-specific differentiation
+              process. These inter-subpopulationally overlapping CD39+ TRM
+              clonotypes were frequently detected among effector memory CD8+ T
+              cells in peripheral blood, suggesting a systemic clonal overlap.
+              CD39+ TRM cell enrichment was heterogeneous among molecular
+              subtypes of breast cancer, which is associated with the different
+              role of antitumor immune responses in each subtype. In vitro
+              blockade of PD-1 and/or CTLA-4 effectively restored proliferation
+              of CD39+ TRM cells and enhanced cytokine production by CD8+ T
+              cells from tumors or mLNs, particularly in the presence of CD39+
+              TRM enrichment. This suggests that CD39+ TRM cells have a
+              capacity for functional restoration upon ICI treatment. Thus, our
+              study indicates that CD39+ TRM cells with a clonal overlap across
+              compartments are key players in antitumor immunity in breast
+              cancer.",
+  journal  = "Sci Immunol",
+  volume   =  7,
+  number   =  74,
+  pages    = "eabn8390",
+  month    =  aug,
+  year     =  2022,
+  language = "en"
+}
+
 @ARTICLE{Gomez2020-wa,
   title       = "Breast cancer--associated macrophages promote tumorigenesis by
                  suppressing succinate dehydrogenase in tumor cells",
