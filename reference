@@ -2634,3 +2634,37 @@
   keywords = "Human study",
   language = "en"
 }
+
+@ARTICLE{Duhen2018-rt,
+  title    = "Co-expression of {CD39} and {CD103} identifies tumor-reactive
+              {CD8} {T} cells in human solid tumors",
+  author   = "Duhen, Thomas and Duhen, Rebekka and Montler, Ryan and Moses,
+              Jake and Moudgil, Tarsem and de Miranda, Noel F and Goodall,
+              Cheri P and Blair, Tiffany C and Fox, Bernard A and McDermott,
+              Jason E and Chang, Shu-Ching and Grunkemeier, Gary and Leidner,
+              Rom and Bell, Richard Bryan and Weinberg, Andrew D",
+  abstract = "Identifying tumor antigen-specific T cells from cancer patients
+              has important implications for immunotherapy diagnostics and
+              therapeutics. Here, we show that CD103+CD39+ tumor-infiltrating
+              CD8 T cells (CD8 TIL) are enriched for tumor-reactive cells both
+              in primary and metastatic tumors. This CD8 TIL subset is found
+              across six different malignancies and displays an exhausted
+              tissue-resident memory phenotype. CD103+CD39+ CD8 TILs have a
+              distinct T-cell receptor (TCR) repertoire, with T-cell clones
+              expanded in the tumor but present at low frequencies in the
+              periphery. CD103+CD39+ CD8 TILs also efficiently kill autologous
+              tumor cells in a MHC-class I-dependent manner. Finally, higher
+              frequencies of CD103+CD39+ CD8 TILs in patients with head and
+              neck cancer are associated with better overall survival. Our data
+              thus describe an approach for detecting tumor-reactive CD8 TILs
+              that will help define mechanisms of existing immunotherapy
+              treatments, and may lead to future adoptive T-cell cancer
+              therapies.",
+  journal  = "Nat. Commun.",
+  volume   =  9,
+  number   =  1,
+  pages    = "2724",
+  month    =  jul,
+  year     =  2018,
+  language = "en"
+}
