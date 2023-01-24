@@ -2031,3 +2031,38 @@
               T cells; peripheral immunity;Only mouse study",
   language = "en"
 }
+
+@ARTICLE{Mohammed2016-gq,
+  title    = "Stromal cells control the epithelial residence of {DCs} and
+              memory {T} cells by regulated activation of {TGF-$\beta$}",
+  author   = "Mohammed, Javed and Beura, Lalit K and Bobr, Aleh and Astry,
+              Brian and Chicoine, Brian and Kashem, Sakeen W and Welty, Nathan
+              E and Igy{\'a}rt{\'o}, Botond Z and Wijeyesinghe, Sathi and
+              Thompson, Emily A and Matte, Catherine and Bartholin, Laurent and
+              Kaplan, Alesia and Sheppard, Dean and Bridges, Alina G and
+              Shlomchik, Warren D and Masopust, David and Kaplan, Daniel H",
+  abstract = "Cells of the immune system that reside in barrier epithelia
+              provide a first line of defense against pathogens. Langerhans
+              cells (LCs) and CD8(+) tissue-resident memory T cells (TRM cells)
+              require active transforming growth factor-$\beta$1 (TGF-$\beta$)
+              for epidermal residence. Here we found that integrins
+              $\alpha$v$\beta$6 and $\alpha$v$\beta$8 were expressed in
+              non-overlapping patterns by keratinocytes (KCs) and maintained
+              the epidermal residence of LCs and TRM cells by activating latent
+              TGF-$\beta$. Similarly, the residence of dendritic cells and TRM
+              cells in the small intestine epithelium also required
+              $\alpha$v$\beta$6. Treatment of the skin with ultraviolet
+              irradiation decreased integrin expression on KCs and reduced the
+              availability of active TGF-$\beta$, which resulted in LC
+              migration. Our data demonstrated that regulated activation of
+              TGF-$\beta$ by stromal cells was able to directly control
+              epithelial residence of cells of the immune system through a
+              novel mechanism of intercellular communication.",
+  journal  = "Nat. Immunol.",
+  volume   =  17,
+  number   =  4,
+  pages    = "414--421",
+  month    =  apr,
+  year     =  2016,
+  language = "en"
+}
