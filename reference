@@ -2186,3 +2186,42 @@
               cells;Human study",
   language = "en"
 }
+
+@ARTICLE{Boddupalli2016-yf,
+  title    = "Interlesional diversity of {T} cell receptors in melanoma with
+              immune checkpoints enriched in tissue-resident memory {T} cells",
+  author   = "Boddupalli, Chandra Sekhar and Bar, Noffar and Kadaveru, Krishna
+              and Krauthammer, Michael and Pornputtapong, Natopol and Mai,
+              Zifeng and Ariyan, Stephan and Narayan, Deepak and Kluger,
+              Harriet and Deng, Yanhong and Verma, Rakesh and Das, Rituparna
+              and Bacchiocchi, Antonella and Halaban, Ruth and Sznol, Mario and
+              Dhodapkar, Madhav V and Dhodapkar, Kavita M",
+  abstract = "Heterogeneity of tumor cells and their microenvironment can
+              affect outcome in cancer. Blockade of immune checkpoints (ICPs)
+              expressed only on a subset of immune cells leads to durable
+              responses in advanced melanoma. Tissue-resident memory T (TRM)
+              cells have recently emerged as a distinct subset of memory T
+              cells in nonlymphoid tissues. Here, we show that functional
+              properties and expression of ICPs within tumor-infiltrating
+              lymphocytes (TILs) differ from those of blood T cells. TILs
+              secrete less IL-2, IFN-$\gamma$, and TNF-$\alpha$ compared with
+              circulating counterparts, and expression of VEGF correlated with
+              reduced TIL infiltration. Within tumors, ICPs are particularly
+              enriched within T cells with phenotype and genomic features of
+              TRM cells and the CD16+ subset of myeloid cells. Concurrent T
+              cell receptor (TCR) and tumor exome sequencing of individual
+              metastases in the same patient revealed that interlesional
+              diversity of TCRs exceeded differences in mutation/neoantigen
+              load in tumor cells. These findings suggest that the TRM subset
+              of TILs may be the major target of ICP blockade and illustrate
+              interlesional diversity of tissue-resident TCRs within individual
+              metastases, which did not equilibrate between metastases and may
+              differentially affect the outcome of immune therapy at each site.",
+  journal  = "JCI Insight",
+  volume   =  1,
+  number   =  21,
+  pages    = "e88955",
+  month    =  dec,
+  year     =  2016,
+  language = "en"
+}
