@@ -2589,3 +2589,47 @@
   keywords = "Mouse study",
   language = "en"
 }
+
+@ARTICLE{Savas2018-sf,
+  title    = "Single-cell profiling of breast cancer {T} cells reveals a
+              tissue-resident memory subset associated with improved prognosis",
+  author   = "Savas, Peter and Virassamy, Balaji and Ye, Chengzhong and Salim,
+              Agus and Mintoff, Christopher P and Caramia, Franco and Salgado,
+              Roberto and Byrne, David J and Teo, Zhi L and Dushyanthen,
+              Sathana and Byrne, Ann and Wein, Lironne and Luen, Stephen J and
+              Poliness, Catherine and Nightingale, Sophie S and Skandarajah,
+              Anita S and Gyorki, David E and Thornton, Chantel M and Beavis,
+              Paul A and Fox, Stephen B and {Kathleen Cuningham Foundation
+              Consortium for Research into Familial Breast Cancer (kConFab)}
+              and Darcy, Phillip K and Speed, Terence P and Mackay, Laura K and
+              Neeson, Paul J and Loi, Sherene",
+  abstract = "The quantity of tumor-infiltrating lymphocytes (TILs) in breast
+              cancer (BC) is a robust prognostic factor for improved patient
+              survival, particularly in triple-negative and HER2-overexpressing
+              BC subtypes1. Although T cells are the predominant TIL
+              population2, the relationship between quantitative and
+              qualitative differences in T cell subpopulations and patient
+              prognosis remains unknown. We performed single-cell RNA
+              sequencing (scRNA-seq) of 6,311 T cells isolated from human BCs
+              and show that significant heterogeneity exists in the
+              infiltrating T cell population. We demonstrate that BCs with a
+              high number of TILs contained CD8+ T cells with features of
+              tissue-resident memory T (TRM) cell differentiation and that
+              these CD8+ TRM cells expressed high levels of immune checkpoint
+              molecules and effector proteins. A CD8+ TRM gene signature
+              developed from the scRNA-seq data was significantly associated
+              with improved patient survival in early-stage triple-negative
+              breast cancer (TNBC) and provided better prognostication than CD8
+              expression alone. Our data suggest that CD8+ TRM cells contribute
+              to BC immunosurveillance and are the key targets of modulation by
+              immune checkpoint inhibition. Further understanding of the
+              development, maintenance and regulation of TRM cells will be
+              crucial for successful immunotherapeutic development in BC.",
+  journal  = "Nat. Med.",
+  volume   =  24,
+  number   =  7,
+  pages    = "986--993",
+  month    =  jul,
+  year     =  2018,
+  language = "en"
+}
