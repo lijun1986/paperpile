@@ -3665,3 +3665,43 @@
   keywords = "Human study",
   language = "en"
 }
+
+@ARTICLE{Molodtsov2021-im,
+  title    = "Resident memory {CD8+} {T} cells in regional lymph nodes mediate
+              immunity to metastatic melanoma",
+  author   = "Molodtsov, Aleksey K and Khatwani, Nikhil and Vella, Jennifer L
+              and Lewis, Kathryn A and Zhao, Yanding and Han, Jichang and
+              Sullivan, Delaney E and Searles, Tyler G and Preiss, Nicholas K
+              and Shabaneh, Tamer B and Zhang, Peisheng and Hawkes, Aaron R and
+              Malik, Brian T and Kolling, 4th, Fred W and Usherwood, Edward J
+              and Wong, Sandra L and Phillips, Joseph D and Shirai, Keisuke and
+              Angeles, Christina V and Yan, Shaofeng and Curiel, Tyler J and
+              Huang, Yina H and Cheng, Chao and Turk, Mary Jo",
+  abstract = "The nature of the anti-tumor immune response changes as primary
+              tumors progress and metastasize. We investigated the role of
+              resident memory (Trm) and circulating memory (Tcirm) cells in
+              anti-tumor responses at metastatic locations using a mouse model
+              of melanoma-associated vitiligo. We found that the
+              transcriptional characteristics of tumor-specific CD8+ T cells
+              were defined by the tissue of occupancy. Parabiosis revealed that
+              tumor-specific Trm and Tcirm compartments persisted throughout
+              visceral organs, but Trm cells dominated lymph nodes (LNs).
+              Single-cell RNA-sequencing profiles of Trm cells in LN and skin
+              were distinct, and T cell clonotypes that occupied both tissues
+              were overwhelmingly maintained as Trm in LNs. Whereas Tcirm cells
+              prevented melanoma growth in the lungs, Trm afforded long-lived
+              protection against melanoma seeding in LNs. Expanded Trm
+              populations were also present in melanoma-involved LNs from
+              patients, and their transcriptional signature predicted better
+              survival. Thus, tumor-specific Trm cells persist in LNs,
+              restricting metastatic cancer.",
+  journal  = "Immunity",
+  volume   =  54,
+  number   =  9,
+  pages    = "2117--2132.e7",
+  month    =  sep,
+  year     =  2021,
+  keywords = "CD69; CD8 T cells; CXCR6; Cancer; TCR; TRP-2; Trm; parabiosis;
+              scRNA-seq; vitiligo",
+  language = "en"
+}
