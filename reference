@@ -759,6 +759,43 @@
   original_id = "c082a089-f4f8-0f49-b4c5-f1e975faa17b"
 }
 
+@ARTICLE{Nizard2017-ay,
+  title    = "Induction of resident memory {T} cells enhances the efficacy of
+              cancer vaccine",
+  author   = "Nizard, Mevyn and Roussel, H{\'e}l{\`e}ne and Diniz, Mariana O
+              and Karaki, Soumaya and Tran, Thi and Voron, Thibault and
+              Dransart, Estelle and Sandoval, Federico and Riquet, Marc and
+              Rance, Bastien and Marcheteau, Elie and Fabre, Elizabeth and
+              Mandavit, Marion and Terme, Magali and Blanc, Charlotte and
+              Escudie, Jean-Baptiste and Gibault, Laure and Barthes, Fran{\c
+              c}oise Le Pimpec and Granier, Clemence and Ferreira, Luis C S and
+              Badoual, Cecile and Johannes, Ludger and Tartour, Eric",
+  abstract = "Tissue-resident memory T cells (Trm) represent a new subset of
+              long-lived memory T cells that remain in tissue and do not
+              recirculate. Although they are considered as early immune
+              effectors in infectious diseases, their role in cancer
+              immunosurveillance remains unknown. In a preclinical model of
+              head and neck cancer, we show that intranasal vaccination with a
+              mucosal vector, the B subunit of Shiga toxin, induces local Trm
+              and inhibits tumour growth. As Trm do not recirculate, we
+              demonstrate their crucial role in the efficacy of cancer vaccine
+              with parabiosis experiments. Blockade of TFG$\beta$ decreases the
+              induction of Trm after mucosal vaccine immunization, resulting in
+              the lower efficacy of cancer vaccine. In order to extrapolate
+              this role of Trm in humans, we show that the number of Trm
+              correlates with a better overall survival in lung cancer in
+              multivariate analysis. The induction of Trm may represent a new
+              surrogate biomarker for the efficacy of cancer vaccine. This
+              study also argues for the development of vaccine strategies
+              designed to elicit them.",
+  journal  = "Nat. Commun.",
+  volume   =  8,
+  pages    = "15221",
+  month    =  may,
+  year     =  2017,
+  language = "en"
+}
+
 @ARTICLE{Mohammed2016-gq,
   title    = "Stromal cells control the epithelial residence of {DCs} and
               memory {T} cells by regulated activation of {TGF-$\beta$}",
