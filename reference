@@ -3420,3 +3420,38 @@
   keywords = "Hypoxia; Immunology; T cells;Human study",
   language = "en"
 }
+
+@ARTICLE{Han2021-lm,
+  title    = "Resident and circulating memory {T} cells persist for years in
+              melanoma patients with durable responses to immunotherapy",
+  author   = "Han, Jichang and Zhao, Yanding and Shirai, Keisuke and Molodtsov,
+              Aleksey and Kolling, Fred W and Fisher, Jan L and Zhang, Peisheng
+              and Yan, Shaofeng and Searles, Tyler G and Bader, Justin M and
+              Gui, Jiang and Cheng, Chao and Ernstoff, Marc S and Turk, Mary Jo
+              and Angeles, Christina V",
+  abstract = "While T-cell responses to cancer immunotherapy have been avidly
+              studied, long-lived memory has been poorly characterized. In a
+              cohort of metastatic melanoma survivors with exceptional
+              responses to immunotherapy, we probed memory CD8+ T-cell
+              responses across tissues, and across several years. Single-cell
+              RNA sequencing revealed three subsets of resident memory T (TRM)
+              cells shared between tumors and distant vitiligo-affected skin.
+              Paired T-cell receptor sequencing further identified clonotypes
+              in tumors that co-existed as TRM in skin and as effector memory T
+              (TEM) cells in blood. Clonotypes that dispersed throughout tumor,
+              skin, and blood preferentially expressed a IFNG / TNF-high
+              signature, which had a strong prognostic value for melanoma
+              patients. Remarkably, clonotypes from tumors were found in
+              patient skin and blood up to nine years later, with skin
+              maintaining the most focused tumor-associated clonal repertoire.
+              These studies reveal that cancer survivors can maintain durable
+              memory as functional, broadly-distributed TRM and TEM
+              compartments.",
+  journal  = "Nat Cancer",
+  volume   =  2,
+  number   =  3,
+  pages    = "300--311",
+  month    =  mar,
+  year     =  2021,
+  language = "en"
+}
