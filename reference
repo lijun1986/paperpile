@@ -879,6 +879,26 @@
   language = "en"
 }
 
+@ARTICLE{Smith2022-og,
+  title    = "Big fish in small ponds: Narrow repertoires of stem-like
+              tissue-resident {T} cells yield great power in anti-tumor
+              immunity",
+  author   = "Smith, Kellie N",
+  abstract = "Metastatic ovarian cancer is a significant clinical challenge due
+              in part to its poor response to immunotherapy. In a recent issue
+              of Cancer Cell, Anandon et al. (2022) identify a population of
+              stem-like tissue-resident memory T cells that are responsible for
+              the bulk of anti-tumor T cell immunity, with insights into
+              improving therapeutic response.",
+  journal  = "Immunity",
+  volume   =  55,
+  number   =  6,
+  pages    = "979--981",
+  month    =  jun,
+  year     =  2022,
+  language = "en"
+}
+
 @ARTICLE{Barsch2022-ef,
   title    = "T-cell exhaustion and residency dynamics inform clinical outcomes
               in hepatocellular carcinoma",
