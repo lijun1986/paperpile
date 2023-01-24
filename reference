@@ -362,44 +362,42 @@
   language = "en"
 }
 
-@ARTICLE{Hewavisenti2020-du,
-  title    = "{CD103+} tumor-resident {CD8+} {T} cell numbers underlie improved
-              patient survival in oropharyngeal squamous cell carcinoma",
-  author   = "Hewavisenti, Rehana and Ferguson, Angela and Wang, Kevin and
-              Jones, Deanna and Gebhardt, Thomas and Edwards, Jarem and Zhang,
-              Mei and Britton, Warwick and Yang, Jean and Hong, Angela and
-              Palendira, Umaimainthan",
-  abstract = "BACKGROUND: Human Papillomavirus (HPV) associated oropharyngeal
-              squamous cell carcinoma (OPSCC) is one of the fastest growing
-              cancers in the Western world. When compared to OPSCCs induced by
-              smoking or alcohol, patients with HPV+ OPSCC, have better
-              survival and the mechanisms remain unclear. METHODS: The Cancer
-              Genome Atlas (TCGA) database was examined for genes associated
-              with tissue-resident CD8+ T cells. Multiplex immunohistochemistry
-              (IHC) staining was performed on tumor specimen taken from 35 HPV+
-              and 27 HPV- OPSCC patients. RESULTS: TCGA database revealed that
-              the expression of genes encoding CD103 and CD69 were
-              significantly higher in HPV+ head and neck SCCs (HNSCC) than in
-              HPV- HNSCC. Higher expression levels of these two genes were also
-              associated with better overall survival. IHC staining showed that
-              the proportion of CD103+ tumor-resident CD8+ T cells were
-              significantly higher in HPV+ OPSCCs when compared to HPV- OPSCC.
-              This higher level was also associated with both lower risk of
-              loco-regional failure, and better overall survival. Importantly,
-              patients with HPV- OPSCC who had comparable levels of CD103+
-              tumor-resident CD8+ T cells to those with HPV+ OPSCC demonstrated
-              similar survival as those with HPV+OPSCC. CONCLUSION: Our results
-              show that CD103+ tumor-resident CD8+ T cells are critical for
-              protective immunity in both types of OPSCCs. Our data further
-              suggest that the enhanced local protective immunity provided by
-              tumor-resident T cell responses is the underlying factor driving
-              favorable clinical outcomes in HPV+ OPSCCs over HPV- OPSCCs.",
-  journal  = "J Immunother Cancer",
-  volume   =  8,
-  number   =  1,
-  month    =  jun,
+@ARTICLE{Bourdely2020-ub,
+  title    = "Transcriptional and Functional Analysis of {CD1c+} Human
+              Dendritic Cells Identifies a {CD163+} Subset Priming {CD8+CD103+}
+              {T} Cells",
+  author   = "Bourdely, Pierre and Anselmi, Giorgio and Vaivode, Kristine and
+              Ramos, Rodrigo Nalio and Missolo-Koussou, Yoann and Hidalgo,
+              Sofia and Tosselo, Jimena and Nu{\~n}ez, Nicolas and Richer,
+              Wilfrid and Vincent-Salomon, Anne and Saxena, Alka and Wood,
+              Kristie and Lladser, Alvaro and Piaggio, Eliane and Helft, Julie
+              and Guermonprez, Pierre",
+  abstract = "Dendritic cells (DCs) are antigen-presenting cells controlling T
+              cell activation. In humans, the diversity, ontogeny, and
+              functional capabilities of DC subsets are not fully understood.
+              Here, we identified circulating CD88-CD1c+CD163+ DCs (called
+              DC3s) as immediate precursors of inflammatory
+              CD88-CD14+CD1c+CD163+Fc$\epsilon$RI+ DCs. DC3s develop via a
+              specific pathway activated by GM-CSF, independent of
+              cDC-restricted (CDP) and monocyte-restricted (cMoP) progenitors.
+              Like classical DCs but unlike monocytes, DC3s drove activation of
+              naive T cells. In vitro, DC3s displayed a distinctive ability to
+              prime CD8+ T cells expressing a tissue homing signature and the
+              epithelial homing alpha-E integrin (CD103) through transforming
+              growth factor $\beta$ (TGF-$\beta$) signaling. In vivo, DC3s
+              infiltrated luminal breast cancer primary tumors, and DC3
+              infiltration correlated positively with CD8+CD103+CD69+
+              tissue-resident memory T cells. Together, these findings define
+              DC3s as a lineage of inflammatory DCs endowed with a strong
+              potential to regulate tumor immunity.",
+  journal  = "Immunity",
+  volume   =  53,
+  number   =  2,
+  pages    = "335--352.e8",
+  month    =  aug,
   year     =  2020,
-  keywords = "immunology; tumors;Human study",
+  keywords = "DC progenitors; DC3s; T(RM); cDC2s; conventional DCs;
+              inflammatory DCs; monocytes; mononuclear phagocytes",
   language = "en"
 }
 
@@ -3117,5 +3115,46 @@
   year     =  2020,
   keywords = "T cell; memory T cell; single-cell RNA-sequencing;
               tissue-resident memory T cells; tumor immunity;Mouse study",
+  language = "en"
+}
+
+@ARTICLE{Hewavisenti2020-du,
+  title    = "{CD103+} tumor-resident {CD8+} {T} cell numbers underlie improved
+              patient survival in oropharyngeal squamous cell carcinoma",
+  author   = "Hewavisenti, Rehana and Ferguson, Angela and Wang, Kevin and
+              Jones, Deanna and Gebhardt, Thomas and Edwards, Jarem and Zhang,
+              Mei and Britton, Warwick and Yang, Jean and Hong, Angela and
+              Palendira, Umaimainthan",
+  abstract = "BACKGROUND: Human Papillomavirus (HPV) associated oropharyngeal
+              squamous cell carcinoma (OPSCC) is one of the fastest growing
+              cancers in the Western world. When compared to OPSCCs induced by
+              smoking or alcohol, patients with HPV+ OPSCC, have better
+              survival and the mechanisms remain unclear. METHODS: The Cancer
+              Genome Atlas (TCGA) database was examined for genes associated
+              with tissue-resident CD8+ T cells. Multiplex immunohistochemistry
+              (IHC) staining was performed on tumor specimen taken from 35 HPV+
+              and 27 HPV- OPSCC patients. RESULTS: TCGA database revealed that
+              the expression of genes encoding CD103 and CD69 were
+              significantly higher in HPV+ head and neck SCCs (HNSCC) than in
+              HPV- HNSCC. Higher expression levels of these two genes were also
+              associated with better overall survival. IHC staining showed that
+              the proportion of CD103+ tumor-resident CD8+ T cells were
+              significantly higher in HPV+ OPSCCs when compared to HPV- OPSCC.
+              This higher level was also associated with both lower risk of
+              loco-regional failure, and better overall survival. Importantly,
+              patients with HPV- OPSCC who had comparable levels of CD103+
+              tumor-resident CD8+ T cells to those with HPV+ OPSCC demonstrated
+              similar survival as those with HPV+OPSCC. CONCLUSION: Our results
+              show that CD103+ tumor-resident CD8+ T cells are critical for
+              protective immunity in both types of OPSCCs. Our data further
+              suggest that the enhanced local protective immunity provided by
+              tumor-resident T cell responses is the underlying factor driving
+              favorable clinical outcomes in HPV+ OPSCCs over HPV- OPSCCs.",
+  journal  = "J Immunother Cancer",
+  volume   =  8,
+  number   =  1,
+  month    =  jun,
+  year     =  2020,
+  keywords = "immunology; tumors;Human study",
   language = "en"
 }
