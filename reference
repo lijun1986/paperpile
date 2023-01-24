@@ -2838,3 +2838,37 @@
   keywords = "Mouse study",
   language = "en"
 }
+
+@ARTICLE{Mani2019-gy,
+  title    = "Migratory {DCs} activate {TGF-$\beta$} to precondition na{\"\i}ve
+              {CD8+} {T} cells for tissue-resident memory fate",
+  author   = "Mani, Vinidhra and Bromley, Shannon K and {\"A}ij{\"o}, Tarmo and
+              Mora-Buch, Rut and Carrizosa, Esteban and Warner, Ross D and
+              Hamze, Moustafa and Sen, Debattama R and Chasse, Alexandra Y and
+              Lorant, Alina and Griffith, Jason W and Rahimi, Rod A and
+              McEntee, Craig P and Jeffrey, Kate L and Marangoni, Francesco and
+              Travis, Mark A and Lacy-Hulbert, Adam and Luster, Andrew D and
+              Mempel, Thorsten R",
+  abstract = "Epithelial resident memory T (eTRM) cells serve as sentinels in
+              barrier tissues to guard against previously encountered
+              pathogens. How eTRM cells are generated has important
+              implications for efforts to elicit their formation through
+              vaccination or prevent it in autoimmune disease. Here, we show
+              that during immune homeostasis, the cytokine transforming growth
+              factor $\beta$ (TGF-$\beta$) epigenetically conditions resting
+              na{\"\i}ve CD8+ T cells and prepares them for the formation of
+              eTRM cells in a mouse model of skin vaccination. Na{\"\i}ve T
+              cell conditioning occurs in lymph nodes (LNs), but not in the
+              spleen, through major histocompatibility complex class
+              I-dependent interactions with peripheral tissue-derived migratory
+              dendritic cells (DCs) and depends on DC expression of
+              TGF-$\beta$-activating $\alpha$V integrins. Thus, the preimmune T
+              cell repertoire is actively conditioned for a specialized memory
+              differentiation fate through signals restricted to LNs.",
+  journal  = "Science",
+  volume   =  366,
+  number   =  6462,
+  month    =  oct,
+  year     =  2019,
+  language = "en"
+}
