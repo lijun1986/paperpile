@@ -3308,3 +3308,43 @@
               Therapeutics;Mouse study",
   language = "en"
 }
+
+@ARTICLE{Banchereau2021-tg,
+  title    = "Intratumoral {CD103+} {CD8+} {T} cells predict response to
+              {PD-L1} blockade",
+  author   = "Banchereau, Romain and Chitre, Avantika S and Scherl, Alexis and
+              Wu, Thomas D and Patil, Namrata S and de Almeida, Patricia and
+              Kadel, Iii, Edward E and Madireddi, Shravan and Au-Yeung, Amelia
+              and Takahashi, Chikara and Chen, Ying-Jiun and Modrusan, Zora and
+              McBride, Jacqueline and Nersesian, Rhea and El-Gabry, Ehab A and
+              Robida, Mark D and Hung, Jeffrey C and Kowanetz, Marcin and Zou,
+              Wei and McCleland, Mark and Caplazi, Patrick and Eshgi, Shadi
+              Toghi and Koeppen, Hartmut and Hegde, Priti S and Mellman, Ira
+              and Mathews, W Rodney and Powles, Thomas and Mariathasan, Sanjeev
+              and Grogan, Jane and O'Gorman, William E",
+  abstract = "BACKGROUND: CD8+ tissue-resident memory T (TRM) cells, marked by
+              CD103 (ITGAE) expression, are thought to actively suppress cancer
+              progression, leading to the hypothesis that their presence in
+              tumors may predict response to immunotherapy. METHODS: Here, we
+              test this by combining high-dimensional single-cell modalities
+              with bulk tumor transcriptomics from 1868 patients enrolled in
+              lung and bladder cancer clinical trials of atezolizumab
+              (anti-programmed cell death ligand 1 (PD-L1)). RESULTS: ITGAE was
+              identified as the most significantly upregulated gene in inflamed
+              tumors. Tumor CD103+ CD8+ TRM cells exhibited a complex phenotype
+              defined by the expression of checkpoint regulators, cytotoxic
+              proteins, and increased clonal expansion. CONCLUSIONS: Our
+              analyses indeed demonstrate that the presence of CD103+ CD8+ TRM
+              cells, quantified by tracking intratumoral CD103 expression, can
+              predict treatment outcome, suggesting that patients who respond
+              to PD-1/PD-L1 blockade are those who exhibit an ongoing antitumor
+              T-cell response.",
+  journal  = "J Immunother Cancer",
+  volume   =  9,
+  number   =  4,
+  month    =  apr,
+  year     =  2021,
+  keywords = "CD8-positive T-lymphocytes; biomarkers; gene expression
+              profiling; immunotherapy; lymphocytes; tumor; tumor-infiltrating",
+  language = "en"
+}
