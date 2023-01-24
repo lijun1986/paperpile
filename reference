@@ -2489,6 +2489,40 @@
   language = "en"
 }
 
+@ARTICLE{Ma2022-ie,
+  title    = "{TGF-$\beta$} promotes stem-like {T} cells via enforcing their
+              lymphoid tissue retention",
+  author   = "Ma, Chaoyu and Wang, Liwen and Liao, Wei and Liu, Yong and
+              Mishra, Shruti and Li, Guo and Zhang, Xin and Qiu, Yuanzheng and
+              Lu, Qianjin and Zhang, Nu",
+  abstract = "Stem-like CD8+ T cells sustain the antigen-specific CD8+ T cell
+              response during chronic antigen exposure. However, the signals
+              that control the maintenance and differentiation of these cells
+              are largely unknown. Here, we demonstrated that TGF-$\beta$ was
+              essential for the optimal maintenance of these cells and
+              inhibited their differentiation into migratory effectors during
+              chronic viral infection. Mechanistically, stem-like CD8+ T cells
+              carried a unique expression pattern of $\alpha$4 integrins (i.e.,
+              $\alpha$4$\beta$1hi and $\alpha$4$\beta$7lo) controlled by
+              TGF-$\beta$. In the absence of TGF-$\beta$ signaling, greatly
+              enhanced expression of migration-related markers, including
+              altered expression of $\alpha$4 integrins, led to enhanced egress
+              of stem-like CD8+ T cells into circulation accompanied by further
+              differentiation into transitional states. Blocking $\alpha$4
+              integrin significantly promoted their lymphoid tissue retention
+              and therefore partially rescued the defective maintenance of
+              Tcf-1+ subset in the absence of TGF-$\beta$ signaling. Thus,
+              TGF-$\beta$ promotes the maintenance and inhibits the further
+              differentiation of stem-like T cells at least partially via
+              enforcing their lymphoid tissue residency.",
+  journal  = "J. Exp. Med.",
+  volume   =  219,
+  number   =  10,
+  month    =  oct,
+  year     =  2022,
+  language = "en"
+}
+
 @UNPUBLISHED{Zhang2020-an,
   title    = "{CECR2} Drives Breast Cancer Metastasis by Suppressing Macrophage
               Inflammatory Responses",
