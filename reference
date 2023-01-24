@@ -3598,3 +3598,32 @@
   keywords = "Cancer; Immunology; Oncology; T cells",
   language = "en"
 }
+
+@ARTICLE{Vella2021-jf,
+  title    = "Dendritic cells maintain anti-tumor immunity by positioning {CD8}
+              skin-resident memory {T} cells",
+  author   = "Vella, Jennifer L and Molodtsov, Aleksey and Angeles, Christina V
+              and Branchini, Bruce R and Turk, Mary Jo and Huang, Yina H",
+  abstract = "Tissue-resident memory (TRM) T cells are emerging as critical
+              components of the immune response to cancer; yet, requirements
+              for their ongoing function and maintenance remain unclear. APCs
+              promote TRM cell differentiation and re-activation but have not
+              been implicated in sustaining TRM cell responses. Here, we
+              identified a novel role for dendritic cells in supporting TRM to
+              melanoma. We showed that CD8 TRM cells remain in close proximity
+              to dendritic cells in the skin. Depletion of CD11c+ cells results
+              in rapid disaggregation and eventual loss of melanoma-specific
+              TRM cells. In addition, we determined that TRM migration and/or
+              persistence requires chemotaxis and adhesion mediated by the
+              CXCR6/CXCL16 axis. The interaction between CXCR6-expressing TRM
+              cells and CXCL16-expressing APCs was found to be critical for
+              sustaining TRM cell-mediated tumor protection. These findings
+              substantially expand our knowledge of APC functions in TRM T-cell
+              homeostasis and longevity.",
+  journal  = "Life Sci Alliance",
+  volume   =  4,
+  number   =  10,
+  month    =  oct,
+  year     =  2021,
+  language = "en"
+}
