@@ -3349,3 +3349,38 @@
               tumor-infiltrating;Human study",
   language = "en"
 }
+
+@ARTICLE{Christian2021-pr,
+  title    = "Resident memory {T} cells in tumor-distant tissues fortify
+              against metastasis formation",
+  author   = "Christian, Laura S and Wang, Liuyang and Lim, Bryan and Deng,
+              Dachuan and Wu, Haiyang and Wang, Xiao-Fan and Li, Qi-Jing",
+  abstract = "As a critical machinery for rapid pathogen removal, resident
+              memory T cells (TRMs) are locally generated after the initial
+              encounter. However, their development accompanying tumorigenesis
+              remains elusive. Using a murine breast cancer model, we show that
+              TRMs develop in the tumor, the contralateral mammary mucosa, and
+              the pre-metastatic lung. Single-cell RNA sequencing of TRMs
+              reveals two phenotypically distinct populations representing
+              their active versus quiescent phases. These TRMs in different
+              tissue compartments share the same TCR clonotypes and
+              transcriptomes with a subset of intratumoral effector/effector
+              memory T cells (TEff/EMs), indicating their developmental
+              ontogeny. Furthermore, CXCL16 is highly produced by tumor cells
+              and CXCR6- TEff/EMs are the major subset preferentially egressing
+              the tumor to form distant TRMs. Functionally, releasing CXCR6
+              retention in the primary tumor amplifies tumor-derived TRMs in
+              the lung and leads to superior protection against metastases.
+              This immunologic fortification suggests a potential strategy to
+              prevent metastasis in clinical oncology.",
+  journal  = "Cell Rep.",
+  volume   =  35,
+  number   =  6,
+  pages    = "109118",
+  month    =  may,
+  year     =  2021,
+  keywords = "TCR-$\beta$ repertoire sequencing; breast cancer; metastasis;
+              ontogeny; resident memory T cells; single-cell RNA sequencing;
+              tumor immunology",
+  language = "en"
+}
