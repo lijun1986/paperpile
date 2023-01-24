@@ -2111,3 +2111,40 @@
               ovarian cancer; tumor-infiltrating lymphocytes;Human study",
   language = "en"
 }
+
+@ARTICLE{Boldajipour2016-iu,
+  title    = "Tumor-infiltrating lymphocytes are dynamically desensitized to
+              antigen but are maintained by homeostatic cytokine",
+  author   = "Boldajipour, Bijan and Nelson, Amanda and Krummel, Matthew F",
+  abstract = "T cells that enter tumors are largely tolerized, but how that
+              process is choreographed and how the ensuing ``dysfunctional''
+              tumor-infiltrating lymphocytes (TILs) are maintained are poorly
+              understood and are difficult to assess in spontaneous disease. We
+              exploited an autochthonous model of breast cancer for
+              high-resolution imaging of the early and later stages of tumor
+              residence to understand the relationships between cellular
+              behaviors and cellular phenotypes. ``Dysfunctional''
+              differentiation began within the first days of tumor residence
+              with an initial phase in which T cells arrest, largely on
+              tumor-associated macrophages. Within 10 days, cellular motility
+              increased and resembled a random walk, suggesting a relative
+              absence of TCR signaling. We then studied the concurrent and
+              apparently contradictory phenomenon that many of these cells
+              express molecular markers of activation and were visualized
+              undergoing active cell division. We found that whereas
+              proliferation did not require ongoing TCR/ZAP70 signaling,
+              instead this is driven in part by intratumoral IL-15 cytokine.
+              Thus, TILs undergo sequential reprogramming by the tumor
+              microenvironment and are actively retained, even while being
+              antigen insensitive. We conclude that this program effectively
+              fills the niche with ineffective yet cytokine-dependent TILs, and
+              we propose that these might compete with new clones, when they
+              arise.",
+  journal  = "JCI Insight",
+  volume   =  1,
+  number   =  20,
+  pages    = "e89289",
+  month    =  dec,
+  year     =  2016,
+  language = "en"
+}
