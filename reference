@@ -4333,3 +4333,47 @@
               biomarker;Human study",
   language = "en"
 }
+
+@ARTICLE{Chen2022-zn,
+  title    = "Dopamine Signaling Promotes {Tissue-Resident} Memory
+              Differentiation of {CD8+} {T} Cells and Antitumor Immunity",
+  author   = "Chen, Yingshi and Yan, Shu-Mei and Pu, Zeyu and Feng, Jinzhu and
+              Tan, Likai and Li, Yuzhuang and Hu, Hongrong and Huang, Wenjing
+              and Lin, Yingtong and Peng, Zhilin and He, Xin and Huang, Feng
+              and Zhang, Hui and Zhang, Yiwen",
+  abstract = "UNLABELLED: Tissue-resident memory CD8+ T (TRM) cells have been
+              associated with robust protective antitumor immune responses and
+              improved prognosis of patients with cancer. Therefore,
+              therapeutic strategies that modulate either the production or
+              activity of TRM cells could be effective for treating cancer.
+              Using a high-throughput drug screen, we showed that the
+              neurotransmitter dopamine drives differentiation of CD8+ T cells
+              into CD103+ TRM cells. In murine syngeneic tumor xenograft models
+              and clinical human colon cancer samples, DRD5 served as the major
+              functional dopamine receptor on CD8+ T cells and positively
+              correlated with TRM cell density. DRD5 deficiency led to a
+              failure of CD8+ T cells to accumulate in tissues, resulting in
+              impaired TRM cell formation, reduced effector function, and
+              uncontrolled disease progression. Moreover, dopamine treatment
+              promoted the antitumor activity of CD8+ T cells and suppressed
+              colorectal cancer growth in immunocompentent mouse models, and ex
+              vivo preconditioning with dopamine enhanced the in vivo efficacy
+              of chimeric antigen receptor (CAR)-T cells. Finally, in a patient
+              with colorectal cancer cohort, dopamine expression was positively
+              associated with patient survival and CD8+ T-cell infiltration.
+              These findings suggest that dopaminergic immunoregulation plays
+              an important role in the differentiation of CD8+ cells into
+              CD103+ TRM cells and thereby modulates TRM-elicited antitumor
+              immunity in colorectal cancer. SIGNIFICANCE: Identification of an
+              immunostimulatory function of dopamine signaling by promoting
+              tissue-resident memory T-cell differentiation and sustaining
+              T-cell effector functions reveals potential therapeutic
+              strategies and prognostic biomarkers for colorectal cancer.",
+  journal  = "Cancer Res.",
+  volume   =  82,
+  number   =  17,
+  pages    = "3130--3142",
+  month    =  sep,
+  year     =  2022,
+  language = "en"
+}
