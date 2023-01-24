@@ -504,6 +504,35 @@
   language = "en"
 }
 
+@ARTICLE{Konjar2022-wm,
+  title    = "Heterogeneity of tissue resident memory {T} cells",
+  author   = "Konjar, {\v S}pela and Ficht, Xenia and Iannacone, Matteo and
+              Veldhoen, Marc",
+  abstract = "Non-lymphoid organs, in mice and humans, contain CD8+
+              tissue-resident memory T (TRM) cells. They play important roles
+              in tissue homoeostasis as well as defence against infections and
+              cancer. TRM cells have common characteristics that enables their
+              tissue residency and function. However, the wide variety of
+              tissues, some with continually exposure to invading microbes,
+              distinct organ structures and functions, impose tissue-specific
+              differences on TRM cells. Upon tissue-entry, they need to adapt
+              to local circumstances by modifying their transcriptional
+              machinery, enabling interactions with the - often specialised -
+              surrounding cells and available metabolites. Heterogeneity
+              amongst TRM cells may have implications for their defence
+              function, organ-specific autoimmunity and chronic immune
+              disorders. Here we indicate shared and unique TRM cell features
+              within different tissues to provide a better understanding of
+              their function and discuss possible future research directions.",
+  journal  = "Immunol. Lett.",
+  volume   =  245,
+  pages    = "1--7",
+  month    =  may,
+  year     =  2022,
+  keywords = "Human; Mouse; Mucosal immunology; Tissues; Trm cells",
+  language = "en"
+}
+
 @ARTICLE{Mackay2015-ee,
   title    = "T-box Transcription Factors Combine with the Cytokines
               {TGF-$\beta$} and {IL-15} to Control {Tissue-Resident} Memory {T}
