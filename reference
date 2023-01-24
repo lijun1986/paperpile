@@ -2763,3 +2763,43 @@
   keywords = "Breast cancer; Immunology; Oncology; T cells;Human study",
   language = "en"
 }
+
+@ARTICLE{Li2019-gm,
+  title    = "The Transcription Factor Bhlhe40 Programs Mitochondrial
+              Regulation of Resident {CD8+} {T} Cell Fitness and Functionality",
+  author   = "Li, Chaofan and Zhu, Bibo and Son, Young Min and Wang, Zheng and
+              Jiang, Li and Xiang, Min and Ye, Zhenqing and Beckermann, Kathryn
+              E and Wu, Yue and Jenkins, James W and Siska, Peter J and
+              Vincent, Benjamin G and Prakash, Y S and Peikert, Tobias and
+              Edelson, Brian T and Taneja, Reshma and Kaplan, Mark H and
+              Rathmell, Jeffrey C and Dong, Haidong and Hitosugi, Taro and Sun,
+              Jie",
+  abstract = "Tissue-resident memory CD8+ T (Trm) cells share core residency
+              gene programs with tumor-infiltrating lymphocytes (TILs).
+              However, the transcriptional, metabolic, and epigenetic
+              regulation of Trm cell and TIL development and function is
+              largely undefined. Here, we found that the transcription factor
+              Bhlhe40 was specifically required for Trm cell and TIL
+              development and polyfunctionality. Local PD-1 signaling inhibited
+              TIL Bhlhe40 expression, and Bhlhe40 was critical for TIL
+              reinvigoration following anti-PD-L1 blockade. Mechanistically,
+              Bhlhe40 sustained Trm cell and TIL mitochondrial fitness and a
+              functional epigenetic state. Building on these findings, we
+              identified an epigenetic and metabolic regimen that promoted Trm
+              cell and TIL gene signatures associated with tissue residency and
+              polyfunctionality. This regimen empowered the anti-tumor activity
+              of CD8+ T cells and possessed therapeutic potential even at an
+              advanced tumor stage in mouse models. Our results provide
+              mechanistic insights into the local regulation of Trm cell and
+              TIL function.",
+  journal  = "Immunity",
+  volume   =  51,
+  number   =  3,
+  pages    = "491--507.e7",
+  month    =  sep,
+  year     =  2019,
+  keywords = "Bhlhe40; PD-L1; Tubastatin A; acetate; epigenetic; metabolism;
+              mitochondria; tissue resident memory T cell; tumor-infiltrating
+              lymphocytes",
+  language = "en"
+}
