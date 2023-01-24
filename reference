@@ -2952,3 +2952,46 @@
               liver; mitophagy; tissue-resident;Human study",
   language = "en"
 }
+
+@ARTICLE{Lin2020-hl,
+  title    = "Fatty Acid Oxidation Controls {CD8+} {Tissue-Resident} Memory
+              T-cell Survival in Gastric Adenocarcinoma",
+  author   = "Lin, Run and Zhang, Hui and Yuan, Yujie and He, Qiong and Zhou,
+              Jianwen and Li, Shuhua and Sun, Yu and Li, Daniel Y and Qiu,
+              Hai-Bo and Wang, Wei and Zhuang, Zhehong and Chen, Bin and Huang,
+              Yonghui and Liu, Chuwei and Wang, Yingzhao and Cai, Shirong and
+              Ke, Zunfu and He, Weiling",
+  abstract = "The success of checkpoint inhibitors in cancer treatment is
+              associated with the infiltration of tissue-resident memory T
+              (Trm) cells. In this study, we found that about 30\% of
+              tumor-infiltrating lymphocytes (TIL) in the tumor
+              microenvironment of gastric adenocarcinoma were CD69+CD103+ Trm
+              cells. Trm cells were low in patients with metastasis, and the
+              presence of Trm cells was associated with better prognosis in
+              patients with gastric adenocarcinoma. Trm cells expressed high
+              PD-1, TIGIT, and CD39 and represented tumor-reactive TILs.
+              Instead of utilizing glucose, Trm cells relied on fatty acid
+              oxidation for cell survival. Deprivation of fatty acid resulted
+              in Trm cell death. In a tumor cell-T-cell coculture system,
+              gastric adenocarcinoma cells outcompeted Trm cells for lipid
+              uptake and induced Trm cell death. Targeting PD-L1 decreased
+              fatty acid binding protein (Fabp) 4 and Fabp5 expression in tumor
+              cells of gastric adenocarcinoma. In contrast, the blockade of
+              PD-L1 increased Fabp4/5 expression in Trm cells, promoting lipid
+              uptake by Trm cells and resulting in better survival of Trm cells
+              in vitro and in vivo. PD-L1 blockade unleashed Trm cells
+              specifically in the patient-derived xenograft (PDX) mice. PDX
+              mice that did not respond to PD-L1 blockade had less Trm cells
+              than responders. Together, these data demonstrated that Trm cells
+              represent a subset of TILs in the antitumor immune response and
+              that metabolic reprogramming could be a promising way to prolong
+              the longevity of Trm cells and enhance antitumor immunity in
+              gastric adenocarcinoma.",
+  journal  = "Cancer Immunol Res",
+  volume   =  8,
+  number   =  4,
+  pages    = "479--492",
+  month    =  apr,
+  year     =  2020,
+  language = "en"
+}
