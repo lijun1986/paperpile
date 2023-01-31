@@ -4838,3 +4838,41 @@
   year     =  2014,
   language = "en"
 }
+
+@ARTICLE{Sarhan2018-ep,
+  title    = "Caspase-8 induces cleavage of gasdermin {D} to elicit pyroptosis
+              during Yersinia infection",
+  author   = "Sarhan, Joseph and Liu, Beiyun C and Muendlein, Hayley I and Li,
+              Peng and Nilson, Rachael and Tang, Amy Y and Rongvaux, Anthony
+              and Bunnell, Stephen C and Shao, Feng and Green, Douglas R and
+              Poltorak, Alexander",
+  abstract = "Cell death and inflammation are intimately linked during Yersinia
+              infection. Pathogenic Yersinia inhibits the MAP kinase
+              TGF$\beta$-activated kinase 1 (TAK1) via the effector YopJ,
+              thereby silencing cytokine expression while activating
+              caspase-8-mediated cell death. Here, using Yersinia
+              pseudotuberculosis in corroboration with costimulation of
+              lipopolysaccharide and (5Z)-7-Oxozeaenol, a small-molecule
+              inhibitor of TAK1, we show that caspase-8 activation during TAK1
+              inhibition results in cleavage of both gasdermin D (GSDMD) and
+              gasdermin E (GSDME) in murine macrophages, resulting in
+              pyroptosis. Loss of GsdmD delays membrane rupture, reverting the
+              cell-death morphology to apoptosis. We found that the
+              Yersinia-driven IL-1 response arises from asynchrony of
+              macrophage death during bulk infections in which two cellular
+              populations are required to provide signal 1 and signal 2 for
+              IL-1$\alpha$/$\beta$ release. Furthermore, we found that human
+              macrophages are resistant to YopJ-mediated pyroptosis, with
+              dampened IL-1$\beta$ production. Our results uncover a form of
+              caspase-8-mediated pyroptosis and suggest a hypothesis for the
+              increased sensitivity of humans to Yersinia infection compared
+              with the rodent reservoir.",
+  journal  = "Proc. Natl. Acad. Sci. U. S. A.",
+  volume   =  115,
+  number   =  46,
+  pages    = "E10888--E10897",
+  month    =  nov,
+  year     =  2018,
+  keywords = "TAK1; Yersinia; caspase-8; gasdermin; pyroptosis",
+  language = "en"
+}
