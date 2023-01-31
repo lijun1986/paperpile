@@ -4876,3 +4876,87 @@
   keywords = "TAK1; Yersinia; caspase-8; gasdermin; pyroptosis",
   language = "en"
 }
+
+@ARTICLE{Zhou2018-qo,
+  title    = "Alpha-kinase 1 is a cytosolic innate immune receptor for
+              bacterial {ADP-heptose}",
+  author   = "Zhou, Ping and She, Yang and Dong, Na and Li, Peng and He, Huabin
+              and Borio, Alessio and Wu, Qingcui and Lu, Shan and Ding, Xiaojun
+              and Cao, Yong and Xu, Yue and Gao, Wenqing and Dong, Mengqiu and
+              Ding, Jingjin and Wang, Da-Cheng and Zamyatina, Alla and Shao,
+              Feng",
+  abstract = "Immune recognition of pathogen-associated molecular patterns
+              (PAMPs) by pattern recognition receptors often activates
+              proinflammatory NF-$\kappa$B signalling1. Recent studies indicate
+              that the bacterial metabolite D-glycero-$\beta$-D-manno-heptose
+              1,7-bisphosphate (HBP) can activate NF-$\kappa$B signalling in
+              host cytosol2-4, but it is unclear whether HBP is a genuine PAMP
+              and the cognate pattern recognition receptor has not been
+              identified. Here we combined a transposon screen in Yersinia
+              pseudotuberculosis with biochemical analyses and identified
+              ADP-$\beta$-D-manno-heptose (ADP-Hep), which mediates type III
+              secretion system-dependent NF-$\kappa$B activation and cytokine
+              expression. ADP-Hep, but not other heptose metabolites, could
+              enter host cytosol to activate NF-$\kappa$B. A CRISPR-Cas9 screen
+              showed that activation of NF-$\kappa$B by ADP-Hep involves an
+              ALPK1 (alpha-kinase 1)-TIFA (TRAF-interacting protein with
+              forkhead-associated domain) axis. ADP-Hep directly binds the
+              N-terminal domain of ALPK1, stimulating its kinase domain to
+              phosphorylate and activate TIFA. The crystal structure of the
+              N-terminal domain of ALPK1 and ADP-Hep in complex revealed the
+              atomic mechanism of this ligand-receptor recognition process. HBP
+              was transformed by host adenylyltransferases into ADP-heptose
+              7-P, which could activate ALPK1 to a lesser extent than ADP-Hep.
+              ADP-Hep (but not HBP) alone or during bacterial infection induced
+              Alpk1-dependent inflammation in mice. Our findings identify ALPK1
+              and ADP-Hep as a pattern recognition receptor and an effective
+              immunomodulator, respectively.",
+  journal  = "Nature",
+  volume   =  561,
+  number   =  7721,
+  pages    = "122--126",
+  month    =  sep,
+  year     =  2018,
+  language = "en"
+}
+
+@ARTICLE{Li2017-hm,
+  title    = "Ubiquitination and degradation of {GBPs} by a Shigella effector
+              to suppress host defence",
+  author   = "Li, Peng and Jiang, Wei and Yu, Qin and Liu, Wang and Zhou, Ping
+              and Li, Jun and Xu, Junjie and Xu, Bo and Wang, Fengchao and
+              Shao, Feng",
+  abstract = "Interferon-inducible guanylate-binding proteins (GBPs) mediate
+              cell-autonomous antimicrobial defences. Shigella flexneri, a
+              Gram-negative cytoplasmic free-living bacterium that causes
+              bacillary dysentery, encodes a repertoire of highly similar type
+              III secretion system effectors called invasion plasmid antigen Hs
+              (IpaHs). IpaHs represent a large family of bacterial
+              ubiquitin-ligases, but their function is poorly understood. Here
+              we show that S. flexneri infection induces rapid proteasomal
+              degradation of human guanylate binding protein-1 (hGBP1). We
+              performed a transposon screen to identify a mutation in the S.
+              flexneri gene ipaH9.8 that prevented hGBP1 degradation. IpaH9.8
+              targets hGBP1 for degradation via Lys48-linked ubiquitination.
+              IpaH9.8 targets multiple GBPs in the cytoplasm independently of
+              their nucleotide-bound states and their differential function in
+              antibacterial defence, promoting S. flexneri replication and
+              resulting in the death of infected mice. In the absence of
+              IpaH9.8, or when binding of GBPs to IpaH9.8 was disrupted, GBPs
+              such as hGBP1 and mouse GBP2 (mGBP2) translocated to
+              intracellular S. flexneri and inhibited bacterial replication.
+              Like wild-type mice, mutant mice deficient in GBP1-3, 5 and 7
+              succumbed to S. flexneri infection, but unlike wild-type mice,
+              mice deficient in these GBPs were also susceptible to S. flexneri
+              lacking ipaH9.8. The mode of IpaH9.8 action highlights the
+              functional importance of GBPs in antibacterial defences. IpaH9.8
+              and S. flexneri provide a unique system for dissecting
+              GBP-mediated immunity.",
+  journal  = "Nature",
+  volume   =  551,
+  number   =  7680,
+  pages    = "378--383",
+  month    =  nov,
+  year     =  2017,
+  language = "en"
+}
