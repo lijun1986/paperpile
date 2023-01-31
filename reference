@@ -5131,3 +5131,127 @@
   year     =  2021,
   language = "en"
 }
+
+@ARTICLE{Ji2019-bb,
+  title    = "Structural mechanism for guanylate-binding proteins ({GBPs})
+              targeting by the Shigella {E3} ligase {IpaH9.8}",
+  author   = "Ji, Chenggong and Du, Shuo and Li, Peng and Zhu, Qinyu and Yang,
+              Xiaoke and Long, Chunhong and Yu, Jin and Shao, Feng and Xiao,
+              Junyu",
+  abstract = "The guanylate-binding proteins (GBPs) belong to the dynamin
+              superfamily of GTPases and function in cell-autonomous defense
+              against intracellular pathogens. IpaH9.8, an E3 ligase from the
+              pathogenic bacterium Shigella flexneri, ubiquitinates a subset of
+              GBPs and leads to their proteasomal degradation. Here we report
+              the structure of a C-terminally truncated GBP1 in complex with
+              the IpaH9.8 Leucine-rich repeat (LRR) domain. IpaH9.8LRR engages
+              the GTPase domain of GBP1, and differences in the Switch II and
+              $\alpha$3 helix regions render some GBPs such as GBP3 and GBP7
+              resistant to IpaH9.8. Comparisons with other IpaH structures
+              uncover interaction hot spots in their LRR domains. The
+              C-terminal region of GBP1 undergoes a large rotation compared to
+              previously determined structures. We further show that the
+              C-terminal farnesylation modification also plays a role in
+              regulating GBP1 conformation. Our results suggest a general
+              mechanism by which the IpaH proteins target their cellular
+              substrates and shed light on the structural dynamics of the GBPs.",
+  journal  = "PLoS Pathog.",
+  volume   =  15,
+  number   =  6,
+  pages    = "e1007876",
+  month    =  jun,
+  year     =  2019,
+  language = "en"
+}
+
+@ARTICLE{Li2012-dw,
+  title    = "Multiple end joining mechanisms repair a chromosomal {DNA} break
+              in fission yeast",
+  author   = "Li, Peng and Li, Jun and Li, Ming and Dou, Kun and Zhang, Mei-Jun
+              and Suo, Fang and Du, Li-Lin",
+  abstract = "Non-homologous end joining (NHEJ) is an important mechanism for
+              repairing DNA double-strand breaks (DSBs). The fission yeast
+              Schizosaccharomyces pombe has a conserved set of NHEJ factors
+              including Ku, DNA ligase IV, Xlf1, and Pol4. Their roles in
+              chromosomal DSB repair have not been directly characterized
+              before. Here we used HO endonuclease to create a specific
+              chromosomal DSB in fission yeast and examined the imprecise end
+              joining events allowing cells to survive the continuous
+              expression of HO. Our analysis showed that cell survival was
+              significantly reduced in mutants defective for Ku, ligase IV, or
+              Xlf1. Using Sanger sequencing and Illumina sequencing, we have
+              characterized in depth the repair junction sequences in HO
+              survivors. In wild type cells the majority of repair events were
+              one-nucleotide insertions dependent on Ku, ligase IV, and Pol4.
+              Our data suggest that fission yeast Pol4 is important for gap
+              filling during NHEJ repair and can extend primers in the absence
+              of terminal base pairing with the templates. In Ku and ligase IV
+              mutants, the survivors mainly resulted from two types of
+              alternative end joining events: one used microhomology flanking
+              the HO site to delete sequences of hundreds to thousands of base
+              pairs, the other rejoined the break using the HO-generated
+              overhangs but also introduced one- or two-nucleotide base
+              substitutions. The chromosomal repair assay we describe here
+              should provide a useful tool for further exploration of the end
+              joining repair mechanisms in fission yeast.",
+  journal  = "DNA Repair",
+  volume   =  11,
+  number   =  2,
+  pages    = "120--130",
+  month    =  feb,
+  year     =  2012,
+  language = "en"
+}
+
+@ARTICLE{Xu2021-os,
+  title    = "Glycolytic {ATP} fuels phosphoinositide 3-kinase signaling to
+              support effector {T} helper 17 cell responses",
+  author   = "Xu, Ke and Yin, Na and Peng, Min and Stamatiades, Efstathios G
+              and Chhangawala, Sagar and Shyu, Amy and Li, Peng and Zhang, Xian
+              and Do, Mytrang H and Capistrano, Kristelle J and Chou, Chun and
+              Leslie, Christina S and Li, Ming O",
+  abstract = "Aerobic glycolysis-the Warburg effect-converts glucose to lactate
+              via the enzyme lactate dehydrogenase A (LDHA) and is a metabolic
+              feature of effector T cells. Cells generate ATP through various
+              mechanisms and Warburg metabolism is comparatively an
+              energy-inefficient glucose catabolism pathway. Here, we examined
+              the effect of ATP generated via aerobic glycolysis in
+              antigen-driven T cell responses. Cd4CreLdhafl/fl mice were
+              resistant to Th17-cell-mediated experimental autoimmune
+              encephalomyelitis and exhibited defective T cell activation,
+              migration, proliferation, and differentiation. LDHA deficiency
+              crippled cellular redox balance and inhibited ATP production,
+              diminishing PI3K-dependent activation of Akt kinase and thereby
+              phosphorylation-mediated inhibition of Foxo1, a transcriptional
+              repressor of T cell activation programs. Th17-cell-specific
+              expression of an Akt-insensitive Foxo1 recapitulated the defects
+              seen in Cd4CreLdhafl/fl mice. Induction of LDHA required PI3K
+              signaling and LDHA deficiency impaired PI3K-catalyzed PIP3
+              generation. Thus, Warburg metabolism augments glycolytic ATP
+              production, fueling a PI3K-centered positive feedback regulatory
+              circuit that drives effector T cell responses.",
+  journal  = "Immunity",
+  volume   =  54,
+  number   =  5,
+  pages    = "976--987.e7",
+  month    =  may,
+  year     =  2021,
+  keywords = "ATP; LDHA; PI3K; Th17 cell; autoimmunity; glycolysis; redox
+              balance",
+  language = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Yang2018-wi,
+  title     = "Sequence determinants of specific pattern-recognition of
+               bacterial ligands by the {NAIP--NLRC4} inflammasome",
+  author    = "Yang, J and Zhao, Y and Li, P and Yang, Y and Zhang, E and
+               Zhong, M and Li, Y and {others}",
+  abstract  = "The NLR apoptosis inhibitory proteins (NAIPs) function as
+               specific cytosolic receptors for bacterial ligands to form the
+               NAIP--NLRC4 inflammasome for anti-bacterial defenses. In …",
+  journal   = "Cell discovery",
+  publisher = "nature.com",
+  year      =  2018
+}
