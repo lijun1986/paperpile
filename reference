@@ -5064,3 +5064,70 @@
   year     =  2021,
   language = "en"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Xu2014-xc,
+  title     = "Innate immune sensing of bacterial modifications of Rho
+               {GTPases} by the Pyrin inflammasome",
+  author    = "Xu, H and Yang, J and Gao, W and Li, L and Li, P and Zhang, L
+               and Gong, Y N and {others}",
+  abstract  = "Cytosolic inflammasome complexes mediated by a pattern
+               recognition receptor (PRR) defend against pathogen infection by
+               activating caspase 1. Pyrin, a candidate PRR, can …",
+  journal   = "Nature",
+  publisher = "nature.com",
+  year      =  2014
+}
+
+@ARTICLE{Li2021-zq,
+  title    = "Metastasis and Immune Evasion from Extracellular {cGAMP}
+              Hydrolysis",
+  author   = "Li, Jun and Duran, Mercedes A and Dhanota, Ninjit and Chatila,
+              Walid K and Bettigole, Sarah E and Kwon, John and Sriram, Roshan
+              K and Humphries, Matthew P and Salto-Tellez, Manuel and James,
+              Jacqueline A and Hanna, Matthew G and Melms, Johannes C and
+              Vallabhaneni, Sreeram and Litchfield, Kevin and Usaite, Ieva and
+              Biswas, Dhruva and Bareja, Rohan and Li, Hao Wei and Martin,
+              Maria Laura and Dorsaint, Princesca and Cavallo, Julie-Ann and
+              Li, Peng and Pauli, Chantal and Gottesdiener, Lee and DiPardo,
+              Benjamin J and Hollmann, Travis J and Merghoub, Taha and Wen,
+              Hannah Y and Reis-Filho, Jorge S and Riaz, Nadeem and Su,
+              Shin-San Michael and Kalbasi, Anusha and Vasan, Neil and Powell,
+              Simon N and Wolchok, Jedd D and Elemento, Olivier and Swanton,
+              Charles and Shoushtari, Alexander N and Parkes, Eileen E and
+              Izar, Benjamin and Bakhoum, Samuel F",
+  abstract = "Cytosolic DNA is characteristic of chromosomally unstable
+              metastatic cancer cells, resulting in constitutive activation of
+              the cGAS-STING innate immune pathway. How tumors co-opt
+              inflammatory signaling while evading immune surveillance remains
+              unknown. Here, we show that the ectonucleotidase ENPP1 promotes
+              metastasis by selectively degrading extracellular cGAMP, an
+              immune-stimulatory metabolite whose breakdown products include
+              the immune suppressor adenosine. ENPP1 loss suppresses
+              metastasis, restores tumor immune infiltration, and potentiates
+              response to immune checkpoint blockade in a manner dependent on
+              tumor cGAS and host STING. Conversely, overexpression of
+              wild-type ENPP1, but not an enzymatically weakened mutant,
+              promotes migration and metastasis, in part through the generation
+              of extracellular adenosine, and renders otherwise sensitive
+              tumors completely resistant to immunotherapy. In human cancers,
+              ENPP1 expression correlates with reduced immune cell
+              infiltration, increased metastasis, and resistance to
+              anti-PD-1/PD-L1 treatment. Thus, cGAMP hydrolysis by ENPP1
+              enables chromosomally unstable tumors to transmute cGAS
+              activation into an immune-suppressive pathway. SIGNIFICANCE:
+              Chromosomal instability promotes metastasis by generating chronic
+              tumor inflammation. ENPP1 facilitates metastasis and enables
+              tumor cells to tolerate inflammation by hydrolyzing the
+              immunotransmitter cGAMP, preventing its transfer from cancer
+              cells to immune cells.This article is highlighted in the In This
+              Issue feature, p. 995.",
+  journal  = "Cancer Discov.",
+  volume   =  11,
+  number   =  5,
+  pages    = "1212--1227",
+  month    =  may,
+  year     =  2021,
+  language = "en"
+}
