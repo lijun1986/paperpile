@@ -5010,3 +5010,57 @@
   year     =  2020,
   language = "en"
 }
+
+@ARTICLE{Lin2018-tb,
+  title    = "A hybridization-chain-reaction-based method for amplifying
+              immunosignals",
+  author   = "Lin, Rui and Feng, Qiru and Li, Peng and Zhou, Ping and Wang,
+              Ruiyu and Liu, Zhe and Wang, Zhiqiang and Qi, Xiangbing and Tang,
+              Nan and Shao, Feng and Luo, Minmin",
+  abstract = "Immunosignal hybridization chain reaction (isHCR) combines
+              antibody-antigen interactions with hybridization chain reaction
+              (HCR) technology, which results in amplification of
+              immunofluorescence signals by up to two to three orders of
+              magnitude with low background. isHCR's highly modular and easily
+              adaptable design enables the technique to be applied broadly, and
+              we further optimized its use in multiplexed imaging and in
+              state-of-the-art tissue expansion and clearing techniques.",
+  journal  = "Nat. Methods",
+  volume   =  15,
+  number   =  4,
+  pages    = "275--278",
+  month    =  apr,
+  year     =  2018,
+  language = "en"
+}
+
+@ARTICLE{Xu2021-rt,
+  title    = "Glycolysis fuels phosphoinositide 3-kinase signaling to bolster
+              {T} cell immunity",
+  author   = "Xu, Ke and Yin, Na and Peng, Min and Stamatiades, Efstathios G
+              and Shyu, Amy and Li, Peng and Zhang, Xian and Do, Mytrang H and
+              Wang, Zhaoquan and Capistrano, Kristelle J and Chou, Chun and
+              Levine, Andrew G and Rudensky, Alexander Y and Li, Ming O",
+  abstract = "Infection triggers expansion and effector differentiation of T
+              cells specific for microbial antigens in association with
+              metabolic reprograming. We found that the glycolytic enzyme
+              lactate dehydrogenase A (LDHA) is induced in CD8+ T effector
+              cells through phosphoinositide 3-kinase (PI3K) signaling. In
+              turn, ablation of LDHA inhibits PI3K-dependent phosphorylation of
+              Akt and its transcription factor target Foxo1, causing defective
+              antimicrobial immunity. LDHA deficiency cripples cellular redox
+              control and diminishes adenosine triphosphate (ATP) production in
+              effector T cells, resulting in attenuated PI3K signaling. Thus,
+              nutrient metabolism and growth factor signaling are highly
+              integrated processes, with glycolytic ATP serving as a rheostat
+              to gauge PI3K-Akt-Foxo1 signaling in the control of T cell
+              immunity. Such a bioenergetic mechanism for the regulation of
+              signaling may explain the Warburg effect.",
+  journal  = "Science",
+  volume   =  371,
+  number   =  6527,
+  pages    = "405--410",
+  month    =  jan,
+  year     =  2021,
+  language = "en"
+}
