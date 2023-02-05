@@ -547,43 +547,37 @@
   language = "en"
 }
 
-@ARTICLE{Mogilenko2021-zd,
-  title    = "Comprehensive Profiling of an Aging Immune System Reveals Clonal
-              {GZMK+} {CD8+} {T} Cells as Conserved Hallmark of Inflammaging",
-  author   = "Mogilenko, Denis A and Shpynov, Oleg and Andhey, Prabhakar Sairam
-              and Arthur, Laura and Swain, Amanda and Esaulova, Ekaterina and
-              Brioschi, Simone and Shchukina, Irina and Kerndl, Martina and
-              Bambouskova, Monika and Yao, Zhangting and Laha, Anwesha and
-              Zaitsev, Konstantin and Burdess, Samantha and Gillfilan, Susan
-              and Stewart, Sheila A and Colonna, Marco and Artyomov, Maxim N",
-  abstract = "Systematic understanding of immune aging on a whole-body scale is
-              currently lacking. We characterized age-associated alterations in
-              immune cells across multiple mouse organs using single-cell RNA
-              and antigen receptor sequencing and flow cytometry-based
-              validation. We defined organ-specific and common immune
-              alterations and identified a subpopulation of age-associated
-              granzyme K (GZMK)-expressing CD8+ T (Taa) cells that are distinct
-              from T effector memory (Tem) cells. Taa cells were highly clonal,
-              had specific epigenetic and transcriptional signatures, developed
-              in response to an aged host environment, and expressed markers of
-              exhaustion and tissue homing. Activated Taa cells were the
-              primary source of GZMK, which enhanced inflammatory functions of
-              non-immune cells. In humans, proportions of the circulating
-              GZMK+CD8+ T cell population that shares transcriptional and
-              epigenetic signatures with mouse Taa cells increased during
-              healthy aging. These results identify GZMK+ Taa cells as a
-              potential target to address age-associated dysfunctions of the
-              immune system.",
-  journal  = "Immunity",
-  volume   =  54,
-  number   =  1,
-  pages    = "99--115.e12",
-  month    =  jan,
-  year     =  2021,
-  keywords = "Aging; CD8 T cells; CITE-seq; granzyme K; immune system;
-              inflammaging; single-cell ATAC-sequencing; single-cell
-              BCR-sequencing; single-cell RNA-sequencing; single-cell
-              TCR-sequencing",
+@ARTICLE{Nixon2022-fu,
+  title    = "{TGF$\beta$} control of immune responses in cancer: a holistic
+              immuno-oncology perspective",
+  author   = "Nixon, Briana G and Gao, Shengyu and Wang, Xinxin and Li, Ming O",
+  abstract = "The immune system responds to cancer in two main ways. First,
+              there are prewired responses involving myeloid cells, innate
+              lymphocytes and innate-like adaptive lymphocytes that either
+              reside in premalignant tissues or migrate directly to tumours,
+              and second, there are antigen priming-dependent responses, in
+              which adaptive lymphocytes are primed in secondary lymphoid
+              organs before homing to tumours. Transforming growth
+              factor-$\beta$ (TGF$\beta$) - one of the most potent and
+              pleiotropic regulatory cytokines - controls almost every stage of
+              the tumour-elicited immune response, from leukocyte development
+              in primary lymphoid organs to their priming in secondary lymphoid
+              organs and their effector functions in the tumour itself. The
+              complexity of TGF$\beta$-regulated immune cell circuitries, as
+              well as the contextual roles of TGF$\beta$ signalling in cancer
+              cells and tumour stromal cells, necessitates the use of rigorous
+              experimental systems that closely recapitulate human cancer, such
+              as autochthonous tumour models, to uncover the underlying
+              immunobiology. The diverse functions of TGF$\beta$ in healthy
+              tissues further complicate the search for effective and safe
+              cancer therapeutics targeting the TGF$\beta$ pathway. Here we
+              discuss the contextual complexity of TGF$\beta$ signalling in
+              tumour-elicited immune responses and explain how understanding
+              this may guide the development of mechanism-based cancer
+              immunotherapy.",
+  journal  = "Nat. Rev. Immunol.",
+  month    =  nov,
+  year     =  2022,
   language = "en"
 }
 
@@ -5294,4 +5288,44 @@
   journal   = "Cell discovery",
   publisher = "nature.com",
   year      =  2018
+}
+
+@ARTICLE{Mogilenko2021-zd,
+  title    = "Comprehensive Profiling of an Aging Immune System Reveals Clonal
+              {GZMK+} {CD8+} {T} Cells as Conserved Hallmark of Inflammaging",
+  author   = "Mogilenko, Denis A and Shpynov, Oleg and Andhey, Prabhakar Sairam
+              and Arthur, Laura and Swain, Amanda and Esaulova, Ekaterina and
+              Brioschi, Simone and Shchukina, Irina and Kerndl, Martina and
+              Bambouskova, Monika and Yao, Zhangting and Laha, Anwesha and
+              Zaitsev, Konstantin and Burdess, Samantha and Gillfilan, Susan
+              and Stewart, Sheila A and Colonna, Marco and Artyomov, Maxim N",
+  abstract = "Systematic understanding of immune aging on a whole-body scale is
+              currently lacking. We characterized age-associated alterations in
+              immune cells across multiple mouse organs using single-cell RNA
+              and antigen receptor sequencing and flow cytometry-based
+              validation. We defined organ-specific and common immune
+              alterations and identified a subpopulation of age-associated
+              granzyme K (GZMK)-expressing CD8+ T (Taa) cells that are distinct
+              from T effector memory (Tem) cells. Taa cells were highly clonal,
+              had specific epigenetic and transcriptional signatures, developed
+              in response to an aged host environment, and expressed markers of
+              exhaustion and tissue homing. Activated Taa cells were the
+              primary source of GZMK, which enhanced inflammatory functions of
+              non-immune cells. In humans, proportions of the circulating
+              GZMK+CD8+ T cell population that shares transcriptional and
+              epigenetic signatures with mouse Taa cells increased during
+              healthy aging. These results identify GZMK+ Taa cells as a
+              potential target to address age-associated dysfunctions of the
+              immune system.",
+  journal  = "Immunity",
+  volume   =  54,
+  number   =  1,
+  pages    = "99--115.e12",
+  month    =  jan,
+  year     =  2021,
+  keywords = "Aging; CD8 T cells; CITE-seq; granzyme K; immune system;
+              inflammaging; single-cell ATAC-sequencing; single-cell
+              BCR-sequencing; single-cell RNA-sequencing; single-cell
+              TCR-sequencing",
+  language = "en"
 }
