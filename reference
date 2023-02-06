@@ -362,6 +362,41 @@
   language = "en"
 }
 
+@ARTICLE{Yomogida2021-xe,
+  title    = "Hobit confers tissue-dependent programs to type 1 innate lymphoid
+              cells",
+  author   = "Yomogida, Kentaro and Bigley, Tarin M and Trsan, Tihana and
+              Gilfillan, Susan and Cella, Marina and Yokoyama, Wayne M and
+              Egawa, Takeshi and Colonna, Marco",
+  abstract = "Identification of type 1 innate lymphoid cells (ILC1s) has been
+              problematic. The transcription factor Hobit encoded by Zfp683 has
+              been proposed as a major driver of ILC1 programs. Using Zfp683
+              reporter mice, we showed that correlation of Hobit expression
+              with ILC1s is tissue- and context-dependent. In liver and
+              intestinal mucosa, Zfp683 expression correlated well with ILC1s;
+              in salivary glands, Zfp683 was coexpressed with the natural
+              killer (NK) master transcription factors Eomes and TCF1 in a
+              unique cell population, which we call ILC1-like NK cells; during
+              viral infection, Zfp683 was induced in conventional NK cells of
+              spleen and liver. The impact of Zfp683 deletion on ILC1s and NK
+              cells was also multifaceted, including a marked decrease in
+              granzyme- and interferon-gamma (IFN$\gamma$)-producing ILC1s in
+              the liver, slightly fewer ILC1s and more Eomes+ TCF1+ ILC1-like
+              NK cells in salivary glands, and only reduced production of
+              granzyme B by ILC1 in the intestinal mucosa. NK cell-mediated
+              control of viral infection was unaffected. We conclude that Hobit
+              has two major impacts on ILC1s: It sustains liver ILC1 numbers,
+              while promoting ILC1 functional maturation in other tissues by
+              controlling TCF1, Eomes, and granzyme expression.",
+  journal  = "Proc. Natl. Acad. Sci. U. S. A.",
+  volume   =  118,
+  number   =  50,
+  month    =  dec,
+  year     =  2021,
+  keywords = "Eomes; Hobit; innate lymphoid cells; liver; natural killer cells",
+  language = "en"
+}
+
 @ARTICLE{Shi2014-pt,
   title    = "Inflammatory caspases are innate immune receptors for
               intracellular {LPS}",
