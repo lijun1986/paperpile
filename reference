@@ -362,40 +362,6 @@
   language = "en"
 }
 
-@ARTICLE{Ducimetiere2021-ee,
-  title    = "Conventional {NK} cells and tissue-resident {ILC1s} join forces
-              to control liver metastasis",
-  author   = "Ducimeti{\`e}re, Laura and Lucchiari, Giulia and Litscher, Gioana
-              and Nater, Marc and Heeb, Laura and Nu{\~n}ez, Nicol{\'a}s
-              Gonzalo and Wyss, Laura and Burri, Dominik and Vermeer, Marijne
-              and Gschwend, Julia and Moor, Andreas E and Becher, Burkhard and
-              van den Broek, Maries and Tugues, Sonia",
-  abstract = "The liver is a major metastatic target organ, and little is known
-              about the role of immunity in controlling hepatic metastases.
-              Here, we discovered that the concerted and nonredundant action of
-              two innate lymphocyte subpopulations, conventional natural killer
-              cells (cNKs) and tissue-resident type I innate lymphoid cells
-              (trILC1s), is essential for antimetastatic defense. Using
-              different preclinical models for liver metastasis, we found that
-              trILC1 controls metastatic seeding, whereas cNKs restrain
-              outgrowth. Whereas the killing capacity of trILC1s was not
-              affected by the metastatic microenvironment, the phenotype and
-              function of cNK cells were affected in a cancer type-specific
-              fashion. Thus, individual cancer cell lines orchestrate the
-              emergence of unique cNK subsets, which respond differently to
-              tumor-derived factors. Our findings will contribute to the
-              development of therapies for liver metastasis involving hepatic
-              innate cells.",
-  journal  = "Proc. Natl. Acad. Sci. U. S. A.",
-  volume   =  118,
-  number   =  27,
-  month    =  jul,
-  year     =  2021,
-  keywords = "conventional NK cells; innate lymphocytes; metastatic
-              surveillance; tissue-resident ILC1s",
-  language = "en"
-}
-
 @ARTICLE{Shi2014-pt,
   title    = "Inflammatory caspases are innate immune receptors for
               intracellular {LPS}",
@@ -5016,6 +4982,40 @@
   month    =  dec,
   year     =  2016,
   keywords = "CD8 project",
+  language = "en"
+}
+
+@ARTICLE{Ducimetiere2021-ee,
+  title    = "Conventional {NK} cells and tissue-resident {ILC1s} join forces
+              to control liver metastasis",
+  author   = "Ducimeti{\`e}re, Laura and Lucchiari, Giulia and Litscher, Gioana
+              and Nater, Marc and Heeb, Laura and Nu{\~n}ez, Nicol{\'a}s
+              Gonzalo and Wyss, Laura and Burri, Dominik and Vermeer, Marijne
+              and Gschwend, Julia and Moor, Andreas E and Becher, Burkhard and
+              van den Broek, Maries and Tugues, Sonia",
+  abstract = "The liver is a major metastatic target organ, and little is known
+              about the role of immunity in controlling hepatic metastases.
+              Here, we discovered that the concerted and nonredundant action of
+              two innate lymphocyte subpopulations, conventional natural killer
+              cells (cNKs) and tissue-resident type I innate lymphoid cells
+              (trILC1s), is essential for antimetastatic defense. Using
+              different preclinical models for liver metastasis, we found that
+              trILC1 controls metastatic seeding, whereas cNKs restrain
+              outgrowth. Whereas the killing capacity of trILC1s was not
+              affected by the metastatic microenvironment, the phenotype and
+              function of cNK cells were affected in a cancer type-specific
+              fashion. Thus, individual cancer cell lines orchestrate the
+              emergence of unique cNK subsets, which respond differently to
+              tumor-derived factors. Our findings will contribute to the
+              development of therapies for liver metastasis involving hepatic
+              innate cells.",
+  journal  = "Proc. Natl. Acad. Sci. U. S. A.",
+  volume   =  118,
+  number   =  27,
+  month    =  jul,
+  year     =  2021,
+  keywords = "conventional NK cells; innate lymphocytes; metastatic
+              surveillance; tissue-resident ILC1s;ILC",
   language = "en"
 }
 
