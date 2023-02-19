@@ -547,37 +547,6 @@
   language = "en"
 }
 
-@ARTICLE{White2016-cf,
-  title    = "Virtual memory {T} cells develop and mediate bystander protective
-              immunity in an {IL-15-dependent} manner",
-  author   = "White, Jason T and Cross, Eric W and Burchill, Matthew A and
-              Danhorn, Thomas and McCarter, Martin D and Rosen, Hugo R and
-              O'Connor, Brian and Kedl, Ross M",
-  abstract = "Virtual memory cells (VM) are an antigen-specific, memory
-              phenotype CD8 T-cell subset found in lymphoreplete, unchallenged
-              mice. Previous studies indicated that VM cells were the result of
-              homeostatic proliferation (HP) resembling the proliferation
-              observed in a lymphopenic environment. Here we demonstrate that
-              HP is ongoing in lymphoreplete mice, the degree of which is
-              dictated by the number of naive CD8 T cells with a sufficiently
-              high affinity for self-antigen interacting with peripheral IL-15.
-              VM cell transcriptional profiles suggest a capacity to mediate
-              protective immunity via antigen non-specific bystander killing, a
-              function we show is dependent on IL-15. Finally, we show a
-              VM-like population of human cells that accumulate with age and
-              traffic to the liver, displaying phenotypic and functional
-              attributes consistent with the bystander protective functions of
-              VM cells identified in the mouse. These data identify
-              developmental and functional attributes of VM cells, including
-              their likely role in protective immunity.",
-  journal  = "Nat. Commun.",
-  volume   =  7,
-  pages    = "11291",
-  month    =  apr,
-  year     =  2016,
-  language = "en"
-}
-
 @ARTICLE{Stackowicz2019-gb,
   title       = "Mouse Models and Tools for the in vivo Study of Neutrophils",
   author      = "Stackowicz, Julien and J{\"o}nsson, Friederike and Reber,
@@ -5541,5 +5510,37 @@
   month    =  oct,
   year     =  2021,
   keywords = "ILC",
+  language = "en"
+}
+
+@ARTICLE{White2016-cf,
+  title    = "Virtual memory {T} cells develop and mediate bystander protective
+              immunity in an {IL-15-dependent} manner",
+  author   = "White, Jason T and Cross, Eric W and Burchill, Matthew A and
+              Danhorn, Thomas and McCarter, Martin D and Rosen, Hugo R and
+              O'Connor, Brian and Kedl, Ross M",
+  abstract = "Virtual memory cells (VM) are an antigen-specific, memory
+              phenotype CD8 T-cell subset found in lymphoreplete, unchallenged
+              mice. Previous studies indicated that VM cells were the result of
+              homeostatic proliferation (HP) resembling the proliferation
+              observed in a lymphopenic environment. Here we demonstrate that
+              HP is ongoing in lymphoreplete mice, the degree of which is
+              dictated by the number of naive CD8 T cells with a sufficiently
+              high affinity for self-antigen interacting with peripheral IL-15.
+              VM cell transcriptional profiles suggest a capacity to mediate
+              protective immunity via antigen non-specific bystander killing, a
+              function we show is dependent on IL-15. Finally, we show a
+              VM-like population of human cells that accumulate with age and
+              traffic to the liver, displaying phenotypic and functional
+              attributes consistent with the bystander protective functions of
+              VM cells identified in the mouse. These data identify
+              developmental and functional attributes of VM cells, including
+              their likely role in protective immunity.",
+  journal  = "Nat. Commun.",
+  volume   =  7,
+  pages    = "11291",
+  month    =  apr,
+  year     =  2016,
+  keywords = "Mouse study",
   language = "en"
 }
