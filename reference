@@ -151,33 +151,6 @@
   original_id = "a01259cc-9eec-0efc-b67e-2b396d3afe6b"
 }
 
-@ARTICLE{Viano2022-fw,
-  title     = "Virtual Memory {CD8+} {T} Cells: Origin and Beyond",
-  author    = "Viano, Maria Estefania and Baez, Natalia Soledad and
-               Savid-Frontera, Constanza and Lidon, Nicol{\'a}s Leonel and
-               Hodge, Deborah L and Herbelin, Andr{\'e} and Gombert, Jean-Marc
-               and Barbarin, Alice and Rodriguez-Galan, Maria Cecilia",
-  abstract  = "The presence of CD8+ T cells with a memory phenotype in
-               nonimmunized mice has been noted for decades, but it was not
-               until about 2 decades ago that they began to be studied in
-               greater depth. Currently called virtual memory CD8+ T cells,
-               they consist of a heterogeneous group of cells with memory
-               characteristics, without any previous contact with their
-               specific antigens. These cells were identified in mice, but a
-               few years ago, a cell type with characteristics equivalent to
-               the murine ones was described in healthy humans. In this review,
-               we address the different aspects of its biology mainly developed
-               in murine models and what is currently known about its cellular
-               equivalent in humans.",
-  journal   = "J. Interferon Cytokine Res.",
-  publisher = "Mary Ann Liebert, Inc., publishers",
-  volume    =  42,
-  number    =  12,
-  pages     = "624--642",
-  month     =  dec,
-  year      =  2022
-}
-
 @MISC{noauthor_undated-uh,
   title        = "Granulocyte-colony stimulating factor promotes lung
                   metastasis through mobilization of {Ly6G+Ly6C+} granulocytes",
@@ -5610,4 +5583,32 @@
   keywords = "B-cell lymphomas; DNA-damaging agents; MHC class I; cancer
               immunotherapy; virtual memory CD8 T cells;Mouse study",
   language = "en"
+}
+
+@ARTICLE{Viano2022-fw,
+  title     = "Virtual Memory {CD8+} {T} Cells: Origin and Beyond",
+  author    = "Viano, Maria Estefania and Baez, Natalia Soledad and
+               Savid-Frontera, Constanza and Lidon, Nicol{\'a}s Leonel and
+               Hodge, Deborah L and Herbelin, Andr{\'e} and Gombert, Jean-Marc
+               and Barbarin, Alice and Rodriguez-Galan, Maria Cecilia",
+  abstract  = "The presence of CD8+ T cells with a memory phenotype in
+               nonimmunized mice has been noted for decades, but it was not
+               until about 2 decades ago that they began to be studied in
+               greater depth. Currently called virtual memory CD8+ T cells,
+               they consist of a heterogeneous group of cells with memory
+               characteristics, without any previous contact with their
+               specific antigens. These cells were identified in mice, but a
+               few years ago, a cell type with characteristics equivalent to
+               the murine ones was described in healthy humans. In this review,
+               we address the different aspects of its biology mainly developed
+               in murine models and what is currently known about its cellular
+               equivalent in humans.",
+  journal   = "J. Interferon Cytokine Res.",
+  publisher = "Mary Ann Liebert, Inc., publishers",
+  volume    =  42,
+  number    =  12,
+  pages     = "624--642",
+  month     =  dec,
+  year      =  2022,
+  keywords  = "Review"
 }
