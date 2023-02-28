@@ -547,6 +547,46 @@
   language = "en"
 }
 
+@ARTICLE{Virassamy2023-on,
+  title    = "Intratumoral {CD8+} {T} cells with a tissue-resident memory
+              phenotype mediate local immunity and immune checkpoint responses
+              in breast cancer",
+  author   = "Virassamy, Balaji and Caramia, Franco and Savas, Peter and Sant,
+              Sneha and Wang, Jianan and Christo, Susan N and Byrne, Ann and
+              Clarke, Kylie and Brown, Emmaline and Teo, Zhi Ling and von
+              Scheidt, Bianca and Freestone, David and Gandolfo, Luke C and
+              Weber, Karsten and Teply-Szymanski, Julia and Li, Ran and Luen,
+              Stephen J and Denkert, Carsten and Loibl, Sibylle and Lucas,
+              Olivia and Swanton, Charles and Speed, Terence P and Darcy,
+              Phillip K and Neeson, Paul J and Mackay, Laura K and Loi, Sherene",
+  abstract = "CD8+ tumor-infiltrating lymphocytes with a tissue-resident memory
+              T (TRM) cell phenotype are associated with favorable prognosis in
+              patients with triple-negative breast cancer (TNBC). However, the
+              relative contribution of CD8+ TRM cells to anti-tumor immunity
+              and immune checkpoint blockade efficacy in breast cancer remains
+              unknown. Here, we show that intratumoral CD8+ T cells in murine
+              mammary tumors transcriptionally resemble those from TNBC
+              patients. Phenotypic and transcriptional studies established two
+              intratumoral sub-populations: one more enriched in markers of
+              terminal exhaustion (TEX-like) and the other with a bona fide
+              resident phenotype (TRM-like). Treatment with anti-PD-1 and
+              anti-CTLA-4 therapy resulted in expansion of these intratumoral
+              populations, with the TRM-like subset displaying significantly
+              enhanced cytotoxic capacity. TRM-like CD8+ T cells could also
+              provide local immune protection against tumor rechallenge and a
+              TRM gene signature extracted from tumor-free tissue was
+              significantly associated with improved clinical outcomes in TNBC
+              patients treated with checkpoint inhibitors.",
+  journal  = "Cancer Cell",
+  month    =  feb,
+  year     =  2023,
+  keywords = "CTLA-4; PD-1; cancer immune surveillance; cancer immunotherapy;
+              immune checkpoint blockade; intratumoral CD8(+) T cells;
+              tissue-resident memory cells; triple-negative breast cancer;
+              tumor immunity; tumor infiltrating lymphocytes",
+  language = "en"
+}
+
 @ARTICLE{Stackowicz2019-gb,
   title       = "Mouse Models and Tools for the in vivo Study of Neutrophils",
   author      = "Stackowicz, Julien and J{\"o}nsson, Friederike and Reber,
