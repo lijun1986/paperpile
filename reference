@@ -587,6 +587,31 @@
   language = "en"
 }
 
+@ARTICLE{Okla2021-ev,
+  title    = "Tissue-resident memory {T} cells in tumor immunity and
+              immunotherapy",
+  author   = "Ok{\l}a, Karolina and Farber, Donna L and Zou, Weiping",
+  abstract = "Tissue-resident memory T cells (TRM) represent a heterogeneous T
+              cell population with the functionality of both effector and
+              memory T cells. TRM express residence gene signatures. This
+              feature allows them to traffic to, reside in, and potentially
+              patrol peripheral tissues, thereby enforcing an efficient
+              long-term immune-protective role. Recent studies have revealed
+              TRM involvement in tumor immune responses. TRM tumor infiltration
+              correlates with enhanced response to current immunotherapy and is
+              often associated with favorable clinical outcome in patients with
+              cancer. Thus, targeting TRM may lead to enhanced cancer
+              immunotherapy efficacy. Here, we review and discuss recent
+              advances on the nature of TRM in the context of tumor immunity
+              and immunotherapy.",
+  journal  = "J. Exp. Med.",
+  volume   =  218,
+  number   =  4,
+  month    =  apr,
+  year     =  2021,
+  language = "en"
+}
+
 @ARTICLE{Stackowicz2019-gb,
   title       = "Mouse Models and Tools for the in vivo Study of Neutrophils",
   author      = "Stackowicz, Julien and J{\"o}nsson, Friederike and Reber,
