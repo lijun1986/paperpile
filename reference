@@ -3875,6 +3875,48 @@
   language = "en"
 }
 
+@ARTICLE{Nixon2022-aa,
+  title    = "Cytotoxic granzyme C-expressing {ILC1s} contribute to antitumor
+              immunity and neonatal autoimmunity",
+  author   = "Nixon, Briana G and Chou, Chun and Krishna, Chirag and Dadi,
+              Sa{\"\i}da and Michel, Adam O and Cornish, Andrew E and Kansler,
+              Emily R and Do, Mytrang H and Wang, Xinxin and Capistrano,
+              Kristelle J and Rudensky, Alexander Y and Leslie, Christina S and
+              Li, Ming O",
+  abstract = "Innate lymphocytes are integral components of the cellular immune
+              system that can coordinate host defense against a multitude of
+              challenges and trigger immunopathology when dysregulated. Natural
+              killer (NK) cells and innate lymphoid cells (ILCs) are innate
+              immune effectors postulated to functionally mirror conventional
+              cytotoxic T lymphocytes and helper T cells, respectively. Here,
+              we showed that the cytolytic molecule granzyme C was expressed in
+              cells with the phenotype of type 1 ILCs (ILC1s) in mouse liver
+              and salivary gland. Cell fate-mapping and transfer studies
+              revealed that granzyme C-expressing innate lymphocytes could be
+              derived from ILC progenitors and did not interconvert with NK
+              cells, ILC2s, or ILC3s. Granzyme C defined a maturation state of
+              ILC1s. These granzyme C-expressing ILC1s required the
+              transcription factors T-bet and, to a lesser extent, Eomes and
+              support from transforming growth factor-$\beta$ (TGF-$\beta$)
+              signaling for their maintenance in the salivary gland. In a
+              transgenic mouse breast cancer model, depleting ILC1s caused
+              accelerated tumor growth. ILC1s gained granzyme C expression
+              following interleukin-15 (IL-15) stimulation, which enabled
+              perforin-mediated cytotoxicity. Constitutive activation of STAT5,
+              a transcription factor regulated by IL-15, in granzyme
+              C-expressing ILC1s triggered lethal perforin-dependent
+              autoimmunity in neonatal mice. Thus, granzyme C marks a cytotoxic
+              effector state of ILC1s, broadening their function beyond
+              ``helper-like'' lymphocytes.",
+  journal  = "Sci Immunol",
+  volume   =  7,
+  number   =  70,
+  pages    = "eabi8642",
+  month    =  apr,
+  year     =  2022,
+  language = "en"
+}
+
 @ARTICLE{Lee2022-rn,
   title    = "{CD39+} tissue-resident memory {CD8+} {T} cells with a clonal
               overlap across compartments mediate antitumor immunity in breast
