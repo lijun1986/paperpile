@@ -619,46 +619,6 @@
   language = "en"
 }
 
-@ARTICLE{Shields2019-vn,
-  title    = "Loss of {E-Cadherin} Inhibits {CD103} Antitumor Activity and
-              Reduces Checkpoint Blockade Responsiveness in Melanoma",
-  author   = "Shields, Bradley D and Koss, Brian and Taylor, Erin M and Storey,
-              Aaron J and West, Kirk L and Byrum, Stephanie D and Mackintosh,
-              Samuel G and Edmondson, Rick and Mahmoud, Fade and Shalin, Sara C
-              and Tackett, Alan J",
-  abstract = "Identifying controlling features of responsiveness to checkpoint
-              blockade therapies is an urgent goal in oncology research. Our
-              group and others have previously shown melanoma tumors resistant
-              to checkpoint blockade display features of mesenchymal
-              transition, including E-cadherin loss. Here, we present the first
-              in vivo evidence that E-cadherin from tumor cells facilitate
-              immune attack, using a B16F10 melanoma mouse model in which
-              E-cadherin is exogenously expressed (B16.Ecad). We find, compared
-              with vector control, B16.Ecad exhibits delayed tumor growth,
-              reduced metastatic potential, and increased overall survival in
-              vivo. Transplantation of B16.Ecad into Rag1-/- and CD103-/- mice
-              abrogated the tumor growth delay. This indicates the
-              anti-melanoma response against B16.Ecad is both immune and CD103+
-              mediated. Moreover, B16.Ecad showed increased responsiveness to
-              combination immune checkpoint blockade (ICB) compared with vector
-              control. This work establishes a rationale for ICB responses
-              observed in high E-cadherin-expressing tumors and suggests
-              therapeutic advancement through amplifying CD103+ immune cell
-              subsets.Significance: These findings identify the mechanism
-              behind checkpoint blockade resistance observed in melanoma that
-              has undergone mesenchymal transition and suggest activation of
-              CD103+ immune cells as a therapeutic strategy against other
-              E-cadherin-expressing malignancies.Graphical Abstract:
-              http://cancerres.aacrjournals.org/content/canres/79/6/1113/F1.large.jpg.",
-  journal  = "Cancer Res.",
-  volume   =  79,
-  number   =  6,
-  pages    = "1113--1123",
-  month    =  mar,
-  year     =  2019,
-  language = "en"
-}
-
 @ARTICLE{Stackowicz2019-gb,
   title       = "Mouse Models and Tools for the in vivo Study of Neutrophils",
   author      = "Stackowicz, Julien and J{\"o}nsson, Friederike and Reber,
@@ -5832,5 +5792,46 @@
   keywords = "CCR7(+) dendritic cells; CTL; CXCL16; CXCR6; IL-15; TCF-1; TCGA;
               multiphoton intravital microscopy; scRNA-seq; tumor
               microenvironment;Mouse study",
+  language = "en"
+}
+
+@ARTICLE{Shields2019-vn,
+  title    = "Loss of {E-Cadherin} Inhibits {CD103} Antitumor Activity and
+              Reduces Checkpoint Blockade Responsiveness in Melanoma",
+  author   = "Shields, Bradley D and Koss, Brian and Taylor, Erin M and Storey,
+              Aaron J and West, Kirk L and Byrum, Stephanie D and Mackintosh,
+              Samuel G and Edmondson, Rick and Mahmoud, Fade and Shalin, Sara C
+              and Tackett, Alan J",
+  abstract = "Identifying controlling features of responsiveness to checkpoint
+              blockade therapies is an urgent goal in oncology research. Our
+              group and others have previously shown melanoma tumors resistant
+              to checkpoint blockade display features of mesenchymal
+              transition, including E-cadherin loss. Here, we present the first
+              in vivo evidence that E-cadherin from tumor cells facilitate
+              immune attack, using a B16F10 melanoma mouse model in which
+              E-cadherin is exogenously expressed (B16.Ecad). We find, compared
+              with vector control, B16.Ecad exhibits delayed tumor growth,
+              reduced metastatic potential, and increased overall survival in
+              vivo. Transplantation of B16.Ecad into Rag1-/- and CD103-/- mice
+              abrogated the tumor growth delay. This indicates the
+              anti-melanoma response against B16.Ecad is both immune and CD103+
+              mediated. Moreover, B16.Ecad showed increased responsiveness to
+              combination immune checkpoint blockade (ICB) compared with vector
+              control. This work establishes a rationale for ICB responses
+              observed in high E-cadherin-expressing tumors and suggests
+              therapeutic advancement through amplifying CD103+ immune cell
+              subsets.Significance: These findings identify the mechanism
+              behind checkpoint blockade resistance observed in melanoma that
+              has undergone mesenchymal transition and suggest activation of
+              CD103+ immune cells as a therapeutic strategy against other
+              E-cadherin-expressing malignancies.Graphical Abstract:
+              http://cancerres.aacrjournals.org/content/canres/79/6/1113/F1.large.jpg.",
+  journal  = "Cancer Res.",
+  volume   =  79,
+  number   =  6,
+  pages    = "1113--1123",
+  month    =  mar,
+  year     =  2019,
+  keywords = "Mouse study",
   language = "en"
 }
