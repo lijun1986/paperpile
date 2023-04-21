@@ -5577,6 +5577,37 @@
   language = "en"
 }
 
+@ARTICLE{Mackay2015-oy,
+  title    = "Cutting edge: {CD69} interference with sphingosine-1-phosphate
+              receptor function regulates peripheral {T} cell retention",
+  author   = "Mackay, Laura K and Braun, Asolina and Macleod, Bethany L and
+              Collins, Nicholas and Tebartz, Christina and Bedoui, Sammy and
+              Carbone, Francis R and Gebhardt, Thomas",
+  abstract = "Tissue-resident memory T cells provide local immune protection in
+              barrier tissues, such as skin and mucosa. However, the molecular
+              mechanisms controlling effector T cell retention and subsequent
+              memory formation in those locations are not fully understood. In
+              this study, we analyzed the role of CD69, an early leukocyte
+              activation marker, in regulating effector T cell egress from
+              peripheral tissues. We provide evidence that CD69 surface
+              expression by skin-infiltrating CD8 T cells can be regulated at
+              multiple levels, including local Ag stimulation and signaling
+              through type I IFNRs, and it coincides with the transcriptional
+              downregulation of the sphingosine-1-phosphate receptor S1P1.
+              Importantly, we demonstrate that expression of CD69, by
+              interfering with sphingosine-1-phosphate receptor function, is a
+              critical determinant of prolonged T cell retention and local
+              memory formation. Our results define an important step in the
+              generation of long-lived adaptive immune memory at body surfaces.",
+  journal  = "J. Immunol.",
+  volume   =  194,
+  number   =  5,
+  pages    = "2059--2063",
+  month    =  mar,
+  year     =  2015,
+  language = "en"
+}
+
 @ARTICLE{Djenidi2015-pt,
   title    = "{CD8+CD103+} tumor-infiltrating lymphocytes are tumor-specific
               tissue-resident memory {T} cells and a prognostic factor for
