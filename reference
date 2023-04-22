@@ -5896,6 +5896,37 @@
   language = "en"
 }
 
+@ARTICLE{Buchholz2013-yl,
+  title    = "Disparate individual fates compose robust {CD8+} {T} cell
+              immunity",
+  author   = "Buchholz, Veit R and Flossdorf, Michael and Hensel, Inge and
+              Kretschmer, Lorenz and Weissbrich, Bianca and Gr{\"a}f, Patricia
+              and Verschoor, Admar and Schiemann, Matthias and H{\"o}fer,
+              Thomas and Busch, Dirk H",
+  abstract = "A core feature of protective T cell responses to infection is the
+              robust expansion and diversification of na{\"\i}ve
+              antigen-specific T cell populations into short-lived effector and
+              long-lived memory subsets. By means of in vivo fate mapping, we
+              found a striking variability of immune responses derived from
+              individual CD8(+) T cells and show that robust acute and recall
+              immunity requires the initial recruitment of multiple precursors.
+              Unbiased mathematical modeling identifies the random integration
+              of multiple differentiation and division events as the driving
+              force behind this variability. Within this probabilistic
+              framework, cell fate is specified along a linear developmental
+              path that progresses from slowly proliferating long-lived to
+              rapidly expanding short-lived subsets. These data provide
+              insights into how complex biological systems implement stochastic
+              processes to guarantee robust outcomes.",
+  journal  = "Science",
+  volume   =  340,
+  number   =  6132,
+  pages    = "630--635",
+  month    =  may,
+  year     =  2013,
+  language = "en"
+}
+
 @ARTICLE{Stemberger2007-zn,
   title    = "A single naive {CD8+} {T} cell precursor can develop into diverse
               effector and memory subsets",
