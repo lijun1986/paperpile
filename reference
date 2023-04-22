@@ -3764,6 +3764,35 @@
   language = "en"
 }
 
+@ARTICLE{Gerlach2011-tz,
+  title    = "The descent of memory {T} cells",
+  author   = "Gerlach, Carmen and van Heijst, Jeroen W J and Schumacher, Ton N
+              M",
+  abstract = "Our T cell repertoire is shaped by antigen encounter. From a
+              naive T cell pool that contains millions of different T cells
+              with unknown specificities, pathogen infection leads to selection
+              of those T cells that can detect pathogen-derived antigens.
+              Following clearance of infection, a population of memory T cells
+              remains and protects the individual from severe reinfection. A
+              central question in the field has been how the generation of
+              long-lived memory T cells, versus short-lived (``terminally
+              differentiated'') T cells, is controlled. In this review we
+              discuss the models that have been put forward to explain the
+              generation of memory T cells after infection and the experimental
+              evidence supporting these hypotheses. Based on the available data
+              we propose a new model that stipulates that during immune
+              responses T cells do not acquire different fates that determine
+              their subsequent long-term survival but rather T cells assume
+              different states that simply reflect the likelihood of future
+              survival, states that can still be modulated by external signals.",
+  journal  = "Ann. N. Y. Acad. Sci.",
+  volume   =  1217,
+  pages    = "139--153",
+  month    =  jan,
+  year     =  2011,
+  language = "en"
+}
+
 @ARTICLE{Franklin2014-vh,
   title       = "The cellular and molecular origin of tumor-associated
                  macrophages",
