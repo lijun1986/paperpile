@@ -5882,19 +5882,6 @@
   year      =  2014
 }
 
-@BOOK{DeVita2018-rf,
-  title     = "{DeVita}, Hellman, and Rosenberg's Cancer: Principles \&
-               Practice of Oncology (Cancer Principles and Practice of
-               Oncology)",
-  author    = "DeVita, Jr, Vincent T and Rosenberg, Steven A and Lawrence,
-               Theodore S",
-  publisher = "LWW",
-  edition   =  11,
-  month     =  dec,
-  year      =  2018,
-  language  = "en"
-}
-
 @ARTICLE{Dexter1978-nt,
   title    = "Heterogeneity of tumor cells from a single mouse mammary tumor",
   author   = "Dexter, D L and Kowalski, H M and Blazar, B A and Fligiel, Z and
