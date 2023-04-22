@@ -4257,49 +4257,6 @@
   language = "en"
 }
 
-@ARTICLE{Nalio_Ramos2022-nw,
-  title    = "Tissue-resident {FOLR2+} macrophages associate with {CD8+} {T}
-              cell infiltration in human breast cancer",
-  author   = "Nalio Ramos, Rodrigo and Missolo-Koussou, Yoann and
-              Gerber-Ferder, Yohan and Bromley, Christian P and Bugatti, Mattia
-              and N{\'u}{\~n}ez, Nicolas Gonzalo and Tosello Boari, Jimena and
-              Richer, Wilfrid and Menger, Laurie and Denizeau, Jordan and
-              Sedlik, Christine and Caudana, Pamela and Kotsias, Fiorella and
-              Niborski, Leticia L and Viel, Sophie and Bohec, Myl{\`e}ne and
-              Lameiras, Sonia and Baulande, Sylvain and Lesage, La{\"e}titia
-              and Nicolas, Andr{\'e} and Meseure, Didier and Vincent-Salomon,
-              Anne and Reyal, Fabien and Dutertre, Charles-Antoine and Ginhoux,
-              Florent and Vimeux, Lene and Donnadieu, Emmanuel and Buttard,
-              B{\'e}n{\'e}dicte and Galon, J{\'e}r{\^o}me and Zelenay, Santiago
-              and Vermi, William and Guermonprez, Pierre and Piaggio, Eliane
-              and Helft, Julie",
-  abstract = "Macrophage infiltration is a hallmark of solid cancers, and
-              overall macrophage infiltration correlates with lower patient
-              survival and resistance to therapy. Tumor-associated macrophages,
-              however, are phenotypically and functionally heterogeneous.
-              Specific subsets of tumor-associated macrophage might be endowed
-              with distinct roles on cancer progression and antitumor immunity.
-              Here, we identify a discrete population of FOLR2+ tissue-resident
-              macrophages in healthy mammary gland and breast cancer primary
-              tumors. FOLR2+ macrophages localize in perivascular areas in the
-              tumor stroma, where they interact with CD8+ T cells. FOLR2+
-              macrophages efficiently prime effector CD8+ T cells ex vivo. The
-              density of FOLR2+ macrophages in tumors positively correlates
-              with better patient survival. This study highlights specific
-              roles for tumor-associated macrophage subsets and paves the way
-              for subset-targeted therapeutic interventions in
-              macrophages-based cancer therapies.",
-  journal  = "Cell",
-  volume   =  185,
-  number   =  7,
-  pages    = "1189--1207.e25",
-  month    =  mar,
-  year     =  2022,
-  keywords = "CD8(+) T lymphocytes; FOLR2; TREM2; breast cancer; single-cell
-              RNA sequencing; tissue-resident macrophages;Human study",
-  language = "en"
-}
-
 @ARTICLE{Konjar2022-wm,
   title    = "Heterogeneity of tissue resident memory {T} cells",
   author   = "Konjar, {\v S}pela and Ficht, Xenia and Iannacone, Matteo and
@@ -5904,6 +5861,49 @@
   keywords = "CCR7(+) dendritic cells; CTL; CXCL16; CXCR6; IL-15; TCF-1; TCGA;
               multiphoton intravital microscopy; scRNA-seq; tumor
               microenvironment;Mouse study",
+  language = "en"
+}
+
+@ARTICLE{Nalio_Ramos2022-nw,
+  title    = "Tissue-resident {FOLR2+} macrophages associate with {CD8+} {T}
+              cell infiltration in human breast cancer",
+  author   = "Nalio Ramos, Rodrigo and Missolo-Koussou, Yoann and
+              Gerber-Ferder, Yohan and Bromley, Christian P and Bugatti, Mattia
+              and N{\'u}{\~n}ez, Nicolas Gonzalo and Tosello Boari, Jimena and
+              Richer, Wilfrid and Menger, Laurie and Denizeau, Jordan and
+              Sedlik, Christine and Caudana, Pamela and Kotsias, Fiorella and
+              Niborski, Leticia L and Viel, Sophie and Bohec, Myl{\`e}ne and
+              Lameiras, Sonia and Baulande, Sylvain and Lesage, La{\"e}titia
+              and Nicolas, Andr{\'e} and Meseure, Didier and Vincent-Salomon,
+              Anne and Reyal, Fabien and Dutertre, Charles-Antoine and Ginhoux,
+              Florent and Vimeux, Lene and Donnadieu, Emmanuel and Buttard,
+              B{\'e}n{\'e}dicte and Galon, J{\'e}r{\^o}me and Zelenay, Santiago
+              and Vermi, William and Guermonprez, Pierre and Piaggio, Eliane
+              and Helft, Julie",
+  abstract = "Macrophage infiltration is a hallmark of solid cancers, and
+              overall macrophage infiltration correlates with lower patient
+              survival and resistance to therapy. Tumor-associated macrophages,
+              however, are phenotypically and functionally heterogeneous.
+              Specific subsets of tumor-associated macrophage might be endowed
+              with distinct roles on cancer progression and antitumor immunity.
+              Here, we identify a discrete population of FOLR2+ tissue-resident
+              macrophages in healthy mammary gland and breast cancer primary
+              tumors. FOLR2+ macrophages localize in perivascular areas in the
+              tumor stroma, where they interact with CD8+ T cells. FOLR2+
+              macrophages efficiently prime effector CD8+ T cells ex vivo. The
+              density of FOLR2+ macrophages in tumors positively correlates
+              with better patient survival. This study highlights specific
+              roles for tumor-associated macrophage subsets and paves the way
+              for subset-targeted therapeutic interventions in
+              macrophages-based cancer therapies.",
+  journal  = "Cell",
+  volume   =  185,
+  number   =  7,
+  pages    = "1189--1207.e25",
+  month    =  mar,
+  year     =  2022,
+  keywords = "CD8(+) T lymphocytes; FOLR2; TREM2; breast cancer; single-cell
+              RNA sequencing; tissue-resident macrophages;Human study",
   language = "en"
 }
 
