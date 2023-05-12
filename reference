@@ -1,3 +1,677 @@
+@ARTICLE{Tacconi2021-ib,
+  title       = "{CD169+} lymph node macrophages have protective functions in
+                 mouse breast cancer metastasis",
+  author      = "Tacconi, Carlotta and Commerford, Catharina D and Dieterich,
+                 Lothar C and Schwager, Simon and He, Yuliang and Ikenberg,
+                 Kristian and Friebel, Ekaterina and Becher, Burkhard and
+                 Tugues, S{\`o}nia and Detmar, Michael",
+  abstract    = "Although the contribution of macrophages to metastasis is
+                 widely studied in primary tumors, the involvement of
+                 macrophages in tumor-draining lymph nodes (LNs) in this
+                 process is less clear. We find CD169+ macrophages as the
+                 predominant macrophage subtype in naive LNs, which undergo
+                 proliferative expansion in response to tumor stimuli. CD169+
+                 LN macrophage depletion, using an anti-CSF-1R antibody or
+                 clodronate-loaded liposomes, leads to increased metastatic
+                 burden in two mouse breast cancer models. The expansion of
+                 CD169+ macrophages is tightly connected to B cell expansion in
+                 tumor-draining LNs, and B cell depletion abrogates the effect
+                 of CD169+ macrophage absence on metastasis, indicating that
+                 the CD169+ macrophage anti-metastatic effects require B cell
+                 presence. These results reveal a protective role of CD169+ LN
+                 macrophages in breast cancer metastasis and raise caution for
+                 the use of drugs aiming at the depletion of tumor-associated
+                 macrophages, which might simultaneously deplete macrophages in
+                 tumor-draining LNs.",
+  journal     = "Cell Rep.",
+  volume      =  35,
+  number      =  2,
+  pages       = "108993",
+  month       =  apr,
+  year        =  2021,
+  keywords    = "CD169+ macrophages; breast cancer metastasis; distant organ
+                 metastasis; lymph node macrophages; tumor-associated
+                 macrophages; tumor-draining lymph node",
+  language    = "en",
+  original_id = "79fb70b1-c278-0f80-af02-42f563e36698"
+}
+
+@ARTICLE{Potter1985-bt,
+  title    = "History of the {BALB/c} family",
+  author   = "Potter, M",
+  journal  = "Curr. Top. Microbiol. Immunol.",
+  volume   =  122,
+  pages    = "1--5",
+  year     =  1985,
+  language = "en"
+}
+
+@ARTICLE{Dawod2020-or,
+  title       = "Myeloid-derived suppressor cell depletion therapy targets
+                 {IL-17A-expressing} mammary carcinomas",
+  author      = "Dawod, Bassel and Liu, Jinghua and Gebremeskel, Simon and Yan,
+                 Chi and Sappong, Antonia and Johnston, Brent and Hoskin, David
+                 W and Marshall, Jean S and Wang, Jun",
+  abstract    = "Triple-negative breast cancer (TNBC) is an invasive subtype of
+                 breast cancer but paradoxically associated with increased
+                 tumor-infiltrating leukocytes. The molecular and cellular
+                 mechanisms underlying TNBC immunobiology are incompletely
+                 understood. Interleukin (IL)-17A is a pro-inflammatory
+                 cytokine that has both pro- and anti-tumor effects and found
+                 in 40-80\% of TNBC samples. We report here that IL-17A mRNA
+                 and protein are detectable in some human TNBC cell lines and
+                 further upregulated by IL-23 and LPS stimulation. Furthermore,
+                 the impact of tumor-derived IL-17A in host immune response and
+                 tumor growth was examined using murine TNBC 4T1 mammary
+                 carcinoma cells transduced with an adenoviral vector
+                 expressing IL-17A (AdIL-17A) or control vector (Addl).
+                 Compared to Addl-transduction, AdIL-17A-transduction enhanced
+                 4T1 tumor growth and lung metastasis in vivo, which was
+                 associated with a marked expansion of myeloid-derived
+                 suppressor cells (MDSCs). However, AdIL-17A-transduction also
+                 induced strong organ-specific and time-dependent immune
+                 activation indicated by dynamic changes of NK cells, B cells,
+                 CD4, and CD8 T cells in peripheral blood, lung, and tumor
+                 site, as well as the plasma levels of IFN$\gamma$. Such
+                 findings highlight that tumor-associated IL-17A induces
+                 concurrent immune activation and immune suppression.
+                 Administration of anti-Gr1 or anti-G-CSF antibody effectively
+                 depleted MDSCs in vivo, markedly reducing the growth of
+                 AdIL-17A-transduced 4T1 tumors, and eliminating lung
+                 metastasis. Collectively, our study demonstrates that MDSC
+                 depletion is an effective and practical approach for treating
+                 IL-17A-enriched mammary carcinomas.",
+  journal     = "Sci. Rep.",
+  volume      =  10,
+  number      =  1,
+  pages       = "13343",
+  month       =  aug,
+  year        =  2020,
+  language    = "en",
+  original_id = "48b2be91-4d6d-0d9a-8919-fee5fea4fe44"
+}
+
+@ARTICLE{Bosiljcic2019-en,
+  title       = "Targeting myeloid-derived suppressor cells in combination with
+                 primary mammary tumor resection reduces metastatic growth in
+                 the lungs",
+  author      = "Bosiljcic, Momir and Cederberg, Rachel A and Hamilton, Melisa
+                 J and LePard, Nancy E and Harbourne, Bryant T and Collier,
+                 Jenna L and Halvorsen, Elizabeth C and Shi, Rocky and Franks,
+                 S Elizabeth and Kim, Ada Y and Ban{\'a}th, Judit P and Hamer,
+                 Mark and Rossi, Fabio M and Bennewith, Kevin L",
+  abstract    = "BACKGROUND: Solid tumors produce proteins that can induce the
+                 accumulation of bone marrow-derived cells in various tissues,
+                 and these cells can enhance metastatic tumor growth by several
+                 mechanisms. 4T1 murine mammary tumors are known to produce
+                 granulocyte colony-stimulating factor (G-CSF) and increase the
+                 numbers of immunosuppressive CD11b+Gr1+ myeloid-derived
+                 suppressor cells (MDSCs) in tissues such as the spleen and
+                 lungs of tumor-bearing mice. While surgical resection of
+                 primary tumors decreases MDSC levels in the spleen, the
+                 longevity and impact of MDSCs and other immune cells in the
+                 lungs after tumor resection have been less studied. METHODS:
+                 We used mass cytometry time of flight (CyTOF) and flow
+                 cytometry to quantify MDSCs in the spleen, peripheral blood,
+                 and lungs of mice bearing orthotopic murine mammary tumors. We
+                 also tested the effect of primary tumor resection and/or
+                 gemcitabine treatment on the levels of MDSCs, other immune
+                 suppressor and effector cells, and metastatic tumor cells in
+                 the lungs. RESULTS: We have found that, similar to mice with
+                 4T1 tumors, mice bearing metastatic 4T07 tumors also exhibit
+                 accumulation of CD11b+Gr1+ MDSCs in the spleen and lungs,
+                 while tissues of mice with non-metastatic 67NR tumors do not
+                 contain MDSCs. Mice with orthotopically implanted 4T1 tumors
+                 have increased granulocytic (G-) MDSCs, monocytic (M-) MDSCs,
+                 macrophages, eosinophils, and NK cells in the lungs. Resection
+                 of primary 4T1 tumors decreases G-MDSCs, M-MDSCs, and
+                 macrophages in the lungs within 48 h, but significant numbers
+                 of functional immunosuppressive G-MDSCs persist in the lungs
+                 for 2 weeks after tumor resection, indicative of an
+                 environment that can promote metastatic tumor growth. The
+                 chemotherapeutic agent gemcitabine depletes G-MDSCs, M-MDSCs,
+                 macrophages, and eosinophils in the lungs of 4T1 tumor-bearing
+                 mice, and we found that treating mice with gemcitabine after
+                 primary tumor resection decreases residual G-MDSCs in the
+                 lungs and decreases subsequent metastatic growth. CONCLUSIONS:
+                 Our data support the development of therapeutic strategies to
+                 target MDSCs and to monitor MDSC levels before and after
+                 primary tumor resection to enhance the effectiveness of
+                 immune-based therapies and improve the treatment of metastatic
+                 breast cancer in the clinic.",
+  journal     = "Breast Cancer Res.",
+  volume      =  21,
+  number      =  1,
+  pages       = "103",
+  month       =  sep,
+  year        =  2019,
+  keywords    = "4T07; 4T1; 67NR; Eosinophils; Gemcitabine; Macrophages;
+                 Metastasis; Myeloid-derived suppressor cells; Tumor resection",
+  language    = "en",
+  original_id = "a01259cc-9eec-0efc-b67e-2b396d3afe6b"
+}
+
+@ARTICLE{Wang2022-ln,
+  title    = "Mesenchymal stem cells attenuate acute lung injury in mice partly
+              by suppressing alveolar macrophage activation in a
+              {PGE2-dependent} manner",
+  author   = "Wang, Gaojian and Zhang, Yaping and Hu, Nianqiang and Liu, Qinxue
+              and Ma, Fengjie and Xie, Junran",
+  abstract = "Mesenchymal stem cells (MSCs) have been demonstrated to attenuate
+              acute lung injury (ALI). We also found that they can suppress the
+              activation of alveolar macrophages (AMs), which can partly
+              account for their therapeutic effects. MSCs do not inherently own
+              immunosuppressive effects, when co-cultured with inflammatory
+              immune cells, MSCs can be activated by inflammatory cytokines and
+              meanwhile exert immunosuppressive effects. In order to further
+              research, RNA sequencing (RNA-seq) of MSCs cultured before and
+              after co-culturing with activated macrophages was performed. The
+              data suggested a total of 5268 differentially expressed genes
+              (DEGs) along the process. We used the data of 2754 upregulated
+              DEGs to develop a signaling network of genes and the
+              transcription factors targeting them in order to predict the
+              altered functions of MSCs after exposure to inflammatory stimuli.
+              This constructed network revealed some critical target genes and
+              potential roles of MSCs under inflammatory conditions. According
+              to the network, Ptgs2 was assumed to be an important gene
+              participating in the immunosuppressive effects of MSCs. We also
+              identified significant increases in the expression of COX2
+              protein and the secretion of PGE2 from MSCs. The use of the COX2
+              inhibitor NS-398 restrained the secretion of PGE2 and reversed
+              the suppression of macrophage activation by MSCs in vitro. In
+              addition, a selective antagonist of PGE2 binding receptor (EP4
+              receptor), GW627368X, also reversed the inhibitory effects of
+              MSCs on AMs and the protective effects in ALI mouse. In summary,
+              the therapeutic effects of MSCs on ALI partly occur through
+              suppressing AM activation via PGE2 binding to EP4 receptor.",
+  journal  = "Inflammation",
+  month    =  jun,
+  year     =  2022,
+  keywords = "Acute lung injury; Alveolar macrophage; Mesenchymal stem cell;
+              Prostaglandin E2; RNA-sequence",
+  language = "en"
+}
+
+@ARTICLE{Rogers1985-mf,
+  title    = "Qa2 expression in {BALB/c} sublines and a {BALB/cLAC} tumor",
+  author   = "Rogers, M J and Galetto, G and Matthai, R and Potter, M",
+  journal  = "Curr. Top. Microbiol. Immunol.",
+  volume   =  122,
+  pages    = "43--49",
+  year     =  1985,
+  language = "en"
+}
+
+@ARTICLE{Steinmetz1983-uf,
+  title    = "Genes of the major histocompatibility complex in mouse and man",
+  author   = "Steinmetz, M and Hood, L",
+  abstract = "The genes of the major histocompatibility complex code for
+              cell-surface molecules that play an important role in the
+              generation of the immune response. These genes and molecules have
+              been studied intensively over the last five decades by
+              geneticists, biochemists, and immunologists, but only recently
+              has the isolation of the genes by molecular biologists
+              facilitated their precise characterization. Many surprising
+              findings have been made concerning their structure, multiplicity,
+              organization, function, and evolution.",
+  journal  = "Science",
+  volume   =  222,
+  number   =  4625,
+  pages    = "727--733",
+  month    =  nov,
+  year     =  1983,
+  language = "en"
+}
+
+@ARTICLE{Smith2018-ti,
+  title    = "Regulation of cytokine production by the unfolded protein
+              response; Implications for infection and autoimmunity",
+  author   = "Smith, Judith A",
+  abstract = "Protein folding in the endoplasmic reticulum (ER) is an essential
+              cell function. To safeguard this process in the face of
+              environmental threats and internal stressors, cells mount an
+              evolutionarily conserved response known as the unfolded protein
+              response (UPR). Invading pathogens induce cellular stress that
+              impacts protein folding, thus the UPR is well situated to sense
+              danger and contribute to immune responses. Cytokines
+              (inflammatory cytokines and interferons) critically mediate host
+              defense against pathogens, but when aberrantly produced, may also
+              drive pathologic inflammation. The UPR influences cytokine
+              production on multiple levels, from stimulation of pattern
+              recognition receptors, to modulation of inflammatory signaling
+              pathways, and the regulation of cytokine transcription factors.
+              This review will focus on the mechanisms underlying cytokine
+              regulation by the UPR, and the repercussions of this relationship
+              for infection and autoimmune/autoinflammatory diseases.
+              Interrogation of viral and bacterial infections has revealed
+              increasing numbers of examples where pathogens induce or modulate
+              the UPR and implicated UPR-modulated cytokines in host response.
+              The flip side of this coin, the UPR/ER stress responses have been
+              increasingly recognized in a variety of autoimmune and
+              inflammatory diseases. Examples include monogenic disorders of ER
+              function, diseases linked to misfolding protein (HLA-B27 and
+              spondyloarthritis), diseases directly implicating UPR and
+              autophagy genes (inflammatory bowel disease), and autoimmune
+              diseases targeting highly secretory cells (e.g., diabetes). Given
+              the burgeoning interest in pharmacologically targeting the UPR,
+              greater discernment is needed regarding how the UPR regulates
+              cytokine production during specific infections and autoimmune
+              processes, and the relative place of this interaction in
+              pathogenesis.",
+  journal  = "Front. Immunol.",
+  volume   =  9,
+  pages    = "422",
+  month    =  mar,
+  year     =  2018,
+  keywords = "autoimmunity; autoinflammatory disease; bacteria; cytokine
+              regulation; endoplasmic reticulum stress; infection; unfolded
+              protein response; virus",
+  language = "en"
+}
+
+@ARTICLE{Burdziak2023-if,
+  title     = "Epigenetic plasticity cooperates with cell-cell interactions to
+               direct pancreatic tumorigenesis",
+  author    = "Burdziak, Cassandra and Alonso-Curbelo, Direna and Walle, Thomas
+               and Reyes, Jos{\'e} and Barriga, Francisco M and Haviv, Doron
+               and Xie, Yubin and Zhao, Zhen and Zhao, Chujun Julia and Chen,
+               Hsuan-An and Chaudhary, Ojasvi and Masilionis, Ignas and Choo,
+               Zi-Ning and Gao, Vianne and Luan, Wei and Wuest, Alexandra and
+               Ho, Yu-Jui and Wei, Yuhong and Quail, Daniela F and Koche,
+               Richard and Mazutis, Linas and Chalign{\'e}, Ronan and Nawy, Tal
+               and Lowe, Scott W and Pe'er, Dana",
+  abstract  = "The response to tumor-initiating inflammatory and genetic
+               insults can vary among morphologically indistinguishable cells,
+               suggesting as yet uncharacterized roles for epigenetic
+               plasticity during early neoplasia. To investigate the origins
+               and impact of such plasticity, we performed single-cell analyses
+               on normal, inflamed, premalignant, and malignant tissues in
+               autochthonous models of pancreatic cancer. We reproducibly
+               identified heterogeneous cell states that are primed for
+               diverse, late-emerging neoplastic fates and linked these to
+               chromatin remodeling at cell-cell communication loci. Using an
+               inference approach, we revealed signaling gene modules and
+               tissue-level cross-talk, including a neoplasia-driving feedback
+               loop between discrete epithelial and immune cell populations
+               that was functionally validated in mice. Our results uncover a
+               neoplasia-specific tissue-remodeling program that may be
+               exploited for pancreatic cancer interception.",
+  journal   = "Science",
+  publisher = "American Association for the Advancement of Science (AAAS)",
+  volume    =  380,
+  number    =  6645,
+  month     =  may,
+  year      =  2023,
+  language  = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Ariotti2014-lg,
+  title    = "{T} cell memory. Skin-resident memory {CD8⁺} {T} cells trigger a
+              state of tissue-wide pathogen alert",
+  author   = "Ariotti, Silvia and Hogenbirk, Marc A and Dijkgraaf, Feline E and
+              Visser, Lindy L and Hoekstra, Mirjam E and Song, Ji-Ying and
+              Jacobs, Heinz and Haanen, John B and Schumacher, Ton N",
+  abstract = "After an infection, pathogen-specific tissue-resident memory T
+              cells (T(RM) cells) persist in nonlymphoid tissues to provide
+              rapid control upon reinfection, and vaccination strategies that
+              create T(RM) cell pools at sites of pathogen entry are therefore
+              attractive. However, it is not well understood how T(RM) cells
+              provide such pathogen protection. Here, we demonstrate that
+              activated T(RM) cells in mouse skin profoundly alter the local
+              tissue environment by inducing a number of broadly active
+              antiviral and antibacterial genes. This ``pathogen alert'' allows
+              skin T(RM) cells to protect against an antigenically unrelated
+              virus. These data describe a mechanism by which tissue-resident
+              memory CD8(+) T cells protect previously infected sites that is
+              rapid, amplifies the activation of a small number of cells into
+              an organ-wide response, and has the capacity to control escape
+              variants.",
+  journal  = "Science",
+  volume   =  346,
+  number   =  6205,
+  pages    = "101--105",
+  month    =  oct,
+  year     =  2014,
+  keywords = "Mouse study",
+  language = "en"
+}
+
+@ARTICLE{Wang2015-wq,
+  title    = "{CD103+} Tumor Infiltrating Lymphocytes Predict a Favorable
+              Prognosis in Urothelial Cell Carcinoma of the Bladder",
+  author   = "Wang, Bo and Wu, Shaoxu and Zeng, Hong and Liu, Zhuowei and Dong,
+              Wen and He, Wang and Chen, Xu and Dong, Xiaoliang and Zheng,
+              Limin and Lin, Tianxin and Huang, Jian",
+  abstract = "PURPOSE: CD8(+) TILs at different tumor sites have diverse
+              clinical attributes, which might result from distinct tumor
+              microenvironments that promote differentiation into distinct
+              subsets. However, only a few markers have been identified that
+              can define CD8(+) T-cell subsets. CD103 is a marker of tissue
+              resident memory CD8(+) T cells. In this retrospective study we
+              investigated the cellular source and clinical significance of
+              CD103 expression in urothelial cell carcinoma of bladder tissues
+              in situ. MATERIALS AND METHODS: Immunohistochemistry and
+              immunofluorescence were used to identify the cellular source of
+              CD103 in bladder urothelial cell carcinoma tissues. Kaplan-Meier
+              analysis and Cox proportional hazards regression models were
+              applied to estimate overall and recurrence-free survival in 302
+              patients with bladder urothelial cell carcinoma. RESULTS: CD8(+)
+              T cells but not natural killer cells accounted for most CD103
+              expressing cells in bladder urothelial cell carcinoma tissues.
+              Notably CD103(+) cells were predominantly located in intratumor
+              regions rather than in associated stroma (p < 0.0001). The
+              density of intratumor CD103(+) TILs was inversely associated with
+              tumor size (p < 0.0001) and could represent a favorable
+              prognostic predictor of overall and recurrence-free survival (p =
+              0.002 and 0.011, respectively). Moreover, intratumor CD103(+)
+              TILs were positively associated with the expression of cognate
+              ligand E-cadherin in intratumor regions of bladder urothelial
+              cell carcinoma tissues (p = 0.008). CONCLUSIONS: Our findings
+              suggest that CD8(+) T cells might have a significant role in
+              tumor immunity by expressing CD103 in intratumor regions of
+              bladder urothelial cell carcinoma tissues. Intratumor CD103(+)
+              TILs could potentially serve as a prognostic marker in patients
+              with bladder urothelial cell carcinoma.",
+  journal  = "J. Urol.",
+  volume   =  194,
+  number   =  2,
+  pages    = "556--562",
+  month    =  aug,
+  year     =  2015,
+  keywords = "CD8; antigens; carcinoma; lymphocytes; prognosis; tumor
+              infiltrating; urinary bladder;Human study",
+  language = "en"
+}
+
+@ARTICLE{Shi2014-pt,
+  title    = "Inflammatory caspases are innate immune receptors for
+              intracellular {LPS}",
+  author   = "Shi, Jianjin and Zhao, Yue and Wang, Yupeng and Gao, Wenqing and
+              Ding, Jingjin and Li, Peng and Hu, Liyan and Shao, Feng",
+  abstract = "The murine caspase-11 non-canonical inflammasome responds to
+              various bacterial infections. Caspase-11 activation-induced
+              pyroptosis, in response to cytoplasmic lipopolysaccharide (LPS),
+              is critical for endotoxic shock in mice. The mechanism underlying
+              cytosolic LPS sensing and the responsible pattern recognition
+              receptor are unknown. Here we show that human monocytes,
+              epithelial cells and keratinocytes undergo necrosis upon
+              cytoplasmic delivery of LPS. LPS-induced cytotoxicity was
+              mediated by human caspase-4 that could functionally complement
+              murine caspase-11. Human caspase-4 and the mouse homologue
+              caspase-11 (hereafter referred to as caspase-4/11) and also human
+              caspase-5, directly bound to LPS and lipid A with high
+              specificity and affinity. LPS associated with endogenous
+              caspase-11 in pyroptotic cells. Insect-cell purified caspase-4/11
+              underwent oligomerization upon LPS binding, resulting in
+              activation of the caspases. Underacylated lipid IVa and
+              lipopolysaccharide from Rhodobacter sphaeroides (LPS-RS) could
+              bind to caspase-4/11 but failed to induce their oligomerization
+              and activation. LPS binding was mediated by the CARD domain of
+              the caspase. Binding-deficient CARD-domain point mutants did not
+              respond to LPS with oligomerization or activation and failed to
+              induce pyroptosis upon LPS electroporation or bacterial
+              infections. The function of caspase-4/5/11 represents a new mode
+              of pattern recognition in immunity and also an unprecedented
+              means of caspase activation.",
+  journal  = "Nature",
+  volume   =  514,
+  number   =  7521,
+  pages    = "187--192",
+  month    =  oct,
+  year     =  2014,
+  language = "en"
+}
+
+@ARTICLE{Zhou2018-qo,
+  title    = "Alpha-kinase 1 is a cytosolic innate immune receptor for
+              bacterial {ADP-heptose}",
+  author   = "Zhou, Ping and She, Yang and Dong, Na and Li, Peng and He, Huabin
+              and Borio, Alessio and Wu, Qingcui and Lu, Shan and Ding, Xiaojun
+              and Cao, Yong and Xu, Yue and Gao, Wenqing and Dong, Mengqiu and
+              Ding, Jingjin and Wang, Da-Cheng and Zamyatina, Alla and Shao,
+              Feng",
+  abstract = "Immune recognition of pathogen-associated molecular patterns
+              (PAMPs) by pattern recognition receptors often activates
+              proinflammatory NF-$\kappa$B signalling1. Recent studies indicate
+              that the bacterial metabolite D-glycero-$\beta$-D-manno-heptose
+              1,7-bisphosphate (HBP) can activate NF-$\kappa$B signalling in
+              host cytosol2-4, but it is unclear whether HBP is a genuine PAMP
+              and the cognate pattern recognition receptor has not been
+              identified. Here we combined a transposon screen in Yersinia
+              pseudotuberculosis with biochemical analyses and identified
+              ADP-$\beta$-D-manno-heptose (ADP-Hep), which mediates type III
+              secretion system-dependent NF-$\kappa$B activation and cytokine
+              expression. ADP-Hep, but not other heptose metabolites, could
+              enter host cytosol to activate NF-$\kappa$B. A CRISPR-Cas9 screen
+              showed that activation of NF-$\kappa$B by ADP-Hep involves an
+              ALPK1 (alpha-kinase 1)-TIFA (TRAF-interacting protein with
+              forkhead-associated domain) axis. ADP-Hep directly binds the
+              N-terminal domain of ALPK1, stimulating its kinase domain to
+              phosphorylate and activate TIFA. The crystal structure of the
+              N-terminal domain of ALPK1 and ADP-Hep in complex revealed the
+              atomic mechanism of this ligand-receptor recognition process. HBP
+              was transformed by host adenylyltransferases into ADP-heptose
+              7-P, which could activate ALPK1 to a lesser extent than ADP-Hep.
+              ADP-Hep (but not HBP) alone or during bacterial infection induced
+              Alpk1-dependent inflammation in mice. Our findings identify ALPK1
+              and ADP-Hep as a pattern recognition receptor and an effective
+              immunomodulator, respectively.",
+  journal  = "Nature",
+  volume   =  561,
+  number   =  7721,
+  pages    = "122--126",
+  month    =  sep,
+  year     =  2018,
+  language = "en"
+}
+
+@ARTICLE{Li2017-hm,
+  title    = "Ubiquitination and degradation of {GBPs} by a Shigella effector
+              to suppress host defence",
+  author   = "Li, Peng and Jiang, Wei and Yu, Qin and Liu, Wang and Zhou, Ping
+              and Li, Jun and Xu, Junjie and Xu, Bo and Wang, Fengchao and
+              Shao, Feng",
+  abstract = "Interferon-inducible guanylate-binding proteins (GBPs) mediate
+              cell-autonomous antimicrobial defences. Shigella flexneri, a
+              Gram-negative cytoplasmic free-living bacterium that causes
+              bacillary dysentery, encodes a repertoire of highly similar type
+              III secretion system effectors called invasion plasmid antigen Hs
+              (IpaHs). IpaHs represent a large family of bacterial
+              ubiquitin-ligases, but their function is poorly understood. Here
+              we show that S. flexneri infection induces rapid proteasomal
+              degradation of human guanylate binding protein-1 (hGBP1). We
+              performed a transposon screen to identify a mutation in the S.
+              flexneri gene ipaH9.8 that prevented hGBP1 degradation. IpaH9.8
+              targets hGBP1 for degradation via Lys48-linked ubiquitination.
+              IpaH9.8 targets multiple GBPs in the cytoplasm independently of
+              their nucleotide-bound states and their differential function in
+              antibacterial defence, promoting S. flexneri replication and
+              resulting in the death of infected mice. In the absence of
+              IpaH9.8, or when binding of GBPs to IpaH9.8 was disrupted, GBPs
+              such as hGBP1 and mouse GBP2 (mGBP2) translocated to
+              intracellular S. flexneri and inhibited bacterial replication.
+              Like wild-type mice, mutant mice deficient in GBP1-3, 5 and 7
+              succumbed to S. flexneri infection, but unlike wild-type mice,
+              mice deficient in these GBPs were also susceptible to S. flexneri
+              lacking ipaH9.8. The mode of IpaH9.8 action highlights the
+              functional importance of GBPs in antibacterial defences. IpaH9.8
+              and S. flexneri provide a unique system for dissecting
+              GBP-mediated immunity.",
+  journal  = "Nature",
+  volume   =  551,
+  number   =  7680,
+  pages    = "378--383",
+  month    =  nov,
+  year     =  2017,
+  language = "en"
+}
+
+@ARTICLE{Lin2018-tb,
+  title    = "A hybridization-chain-reaction-based method for amplifying
+              immunosignals",
+  author   = "Lin, Rui and Feng, Qiru and Li, Peng and Zhou, Ping and Wang,
+              Ruiyu and Liu, Zhe and Wang, Zhiqiang and Qi, Xiangbing and Tang,
+              Nan and Shao, Feng and Luo, Minmin",
+  abstract = "Immunosignal hybridization chain reaction (isHCR) combines
+              antibody-antigen interactions with hybridization chain reaction
+              (HCR) technology, which results in amplification of
+              immunofluorescence signals by up to two to three orders of
+              magnitude with low background. isHCR's highly modular and easily
+              adaptable design enables the technique to be applied broadly, and
+              we further optimized its use in multiplexed imaging and in
+              state-of-the-art tissue expansion and clearing techniques.",
+  journal  = "Nat. Methods",
+  volume   =  15,
+  number   =  4,
+  pages    = "275--278",
+  month    =  apr,
+  year     =  2018,
+  language = "en"
+}
+
+@ARTICLE{Li2012-dw,
+  title    = "Multiple end joining mechanisms repair a chromosomal {DNA} break
+              in fission yeast",
+  author   = "Li, Peng and Li, Jun and Li, Ming and Dou, Kun and Zhang, Mei-Jun
+              and Suo, Fang and Du, Li-Lin",
+  abstract = "Non-homologous end joining (NHEJ) is an important mechanism for
+              repairing DNA double-strand breaks (DSBs). The fission yeast
+              Schizosaccharomyces pombe has a conserved set of NHEJ factors
+              including Ku, DNA ligase IV, Xlf1, and Pol4. Their roles in
+              chromosomal DSB repair have not been directly characterized
+              before. Here we used HO endonuclease to create a specific
+              chromosomal DSB in fission yeast and examined the imprecise end
+              joining events allowing cells to survive the continuous
+              expression of HO. Our analysis showed that cell survival was
+              significantly reduced in mutants defective for Ku, ligase IV, or
+              Xlf1. Using Sanger sequencing and Illumina sequencing, we have
+              characterized in depth the repair junction sequences in HO
+              survivors. In wild type cells the majority of repair events were
+              one-nucleotide insertions dependent on Ku, ligase IV, and Pol4.
+              Our data suggest that fission yeast Pol4 is important for gap
+              filling during NHEJ repair and can extend primers in the absence
+              of terminal base pairing with the templates. In Ku and ligase IV
+              mutants, the survivors mainly resulted from two types of
+              alternative end joining events: one used microhomology flanking
+              the HO site to delete sequences of hundreds to thousands of base
+              pairs, the other rejoined the break using the HO-generated
+              overhangs but also introduced one- or two-nucleotide base
+              substitutions. The chromosomal repair assay we describe here
+              should provide a useful tool for further exploration of the end
+              joining repair mechanisms in fission yeast.",
+  journal  = "DNA Repair",
+  volume   =  11,
+  number   =  2,
+  pages    = "120--130",
+  month    =  feb,
+  year     =  2012,
+  language = "en"
+}
+
+@ARTICLE{Virassamy2023-on,
+  title    = "Intratumoral {CD8+} {T} cells with a tissue-resident memory
+              phenotype mediate local immunity and immune checkpoint responses
+              in breast cancer",
+  author   = "Virassamy, Balaji and Caramia, Franco and Savas, Peter and Sant,
+              Sneha and Wang, Jianan and Christo, Susan N and Byrne, Ann and
+              Clarke, Kylie and Brown, Emmaline and Teo, Zhi Ling and von
+              Scheidt, Bianca and Freestone, David and Gandolfo, Luke C and
+              Weber, Karsten and Teply-Szymanski, Julia and Li, Ran and Luen,
+              Stephen J and Denkert, Carsten and Loibl, Sibylle and Lucas,
+              Olivia and Swanton, Charles and Speed, Terence P and Darcy,
+              Phillip K and Neeson, Paul J and Mackay, Laura K and Loi, Sherene",
+  abstract = "CD8+ tumor-infiltrating lymphocytes with a tissue-resident memory
+              T (TRM) cell phenotype are associated with favorable prognosis in
+              patients with triple-negative breast cancer (TNBC). However, the
+              relative contribution of CD8+ TRM cells to anti-tumor immunity
+              and immune checkpoint blockade efficacy in breast cancer remains
+              unknown. Here, we show that intratumoral CD8+ T cells in murine
+              mammary tumors transcriptionally resemble those from TNBC
+              patients. Phenotypic and transcriptional studies established two
+              intratumoral sub-populations: one more enriched in markers of
+              terminal exhaustion (TEX-like) and the other with a bona fide
+              resident phenotype (TRM-like). Treatment with anti-PD-1 and
+              anti-CTLA-4 therapy resulted in expansion of these intratumoral
+              populations, with the TRM-like subset displaying significantly
+              enhanced cytotoxic capacity. TRM-like CD8+ T cells could also
+              provide local immune protection against tumor rechallenge and a
+              TRM gene signature extracted from tumor-free tissue was
+              significantly associated with improved clinical outcomes in TNBC
+              patients treated with checkpoint inhibitors.",
+  journal  = "Cancer Cell",
+  month    =  feb,
+  year     =  2023,
+  keywords = "CTLA-4; PD-1; cancer immune surveillance; cancer immunotherapy;
+              immune checkpoint blockade; intratumoral CD8(+) T cells;
+              tissue-resident memory cells; triple-negative breast cancer;
+              tumor immunity; tumor infiltrating lymphocytes;Mouse study",
+  language = "en"
+}
+
+@ARTICLE{Yang2021-ds,
+  title    = "Tissue-specific differentiation of {CD8+} resident memory {T}
+              cells",
+  author   = "Yang, Kun and Kallies, Axel",
+  abstract = "CD8+ tissue-resident memory T (TRM) cells play crucial roles in
+              defense against infections and cancer and have been implicated in
+              autoimmune diseases such as psoriasis. In mice and humans, they
+              exist in all nonlymphoid organs and share key characteristics
+              across all tissues, including downregulation of tissue egress and
+              lymph node homing pathways. However, recent studies demonstrate
+              considerable heterogeneity across TRM cells lodged in different
+              tissues - linked to the activity of tissue-specific molecules,
+              including chemokines, cytokines, and transcription factors.
+              Current work indicates that transforming growth factor
+              (TGF)-$\beta$ plays a major role in generating TRM heterogeneity
+              at phenotypic and functional levels. Here, we review common and
+              unique features of TRM cells in different tissues and discuss
+              putative strategies aimed at harnessing TRM cells for
+              site-specific protection against infectious and malignant
+              diseases.",
+  journal  = "Trends Immunol.",
+  volume   =  42,
+  number   =  10,
+  pages    = "876--890",
+  month    =  oct,
+  year     =  2021,
+  keywords = "chemokine receptors; integrins; nonlymphoid tissue;
+              tissue-resident memory T cells; transcription factors;
+              transforming growth factor $\beta$;Review",
+  language = "en"
+}
+
+@ARTICLE{Gerlach2011-tz,
+  title    = "The descent of memory {T} cells",
+  author   = "Gerlach, Carmen and van Heijst, Jeroen W J and Schumacher, Ton N
+              M",
+  abstract = "Our T cell repertoire is shaped by antigen encounter. From a
+              naive T cell pool that contains millions of different T cells
+              with unknown specificities, pathogen infection leads to selection
+              of those T cells that can detect pathogen-derived antigens.
+              Following clearance of infection, a population of memory T cells
+              remains and protects the individual from severe reinfection. A
+              central question in the field has been how the generation of
+              long-lived memory T cells, versus short-lived (``terminally
+              differentiated'') T cells, is controlled. In this review we
+              discuss the models that have been put forward to explain the
+              generation of memory T cells after infection and the experimental
+              evidence supporting these hypotheses. Based on the available data
+              we propose a new model that stipulates that during immune
+              responses T cells do not acquire different fates that determine
+              their subsequent long-term survival but rather T cells assume
+              different states that simply reflect the likelihood of future
+              survival, states that can still be modulated by external signals.",
+  journal  = "Ann. N. Y. Acad. Sci.",
+  volume   =  1217,
+  pages    = "139--153",
+  month    =  jan,
+  year     =  2011,
+  keywords = "Mouse study",
+  language = "en"
+}
+
 @ARTICLE{Stackowicz2019-gb,
   title       = "Mouse Models and Tools for the in vivo Study of Neutrophils",
   author      = "Stackowicz, Julien and J{\"o}nsson, Friederike and Reber,
@@ -473,51 +1147,6 @@
   original_id = "57903e11-369c-02ff-84ad-9a92c5dc38dd"
 }
 
-@ARTICLE{Dawod2020-or,
-  title       = "Myeloid-derived suppressor cell depletion therapy targets
-                 {IL-17A-expressing} mammary carcinomas",
-  author      = "Dawod, Bassel and Liu, Jinghua and Gebremeskel, Simon and Yan,
-                 Chi and Sappong, Antonia and Johnston, Brent and Hoskin, David
-                 W and Marshall, Jean S and Wang, Jun",
-  abstract    = "Triple-negative breast cancer (TNBC) is an invasive subtype of
-                 breast cancer but paradoxically associated with increased
-                 tumor-infiltrating leukocytes. The molecular and cellular
-                 mechanisms underlying TNBC immunobiology are incompletely
-                 understood. Interleukin (IL)-17A is a pro-inflammatory
-                 cytokine that has both pro- and anti-tumor effects and found
-                 in 40-80\% of TNBC samples. We report here that IL-17A mRNA
-                 and protein are detectable in some human TNBC cell lines and
-                 further upregulated by IL-23 and LPS stimulation. Furthermore,
-                 the impact of tumor-derived IL-17A in host immune response and
-                 tumor growth was examined using murine TNBC 4T1 mammary
-                 carcinoma cells transduced with an adenoviral vector
-                 expressing IL-17A (AdIL-17A) or control vector (Addl).
-                 Compared to Addl-transduction, AdIL-17A-transduction enhanced
-                 4T1 tumor growth and lung metastasis in vivo, which was
-                 associated with a marked expansion of myeloid-derived
-                 suppressor cells (MDSCs). However, AdIL-17A-transduction also
-                 induced strong organ-specific and time-dependent immune
-                 activation indicated by dynamic changes of NK cells, B cells,
-                 CD4, and CD8 T cells in peripheral blood, lung, and tumor
-                 site, as well as the plasma levels of IFN$\gamma$. Such
-                 findings highlight that tumor-associated IL-17A induces
-                 concurrent immune activation and immune suppression.
-                 Administration of anti-Gr1 or anti-G-CSF antibody effectively
-                 depleted MDSCs in vivo, markedly reducing the growth of
-                 AdIL-17A-transduced 4T1 tumors, and eliminating lung
-                 metastasis. Collectively, our study demonstrates that MDSC
-                 depletion is an effective and practical approach for treating
-                 IL-17A-enriched mammary carcinomas.",
-  journal     = "Sci. Rep.",
-  volume      =  10,
-  number      =  1,
-  pages       = "13343",
-  month       =  aug,
-  year        =  2020,
-  language    = "en",
-  original_id = "48b2be91-4d6d-0d9a-8919-fee5fea4fe44"
-}
-
 @ARTICLE{Ouzounova2017-ff,
   title       = "Monocytic and granulocytic myeloid derived suppressor cells
                  differentially regulate spatiotemporal tumour plasticity
@@ -554,104 +1183,6 @@
   year        =  2017,
   language    = "en",
   original_id = "c082a089-f4f8-0f49-b4c5-f1e975faa17b"
-}
-
-@ARTICLE{Bosiljcic2019-en,
-  title       = "Targeting myeloid-derived suppressor cells in combination with
-                 primary mammary tumor resection reduces metastatic growth in
-                 the lungs",
-  author      = "Bosiljcic, Momir and Cederberg, Rachel A and Hamilton, Melisa
-                 J and LePard, Nancy E and Harbourne, Bryant T and Collier,
-                 Jenna L and Halvorsen, Elizabeth C and Shi, Rocky and Franks,
-                 S Elizabeth and Kim, Ada Y and Ban{\'a}th, Judit P and Hamer,
-                 Mark and Rossi, Fabio M and Bennewith, Kevin L",
-  abstract    = "BACKGROUND: Solid tumors produce proteins that can induce the
-                 accumulation of bone marrow-derived cells in various tissues,
-                 and these cells can enhance metastatic tumor growth by several
-                 mechanisms. 4T1 murine mammary tumors are known to produce
-                 granulocyte colony-stimulating factor (G-CSF) and increase the
-                 numbers of immunosuppressive CD11b+Gr1+ myeloid-derived
-                 suppressor cells (MDSCs) in tissues such as the spleen and
-                 lungs of tumor-bearing mice. While surgical resection of
-                 primary tumors decreases MDSC levels in the spleen, the
-                 longevity and impact of MDSCs and other immune cells in the
-                 lungs after tumor resection have been less studied. METHODS:
-                 We used mass cytometry time of flight (CyTOF) and flow
-                 cytometry to quantify MDSCs in the spleen, peripheral blood,
-                 and lungs of mice bearing orthotopic murine mammary tumors. We
-                 also tested the effect of primary tumor resection and/or
-                 gemcitabine treatment on the levels of MDSCs, other immune
-                 suppressor and effector cells, and metastatic tumor cells in
-                 the lungs. RESULTS: We have found that, similar to mice with
-                 4T1 tumors, mice bearing metastatic 4T07 tumors also exhibit
-                 accumulation of CD11b+Gr1+ MDSCs in the spleen and lungs,
-                 while tissues of mice with non-metastatic 67NR tumors do not
-                 contain MDSCs. Mice with orthotopically implanted 4T1 tumors
-                 have increased granulocytic (G-) MDSCs, monocytic (M-) MDSCs,
-                 macrophages, eosinophils, and NK cells in the lungs. Resection
-                 of primary 4T1 tumors decreases G-MDSCs, M-MDSCs, and
-                 macrophages in the lungs within 48 h, but significant numbers
-                 of functional immunosuppressive G-MDSCs persist in the lungs
-                 for 2 weeks after tumor resection, indicative of an
-                 environment that can promote metastatic tumor growth. The
-                 chemotherapeutic agent gemcitabine depletes G-MDSCs, M-MDSCs,
-                 macrophages, and eosinophils in the lungs of 4T1 tumor-bearing
-                 mice, and we found that treating mice with gemcitabine after
-                 primary tumor resection decreases residual G-MDSCs in the
-                 lungs and decreases subsequent metastatic growth. CONCLUSIONS:
-                 Our data support the development of therapeutic strategies to
-                 target MDSCs and to monitor MDSC levels before and after
-                 primary tumor resection to enhance the effectiveness of
-                 immune-based therapies and improve the treatment of metastatic
-                 breast cancer in the clinic.",
-  journal     = "Breast Cancer Res.",
-  volume      =  21,
-  number      =  1,
-  pages       = "103",
-  month       =  sep,
-  year        =  2019,
-  keywords    = "4T07; 4T1; 67NR; Eosinophils; Gemcitabine; Macrophages;
-                 Metastasis; Myeloid-derived suppressor cells; Tumor resection",
-  language    = "en",
-  original_id = "a01259cc-9eec-0efc-b67e-2b396d3afe6b"
-}
-
-@ARTICLE{Tacconi2021-ib,
-  title       = "{CD169+} lymph node macrophages have protective functions in
-                 mouse breast cancer metastasis",
-  author      = "Tacconi, Carlotta and Commerford, Catharina D and Dieterich,
-                 Lothar C and Schwager, Simon and He, Yuliang and Ikenberg,
-                 Kristian and Friebel, Ekaterina and Becher, Burkhard and
-                 Tugues, S{\`o}nia and Detmar, Michael",
-  abstract    = "Although the contribution of macrophages to metastasis is
-                 widely studied in primary tumors, the involvement of
-                 macrophages in tumor-draining lymph nodes (LNs) in this
-                 process is less clear. We find CD169+ macrophages as the
-                 predominant macrophage subtype in naive LNs, which undergo
-                 proliferative expansion in response to tumor stimuli. CD169+
-                 LN macrophage depletion, using an anti-CSF-1R antibody or
-                 clodronate-loaded liposomes, leads to increased metastatic
-                 burden in two mouse breast cancer models. The expansion of
-                 CD169+ macrophages is tightly connected to B cell expansion in
-                 tumor-draining LNs, and B cell depletion abrogates the effect
-                 of CD169+ macrophage absence on metastasis, indicating that
-                 the CD169+ macrophage anti-metastatic effects require B cell
-                 presence. These results reveal a protective role of CD169+ LN
-                 macrophages in breast cancer metastasis and raise caution for
-                 the use of drugs aiming at the depletion of tumor-associated
-                 macrophages, which might simultaneously deplete macrophages in
-                 tumor-draining LNs.",
-  journal     = "Cell Rep.",
-  volume      =  35,
-  number      =  2,
-  pages       = "108993",
-  month       =  apr,
-  year        =  2021,
-  keywords    = "CD169+ macrophages; breast cancer metastasis; distant organ
-                 metastasis; lymph node macrophages; tumor-associated
-                 macrophages; tumor-draining lymph node",
-  language    = "en",
-  original_id = "79fb70b1-c278-0f80-af02-42f563e36698"
 }
 
 @ARTICLE{Sunderkotter2004-bj,
@@ -1178,47 +1709,6 @@
   language = "en"
 }
 
-@ARTICLE{Wang2022-ln,
-  title    = "Mesenchymal stem cells attenuate acute lung injury in mice partly
-              by suppressing alveolar macrophage activation in a
-              {PGE2-dependent} manner",
-  author   = "Wang, Gaojian and Zhang, Yaping and Hu, Nianqiang and Liu, Qinxue
-              and Ma, Fengjie and Xie, Junran",
-  abstract = "Mesenchymal stem cells (MSCs) have been demonstrated to attenuate
-              acute lung injury (ALI). We also found that they can suppress the
-              activation of alveolar macrophages (AMs), which can partly
-              account for their therapeutic effects. MSCs do not inherently own
-              immunosuppressive effects, when co-cultured with inflammatory
-              immune cells, MSCs can be activated by inflammatory cytokines and
-              meanwhile exert immunosuppressive effects. In order to further
-              research, RNA sequencing (RNA-seq) of MSCs cultured before and
-              after co-culturing with activated macrophages was performed. The
-              data suggested a total of 5268 differentially expressed genes
-              (DEGs) along the process. We used the data of 2754 upregulated
-              DEGs to develop a signaling network of genes and the
-              transcription factors targeting them in order to predict the
-              altered functions of MSCs after exposure to inflammatory stimuli.
-              This constructed network revealed some critical target genes and
-              potential roles of MSCs under inflammatory conditions. According
-              to the network, Ptgs2 was assumed to be an important gene
-              participating in the immunosuppressive effects of MSCs. We also
-              identified significant increases in the expression of COX2
-              protein and the secretion of PGE2 from MSCs. The use of the COX2
-              inhibitor NS-398 restrained the secretion of PGE2 and reversed
-              the suppression of macrophage activation by MSCs in vitro. In
-              addition, a selective antagonist of PGE2 binding receptor (EP4
-              receptor), GW627368X, also reversed the inhibitory effects of
-              MSCs on AMs and the protective effects in ALI mouse. In summary,
-              the therapeutic effects of MSCs on ALI partly occur through
-              suppressing AM activation via PGE2 binding to EP4 receptor.",
-  journal  = "Inflammation",
-  month    =  jun,
-  year     =  2022,
-  keywords = "Acute lung injury; Alveolar macrophage; Mesenchymal stem cell;
-              Prostaglandin E2; RNA-sequence",
-  language = "en"
-}
-
 @ARTICLE{Mohamed2020-ip,
   title    = "The Unfolded Protein Response Mediator {PERK} Governs Myeloid
               {Cell-Driven} Immunosuppression in Tumors through Inhibition of
@@ -1308,26 +1798,6 @@
   language = "en"
 }
 
-@ARTICLE{Potter1985-bt,
-  title    = "History of the {BALB/c} family",
-  author   = "Potter, M",
-  journal  = "Curr. Top. Microbiol. Immunol.",
-  volume   =  122,
-  pages    = "1--5",
-  year     =  1985,
-  language = "en"
-}
-
-@ARTICLE{Rogers1985-mf,
-  title    = "Qa2 expression in {BALB/c} sublines and a {BALB/cLAC} tumor",
-  author   = "Rogers, M J and Galetto, G and Matthai, R and Potter, M",
-  journal  = "Curr. Top. Microbiol. Immunol.",
-  volume   =  122,
-  pages    = "43--49",
-  year     =  1985,
-  language = "en"
-}
-
 @ARTICLE{Da_Silva2017-ah,
   title    = "Reduced expression of the murine {HLA-G} homolog Qa-2 is
               associated with malignancy, epithelial-mesenchymal transition and
@@ -1397,27 +1867,6 @@
   year     =  1978
 }
 
-@ARTICLE{Steinmetz1983-uf,
-  title    = "Genes of the major histocompatibility complex in mouse and man",
-  author   = "Steinmetz, M and Hood, L",
-  abstract = "The genes of the major histocompatibility complex code for
-              cell-surface molecules that play an important role in the
-              generation of the immune response. These genes and molecules have
-              been studied intensively over the last five decades by
-              geneticists, biochemists, and immunologists, but only recently
-              has the isolation of the genes by molecular biologists
-              facilitated their precise characterization. Many surprising
-              findings have been made concerning their structure, multiplicity,
-              organization, function, and evolution.",
-  journal  = "Science",
-  volume   =  222,
-  number   =  4625,
-  pages    = "727--733",
-  month    =  nov,
-  year     =  1983,
-  language = "en"
-}
-
 @ARTICLE{Sundaram2017-rd,
   title    = "The Sec61 translocon limits {IRE1$\alpha$} signaling during the
               unfolded protein response",
@@ -1482,52 +1931,6 @@
   year     =  2018,
   keywords = "ISRIB; activated transcription factors; protein folding; protein
               translation; proteostasis; siRNA-based screening",
-  language = "en"
-}
-
-@ARTICLE{Smith2018-ti,
-  title    = "Regulation of cytokine production by the unfolded protein
-              response; Implications for infection and autoimmunity",
-  author   = "Smith, Judith A",
-  abstract = "Protein folding in the endoplasmic reticulum (ER) is an essential
-              cell function. To safeguard this process in the face of
-              environmental threats and internal stressors, cells mount an
-              evolutionarily conserved response known as the unfolded protein
-              response (UPR). Invading pathogens induce cellular stress that
-              impacts protein folding, thus the UPR is well situated to sense
-              danger and contribute to immune responses. Cytokines
-              (inflammatory cytokines and interferons) critically mediate host
-              defense against pathogens, but when aberrantly produced, may also
-              drive pathologic inflammation. The UPR influences cytokine
-              production on multiple levels, from stimulation of pattern
-              recognition receptors, to modulation of inflammatory signaling
-              pathways, and the regulation of cytokine transcription factors.
-              This review will focus on the mechanisms underlying cytokine
-              regulation by the UPR, and the repercussions of this relationship
-              for infection and autoimmune/autoinflammatory diseases.
-              Interrogation of viral and bacterial infections has revealed
-              increasing numbers of examples where pathogens induce or modulate
-              the UPR and implicated UPR-modulated cytokines in host response.
-              The flip side of this coin, the UPR/ER stress responses have been
-              increasingly recognized in a variety of autoimmune and
-              inflammatory diseases. Examples include monogenic disorders of ER
-              function, diseases linked to misfolding protein (HLA-B27 and
-              spondyloarthritis), diseases directly implicating UPR and
-              autophagy genes (inflammatory bowel disease), and autoimmune
-              diseases targeting highly secretory cells (e.g., diabetes). Given
-              the burgeoning interest in pharmacologically targeting the UPR,
-              greater discernment is needed regarding how the UPR regulates
-              cytokine production during specific infections and autoimmune
-              processes, and the relative place of this interaction in
-              pathogenesis.",
-  journal  = "Front. Immunol.",
-  volume   =  9,
-  pages    = "422",
-  month    =  mar,
-  year     =  2018,
-  keywords = "autoimmunity; autoinflammatory disease; bacteria; cytokine
-              regulation; endoplasmic reticulum stress; infection; unfolded
-              protein response; virus",
   language = "en"
 }
 
@@ -1953,39 +2356,6 @@
   language = "en"
 }
 
-% The entry below contains non-ASCII chars that could not be converted
-% to a LaTeX equivalent.
-@ARTICLE{Ariotti2014-lg,
-  title    = "{T} cell memory. Skin-resident memory {CD8⁺} {T} cells trigger a
-              state of tissue-wide pathogen alert",
-  author   = "Ariotti, Silvia and Hogenbirk, Marc A and Dijkgraaf, Feline E and
-              Visser, Lindy L and Hoekstra, Mirjam E and Song, Ji-Ying and
-              Jacobs, Heinz and Haanen, John B and Schumacher, Ton N",
-  abstract = "After an infection, pathogen-specific tissue-resident memory T
-              cells (T(RM) cells) persist in nonlymphoid tissues to provide
-              rapid control upon reinfection, and vaccination strategies that
-              create T(RM) cell pools at sites of pathogen entry are therefore
-              attractive. However, it is not well understood how T(RM) cells
-              provide such pathogen protection. Here, we demonstrate that
-              activated T(RM) cells in mouse skin profoundly alter the local
-              tissue environment by inducing a number of broadly active
-              antiviral and antibacterial genes. This ``pathogen alert'' allows
-              skin T(RM) cells to protect against an antigenically unrelated
-              virus. These data describe a mechanism by which tissue-resident
-              memory CD8(+) T cells protect previously infected sites that is
-              rapid, amplifies the activation of a small number of cells into
-              an organ-wide response, and has the capacity to control escape
-              variants.",
-  journal  = "Science",
-  volume   =  346,
-  number   =  6205,
-  pages    = "101--105",
-  month    =  oct,
-  year     =  2014,
-  keywords = "Mouse study",
-  language = "en"
-}
-
 @ARTICLE{Djenidi2015-pt,
   title    = "{CD8+CD103+} tumor-infiltrating lymphocytes are tumor-specific
               tissue-resident memory {T} cells and a prognostic factor for
@@ -2022,53 +2392,6 @@
   month    =  apr,
   year     =  2015,
   keywords = "Human study",
-  language = "en"
-}
-
-@ARTICLE{Wang2015-wq,
-  title    = "{CD103+} Tumor Infiltrating Lymphocytes Predict a Favorable
-              Prognosis in Urothelial Cell Carcinoma of the Bladder",
-  author   = "Wang, Bo and Wu, Shaoxu and Zeng, Hong and Liu, Zhuowei and Dong,
-              Wen and He, Wang and Chen, Xu and Dong, Xiaoliang and Zheng,
-              Limin and Lin, Tianxin and Huang, Jian",
-  abstract = "PURPOSE: CD8(+) TILs at different tumor sites have diverse
-              clinical attributes, which might result from distinct tumor
-              microenvironments that promote differentiation into distinct
-              subsets. However, only a few markers have been identified that
-              can define CD8(+) T-cell subsets. CD103 is a marker of tissue
-              resident memory CD8(+) T cells. In this retrospective study we
-              investigated the cellular source and clinical significance of
-              CD103 expression in urothelial cell carcinoma of bladder tissues
-              in situ. MATERIALS AND METHODS: Immunohistochemistry and
-              immunofluorescence were used to identify the cellular source of
-              CD103 in bladder urothelial cell carcinoma tissues. Kaplan-Meier
-              analysis and Cox proportional hazards regression models were
-              applied to estimate overall and recurrence-free survival in 302
-              patients with bladder urothelial cell carcinoma. RESULTS: CD8(+)
-              T cells but not natural killer cells accounted for most CD103
-              expressing cells in bladder urothelial cell carcinoma tissues.
-              Notably CD103(+) cells were predominantly located in intratumor
-              regions rather than in associated stroma (p < 0.0001). The
-              density of intratumor CD103(+) TILs was inversely associated with
-              tumor size (p < 0.0001) and could represent a favorable
-              prognostic predictor of overall and recurrence-free survival (p =
-              0.002 and 0.011, respectively). Moreover, intratumor CD103(+)
-              TILs were positively associated with the expression of cognate
-              ligand E-cadherin in intratumor regions of bladder urothelial
-              cell carcinoma tissues (p = 0.008). CONCLUSIONS: Our findings
-              suggest that CD8(+) T cells might have a significant role in
-              tumor immunity by expressing CD103 in intratumor regions of
-              bladder urothelial cell carcinoma tissues. Intratumor CD103(+)
-              TILs could potentially serve as a prognostic marker in patients
-              with bladder urothelial cell carcinoma.",
-  journal  = "J. Urol.",
-  volume   =  194,
-  number   =  2,
-  pages    = "556--562",
-  month    =  aug,
-  year     =  2015,
-  keywords = "CD8; antigens; carcinoma; lymphocytes; prognosis; tumor
-              infiltrating; urinary bladder;Human study",
   language = "en"
 }
 
@@ -4904,45 +5227,6 @@
   language = "en"
 }
 
-@ARTICLE{Shi2014-pt,
-  title    = "Inflammatory caspases are innate immune receptors for
-              intracellular {LPS}",
-  author   = "Shi, Jianjin and Zhao, Yue and Wang, Yupeng and Gao, Wenqing and
-              Ding, Jingjin and Li, Peng and Hu, Liyan and Shao, Feng",
-  abstract = "The murine caspase-11 non-canonical inflammasome responds to
-              various bacterial infections. Caspase-11 activation-induced
-              pyroptosis, in response to cytoplasmic lipopolysaccharide (LPS),
-              is critical for endotoxic shock in mice. The mechanism underlying
-              cytosolic LPS sensing and the responsible pattern recognition
-              receptor are unknown. Here we show that human monocytes,
-              epithelial cells and keratinocytes undergo necrosis upon
-              cytoplasmic delivery of LPS. LPS-induced cytotoxicity was
-              mediated by human caspase-4 that could functionally complement
-              murine caspase-11. Human caspase-4 and the mouse homologue
-              caspase-11 (hereafter referred to as caspase-4/11) and also human
-              caspase-5, directly bound to LPS and lipid A with high
-              specificity and affinity. LPS associated with endogenous
-              caspase-11 in pyroptotic cells. Insect-cell purified caspase-4/11
-              underwent oligomerization upon LPS binding, resulting in
-              activation of the caspases. Underacylated lipid IVa and
-              lipopolysaccharide from Rhodobacter sphaeroides (LPS-RS) could
-              bind to caspase-4/11 but failed to induce their oligomerization
-              and activation. LPS binding was mediated by the CARD domain of
-              the caspase. Binding-deficient CARD-domain point mutants did not
-              respond to LPS with oligomerization or activation and failed to
-              induce pyroptosis upon LPS electroporation or bacterial
-              infections. The function of caspase-4/5/11 represents a new mode
-              of pattern recognition in immunity and also an unprecedented
-              means of caspase activation.",
-  journal  = "Nature",
-  volume   =  514,
-  number   =  7521,
-  pages    = "187--192",
-  month    =  oct,
-  year     =  2014,
-  language = "en"
-}
-
 @ARTICLE{Sarhan2018-ep,
   title    = "Caspase-8 induces cleavage of gasdermin {D} to elicit pyroptosis
               during Yersinia infection",
@@ -4978,90 +5262,6 @@
   month    =  nov,
   year     =  2018,
   keywords = "TAK1; Yersinia; caspase-8; gasdermin; pyroptosis",
-  language = "en"
-}
-
-@ARTICLE{Zhou2018-qo,
-  title    = "Alpha-kinase 1 is a cytosolic innate immune receptor for
-              bacterial {ADP-heptose}",
-  author   = "Zhou, Ping and She, Yang and Dong, Na and Li, Peng and He, Huabin
-              and Borio, Alessio and Wu, Qingcui and Lu, Shan and Ding, Xiaojun
-              and Cao, Yong and Xu, Yue and Gao, Wenqing and Dong, Mengqiu and
-              Ding, Jingjin and Wang, Da-Cheng and Zamyatina, Alla and Shao,
-              Feng",
-  abstract = "Immune recognition of pathogen-associated molecular patterns
-              (PAMPs) by pattern recognition receptors often activates
-              proinflammatory NF-$\kappa$B signalling1. Recent studies indicate
-              that the bacterial metabolite D-glycero-$\beta$-D-manno-heptose
-              1,7-bisphosphate (HBP) can activate NF-$\kappa$B signalling in
-              host cytosol2-4, but it is unclear whether HBP is a genuine PAMP
-              and the cognate pattern recognition receptor has not been
-              identified. Here we combined a transposon screen in Yersinia
-              pseudotuberculosis with biochemical analyses and identified
-              ADP-$\beta$-D-manno-heptose (ADP-Hep), which mediates type III
-              secretion system-dependent NF-$\kappa$B activation and cytokine
-              expression. ADP-Hep, but not other heptose metabolites, could
-              enter host cytosol to activate NF-$\kappa$B. A CRISPR-Cas9 screen
-              showed that activation of NF-$\kappa$B by ADP-Hep involves an
-              ALPK1 (alpha-kinase 1)-TIFA (TRAF-interacting protein with
-              forkhead-associated domain) axis. ADP-Hep directly binds the
-              N-terminal domain of ALPK1, stimulating its kinase domain to
-              phosphorylate and activate TIFA. The crystal structure of the
-              N-terminal domain of ALPK1 and ADP-Hep in complex revealed the
-              atomic mechanism of this ligand-receptor recognition process. HBP
-              was transformed by host adenylyltransferases into ADP-heptose
-              7-P, which could activate ALPK1 to a lesser extent than ADP-Hep.
-              ADP-Hep (but not HBP) alone or during bacterial infection induced
-              Alpk1-dependent inflammation in mice. Our findings identify ALPK1
-              and ADP-Hep as a pattern recognition receptor and an effective
-              immunomodulator, respectively.",
-  journal  = "Nature",
-  volume   =  561,
-  number   =  7721,
-  pages    = "122--126",
-  month    =  sep,
-  year     =  2018,
-  language = "en"
-}
-
-@ARTICLE{Li2017-hm,
-  title    = "Ubiquitination and degradation of {GBPs} by a Shigella effector
-              to suppress host defence",
-  author   = "Li, Peng and Jiang, Wei and Yu, Qin and Liu, Wang and Zhou, Ping
-              and Li, Jun and Xu, Junjie and Xu, Bo and Wang, Fengchao and
-              Shao, Feng",
-  abstract = "Interferon-inducible guanylate-binding proteins (GBPs) mediate
-              cell-autonomous antimicrobial defences. Shigella flexneri, a
-              Gram-negative cytoplasmic free-living bacterium that causes
-              bacillary dysentery, encodes a repertoire of highly similar type
-              III secretion system effectors called invasion plasmid antigen Hs
-              (IpaHs). IpaHs represent a large family of bacterial
-              ubiquitin-ligases, but their function is poorly understood. Here
-              we show that S. flexneri infection induces rapid proteasomal
-              degradation of human guanylate binding protein-1 (hGBP1). We
-              performed a transposon screen to identify a mutation in the S.
-              flexneri gene ipaH9.8 that prevented hGBP1 degradation. IpaH9.8
-              targets hGBP1 for degradation via Lys48-linked ubiquitination.
-              IpaH9.8 targets multiple GBPs in the cytoplasm independently of
-              their nucleotide-bound states and their differential function in
-              antibacterial defence, promoting S. flexneri replication and
-              resulting in the death of infected mice. In the absence of
-              IpaH9.8, or when binding of GBPs to IpaH9.8 was disrupted, GBPs
-              such as hGBP1 and mouse GBP2 (mGBP2) translocated to
-              intracellular S. flexneri and inhibited bacterial replication.
-              Like wild-type mice, mutant mice deficient in GBP1-3, 5 and 7
-              succumbed to S. flexneri infection, but unlike wild-type mice,
-              mice deficient in these GBPs were also susceptible to S. flexneri
-              lacking ipaH9.8. The mode of IpaH9.8 action highlights the
-              functional importance of GBPs in antibacterial defences. IpaH9.8
-              and S. flexneri provide a unique system for dissecting
-              GBP-mediated immunity.",
-  journal  = "Nature",
-  volume   =  551,
-  number   =  7680,
-  pages    = "378--383",
-  month    =  nov,
-  year     =  2017,
   language = "en"
 }
 
@@ -5112,29 +5312,6 @@
   pages    = "121--125",
   month    =  nov,
   year     =  2020,
-  language = "en"
-}
-
-@ARTICLE{Lin2018-tb,
-  title    = "A hybridization-chain-reaction-based method for amplifying
-              immunosignals",
-  author   = "Lin, Rui and Feng, Qiru and Li, Peng and Zhou, Ping and Wang,
-              Ruiyu and Liu, Zhe and Wang, Zhiqiang and Qi, Xiangbing and Tang,
-              Nan and Shao, Feng and Luo, Minmin",
-  abstract = "Immunosignal hybridization chain reaction (isHCR) combines
-              antibody-antigen interactions with hybridization chain reaction
-              (HCR) technology, which results in amplification of
-              immunofluorescence signals by up to two to three orders of
-              magnitude with low background. isHCR's highly modular and easily
-              adaptable design enables the technique to be applied broadly, and
-              we further optimized its use in multiplexed imaging and in
-              state-of-the-art tissue expansion and clearing techniques.",
-  journal  = "Nat. Methods",
-  volume   =  15,
-  number   =  4,
-  pages    = "275--278",
-  month    =  apr,
-  year     =  2018,
   language = "en"
 }
 
@@ -5319,45 +5496,6 @@
   journal   = "Cell discovery",
   publisher = "nature.com",
   year      =  2018
-}
-
-@ARTICLE{Li2012-dw,
-  title    = "Multiple end joining mechanisms repair a chromosomal {DNA} break
-              in fission yeast",
-  author   = "Li, Peng and Li, Jun and Li, Ming and Dou, Kun and Zhang, Mei-Jun
-              and Suo, Fang and Du, Li-Lin",
-  abstract = "Non-homologous end joining (NHEJ) is an important mechanism for
-              repairing DNA double-strand breaks (DSBs). The fission yeast
-              Schizosaccharomyces pombe has a conserved set of NHEJ factors
-              including Ku, DNA ligase IV, Xlf1, and Pol4. Their roles in
-              chromosomal DSB repair have not been directly characterized
-              before. Here we used HO endonuclease to create a specific
-              chromosomal DSB in fission yeast and examined the imprecise end
-              joining events allowing cells to survive the continuous
-              expression of HO. Our analysis showed that cell survival was
-              significantly reduced in mutants defective for Ku, ligase IV, or
-              Xlf1. Using Sanger sequencing and Illumina sequencing, we have
-              characterized in depth the repair junction sequences in HO
-              survivors. In wild type cells the majority of repair events were
-              one-nucleotide insertions dependent on Ku, ligase IV, and Pol4.
-              Our data suggest that fission yeast Pol4 is important for gap
-              filling during NHEJ repair and can extend primers in the absence
-              of terminal base pairing with the templates. In Ku and ligase IV
-              mutants, the survivors mainly resulted from two types of
-              alternative end joining events: one used microhomology flanking
-              the HO site to delete sequences of hundreds to thousands of base
-              pairs, the other rejoined the break using the HO-generated
-              overhangs but also introduced one- or two-nucleotide base
-              substitutions. The chromosomal repair assay we describe here
-              should provide a useful tool for further exploration of the end
-              joining repair mechanisms in fission yeast.",
-  journal  = "DNA Repair",
-  volume   =  11,
-  number   =  2,
-  pages    = "120--130",
-  month    =  feb,
-  year     =  2012,
-  language = "en"
 }
 
 @ARTICLE{Mogilenko2021-zd,
@@ -5610,46 +5748,6 @@
   keywords  = "Review"
 }
 
-@ARTICLE{Virassamy2023-on,
-  title    = "Intratumoral {CD8+} {T} cells with a tissue-resident memory
-              phenotype mediate local immunity and immune checkpoint responses
-              in breast cancer",
-  author   = "Virassamy, Balaji and Caramia, Franco and Savas, Peter and Sant,
-              Sneha and Wang, Jianan and Christo, Susan N and Byrne, Ann and
-              Clarke, Kylie and Brown, Emmaline and Teo, Zhi Ling and von
-              Scheidt, Bianca and Freestone, David and Gandolfo, Luke C and
-              Weber, Karsten and Teply-Szymanski, Julia and Li, Ran and Luen,
-              Stephen J and Denkert, Carsten and Loibl, Sibylle and Lucas,
-              Olivia and Swanton, Charles and Speed, Terence P and Darcy,
-              Phillip K and Neeson, Paul J and Mackay, Laura K and Loi, Sherene",
-  abstract = "CD8+ tumor-infiltrating lymphocytes with a tissue-resident memory
-              T (TRM) cell phenotype are associated with favorable prognosis in
-              patients with triple-negative breast cancer (TNBC). However, the
-              relative contribution of CD8+ TRM cells to anti-tumor immunity
-              and immune checkpoint blockade efficacy in breast cancer remains
-              unknown. Here, we show that intratumoral CD8+ T cells in murine
-              mammary tumors transcriptionally resemble those from TNBC
-              patients. Phenotypic and transcriptional studies established two
-              intratumoral sub-populations: one more enriched in markers of
-              terminal exhaustion (TEX-like) and the other with a bona fide
-              resident phenotype (TRM-like). Treatment with anti-PD-1 and
-              anti-CTLA-4 therapy resulted in expansion of these intratumoral
-              populations, with the TRM-like subset displaying significantly
-              enhanced cytotoxic capacity. TRM-like CD8+ T cells could also
-              provide local immune protection against tumor rechallenge and a
-              TRM gene signature extracted from tumor-free tissue was
-              significantly associated with improved clinical outcomes in TNBC
-              patients treated with checkpoint inhibitors.",
-  journal  = "Cancer Cell",
-  month    =  feb,
-  year     =  2023,
-  keywords = "CTLA-4; PD-1; cancer immune surveillance; cancer immunotherapy;
-              immune checkpoint blockade; intratumoral CD8(+) T cells;
-              tissue-resident memory cells; triple-negative breast cancer;
-              tumor immunity; tumor infiltrating lymphocytes;Mouse study",
-  language = "en"
-}
-
 @ARTICLE{Okla2021-ev,
   title    = "Tissue-resident memory {T} cells in tumor immunity and
               immunotherapy",
@@ -5673,38 +5771,6 @@
   month    =  apr,
   year     =  2021,
   keywords = "Review",
-  language = "en"
-}
-
-@ARTICLE{Yang2021-ds,
-  title    = "Tissue-specific differentiation of {CD8+} resident memory {T}
-              cells",
-  author   = "Yang, Kun and Kallies, Axel",
-  abstract = "CD8+ tissue-resident memory T (TRM) cells play crucial roles in
-              defense against infections and cancer and have been implicated in
-              autoimmune diseases such as psoriasis. In mice and humans, they
-              exist in all nonlymphoid organs and share key characteristics
-              across all tissues, including downregulation of tissue egress and
-              lymph node homing pathways. However, recent studies demonstrate
-              considerable heterogeneity across TRM cells lodged in different
-              tissues - linked to the activity of tissue-specific molecules,
-              including chemokines, cytokines, and transcription factors.
-              Current work indicates that transforming growth factor
-              (TGF)-$\beta$ plays a major role in generating TRM heterogeneity
-              at phenotypic and functional levels. Here, we review common and
-              unique features of TRM cells in different tissues and discuss
-              putative strategies aimed at harnessing TRM cells for
-              site-specific protection against infectious and malignant
-              diseases.",
-  journal  = "Trends Immunol.",
-  volume   =  42,
-  number   =  10,
-  pages    = "876--890",
-  month    =  oct,
-  year     =  2021,
-  keywords = "chemokine receptors; integrins; nonlymphoid tissue;
-              tissue-resident memory T cells; transcription factors;
-              transforming growth factor $\beta$;Review",
   language = "en"
 }
 
@@ -5991,36 +6057,6 @@
   pages    = "1235--1246",
   month    =  jun,
   year     =  2010,
-  keywords = "Mouse study",
-  language = "en"
-}
-
-@ARTICLE{Gerlach2011-tz,
-  title    = "The descent of memory {T} cells",
-  author   = "Gerlach, Carmen and van Heijst, Jeroen W J and Schumacher, Ton N
-              M",
-  abstract = "Our T cell repertoire is shaped by antigen encounter. From a
-              naive T cell pool that contains millions of different T cells
-              with unknown specificities, pathogen infection leads to selection
-              of those T cells that can detect pathogen-derived antigens.
-              Following clearance of infection, a population of memory T cells
-              remains and protects the individual from severe reinfection. A
-              central question in the field has been how the generation of
-              long-lived memory T cells, versus short-lived (``terminally
-              differentiated'') T cells, is controlled. In this review we
-              discuss the models that have been put forward to explain the
-              generation of memory T cells after infection and the experimental
-              evidence supporting these hypotheses. Based on the available data
-              we propose a new model that stipulates that during immune
-              responses T cells do not acquire different fates that determine
-              their subsequent long-term survival but rather T cells assume
-              different states that simply reflect the likelihood of future
-              survival, states that can still be modulated by external signals.",
-  journal  = "Ann. N. Y. Acad. Sci.",
-  volume   =  1217,
-  pages    = "139--153",
-  month    =  jan,
-  year     =  2011,
   keywords = "Mouse study",
   language = "en"
 }
