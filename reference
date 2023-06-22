@@ -1804,6 +1804,7 @@
   pages    = "378--383",
   month    =  nov,
   year     =  2017,
+  keywords = "Peng Li papers",
   language = "en"
 }
 
@@ -3188,7 +3189,7 @@
   pages    = "E10888--E10897",
   month    =  nov,
   year     =  2018,
-  keywords = "TAK1; Yersinia; caspase-8; gasdermin; pyroptosis",
+  keywords = "TAK1; Yersinia; caspase-8; gasdermin; pyroptosis;Peng Li papers",
   language = "en"
 }
 
@@ -6182,7 +6183,8 @@
                NAIP--NLRC4 inflammasome for anti-bacterial defenses. In …",
   journal   = "Cell discovery",
   publisher = "nature.com",
-  year      =  2018
+  year      =  2018,
+  keywords  = "Peng Li papers"
 }
 
 @ARTICLE{noauthor_undated-qv,
